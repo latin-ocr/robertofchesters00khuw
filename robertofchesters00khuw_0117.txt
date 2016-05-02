@@ -1,0 +1,61 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 87
+
+first square. Of course when you add 21 to it the sum is equal likewise to
+ten of its roots which we desired to demonstrate.¹
+
+CONCERNING Roors AND NUMBERS EQUAL To A SQUARE
+
+Three roots and four are equal to x2.
+
+I suppose a square, which is α b c d, of which the sides are unknown3 this
+square, as we have said,
+equals three roots and four in
+number. If one side of any
+square is multiplied by unity
+you necessarily obtain one
+
+α ba b
+
+root of the same square. e f
+Therefore we cut off from the
+
+squareabcdthe areaajby d cd c
+the line e s and one side of Fxo. Π. rm. 12.
+
+thlS area We take tO be three, Incomplete figures. From the Columbia manuscript.
+
+constituting the number of
+the roots; let this side be the line a e. Now it is clear to us that the area
+e c amounts to the four which is added to the roots. Hence we bisect the
+side a e, representing three roots, at the point g. Upon this half construct
+a square, which is g k l e. Ι say that this square is made by the multiplica-
+tion of half of the roots by itself, that is, produced by one and one-half
+multiplied by itself. Then to the line g k we add the line k m, which is equal
+ᾗ to the line e d. The line g m equals the line g
+d, thus forming a square which is g 0. Since
+α d is equal to es and g d equal to e n, as
+they occur in the square g ο, it is evident
+that g a is left equal to n s. The line g ais
+
+9
+equal to the line g e, being half of the roots,
+that is, bisecting the roots, and it is further
+true that g e equals k l, for each measures
+e f the breadth of the area e m. Therefore k l
+-- equals n s. Again since d g equals e n,
+
+d 0 c being in the square g ο, and g e equals e Z, as
+
+FIG. 13.-C0mplctcd figure. From the they measure the same dimension of the
+C⁰¹u¹¹³b³³ manuscript· square g l, it is evident that the line e d is
+
+α
+
+¹ This paragraph is not found in the Libri version but appears in the Arabic as published by
+Rosen. The translation follows the Vienna version. The figure to be used in the geometrical
+demonstration to obtain by addition the second root of the given quadratic equation appears at
+the bottom of the preceding page. (Fig. 10.) The Boncompagni version (loc. cit. p. 35> varies
+by letting the middle point fall first within the side of the first square, and secondly without:
+Cum itaque dividitur per medium linea b e ad punctum z, cadet ergo inter puncta g e aut 1> g z
+sit hoc prius inter puncta b g.
+

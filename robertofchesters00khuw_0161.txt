@@ -1,0 +1,63 @@
+ADDITIONS TO THE ALGEBRA 131
+
+An Illustration os tlte lez‘rd T ype
+
+Four roots and twelve units are equal to a square.
+
+Find, that is to say multiply, half of the roots by itself, and four
+is obtained. To this add the 12 units, and 16 is obtained. Add the root
+of this⁷ 4, to one-half of the roots and 6 appears as the root of the square.
+Also whatever is given either greater or less than one square, reduce to one
+square and operate as indicated above.1
+
+The Explanation of tlte leree Types
+
+The explanation of the first type is as follows: let the square AB repre-
+sent x2. Then the side of this square will represent the root of x2. or x.
+When one side of this square is multiplied by the number of the roots, the
+quantity of the assumed roots is represented. Hence let there be applied to
+each side of the square the fourth part of the number of the roots, namely
+two roots to one side, two to another, and so on. Thus another square
+appears, lacking only four small corner squares of which each has every side
+equal to two, that is the fourth part of the number of the roots. There-
+fore by multiplying the fourth part of the number of the roots by itself four
+times, these four small corner squares are obtained, and this same result is
+obtained by the multiplicatiori of half of the roots by itself once. If then the
+product of half the roots multiplied by itself be added to the square and
+roots‚ the square is formed of which one side is equal in value to the line cd.
+Moreover, this side exceeds the side of the unknown square by the half of
+the roots, since the side of the unknown square has been extended by the
+fourth part at one extremity and by the fourth part at the other. Hence
+by subtracting the half of the number of the roots from the whole line cd
+the value appears of the root of the square which is sought.
+
+The proof of this follows from the fourth proposition of the second book
+of Euclid.²
+
+³x² -1-8-Υ =33; ³² 2²8³· ÷16 =49; x ÷4 =73 x =3;-1·² =9·
+
+⁴2x² ÷81=423 .x·² ÷4r = 21; :c 442· 44 = 253 x †2 =5; x =3.
+
+⁶ ἐπὶ -4- 4 x = 16& whence x² -θ- 8 ,ι’ = 33, as above.
+
+⁵x² 415 =8.1·; x² -Sx ÷x6 = 1;.1·-4 = τὲ 13 x =3or5. Both roots are positive,
+and so two solutions are given.
+
+⁷x² -4-71 = bx; x = bg'z ss V(bs2)² — n.
+
+The roots are imaginat-y if (bs'2)2 is less than n, as in the illustration which Scheybl gives3
+similarly, the two roots are equa] to each other and each equal to one-hali the coefficient of the
+roots if the square of this quantity is the same as the given constant, that is (bs2)² = n.
+
+¹4x ÷12 =x²; 1² —4.1·÷4 = 163 x -2 ἓ4; ,ι- =6.
+
+² Euclid ΙΙ, 4, following Heaffl, The Thirteen Books ⁰s Euclid’s Elements: “If a straight line
+be cut at random. the square on the whole is equal to the squares on the segments and twice
+the rectangle contained by the segments.'' In modern notation, (a 4— b)‘-' = α2 -ὺ- b² -ι- 2 ab,
+
+p.
+130
+
+D.
+130
+

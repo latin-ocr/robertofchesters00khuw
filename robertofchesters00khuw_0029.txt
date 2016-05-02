@@ -1,0 +1,50 @@
+ALGEBRAIC ANALYSIS BEFORE AL—KHOWARIZMI 11
+
+of the equation,
+ax²÷bx=c.
+
+Contemporary with Al-Khowarizmi is the Hindu writer Mahavi-
+racarya, whose arithmetical and algebraical work has been trans-
+lated into English by M. Rangacarya.¹ Rules are given in the
+sections devoted to algebra for the three types of complete quadratio
+equations. A peculiarity of the treatment is that the unknown
+quantity and the square root of the unknown appear, rather than
+the unknown and its square. The significance of the work is
+that it shows a persistence of interest in algebra in India from the
+time of t—{ryabhata Three centuries later Bhaskara (b. 1114 A.D.),
+another Hindu mathematician, made important contributions to
+the advance of the science.
+
+The brief survey which we have given of the study of algebra
+before the time of Mohammed ibn Musa does not at all purpose
+to present the sources from which the great Arab drew his inspi-
+ration. Greece undoubtedly took mathematical ideas from Egypt,
+as Rodet2 some years ago pointed out with reference to algebra.
+Even more definite evidence is presented by the Greek use of
+unit fractions as well as by the references to Egyptian mathe-
+matics which were made by Plato and Herodotus, and much later
+by Michael Psellus. Babylon and Greece were constantly exchang-
+ing ideas;³ a striking proof of this is the Greek use of sexagesima]
+fractions. India, too, was not out of touch with these neighbors
+to her west. Especially in the fields of religion and the closely
+associated astrology we have abundant evidence not only of inter-
+change of ideas between the East and the West but also of the
+recurrence in mediaeval times of ideas advanced by more ancient
+civilizations. Yet we need to notice that we are dealing with
+the independent appearances of algebraic ideas, and that the
+mathematics of Egypt, Babylon, Clima, Greece, and India was
+developing from within. Algebra is not, as often assumed, an
+
+1 M. Rangacarya‚ The Capita-sarm&ngralm cffillaltdvirdcdrya (Madras, governrnent
+press, 1912). Professor D. E. Smith gave a brief preliminary report of the work in the
+
+Bibliotheca Mathematz'ca, Vol. IX, third series. pp. 106—110.
+
+² L. Rodet, Sur les notations numbriques et alglbriques antbrieurement au XVI² sihcle
+(Paris, 1881), pp. 43-51.
+
+³ F. Cumont, Babylon und doegmfflisclze Astrasmmie. Neue jahrbiiclzer f. das klassisclze
+Allertum . . ., Vol. 27 (1911), pp. 1-1o; Τ lle Oriental Relzgz'ons iu Roman Paganism
+(Chicago, 1911) ; and Astrology ancl Rellgion among tlte Greeks and Romans (New
+York, 1912).
+

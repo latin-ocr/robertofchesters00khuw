@@ -1,0 +1,45 @@
+CHAPTER VI
+
+PREFACE AND AnnirloNs FOUND IN THE ARABIC TEXT oF
+AL-KHOWARIZMI'S ALGEBRA
+
+THE Arabic text of Al-Khowarizmi's algebra published by Rosen
+contains an author's preface which is not found either in the trans-
+lation published by Libri, or in that by Robert of Chester. As
+this reveals his conception of the purpose of the algebra‚ as well
+as some of the causes which led him to undertake the work, we
+present it here in the translation by Rosen.1 Such prefaces in
+Arabic works usually, just as this one, contained invocations to
+the Deity and to Mohammed his prophet: in consequence the
+Christian translators‚ who were commonly connected with the
+Church, were wont to leave them out. A summary of the sections
+in the Arabic text which appear in neither of the Latin transla-
+tions is also given since the Arabic-English work by Rosen is not
+widely available‚ and since these additions show that Al-Kho-
+warizmi had grasped the possibility of the application o't' the algebra
+to geometry and trigonometry. This application is frequently
+neglected to-day by teachers of elementary algebra.
+
+THE AL'THOR’S PREFACE
+
+“ In the Name os God, gracious and merciful ἱ '’
+
+“This work was written by Mohammed ben Musa, of Khowarezm. He corn-
+mences it thus:
+
+“ Praised be God for his bounty towards those who deserve it by their virtuous
+acts: in performing which, as by him prescribed to his adoring creatures, we ex-
+press our thanks, and render ourselves worthy of the continuance (of his mercy), and
+preserve ourselves from change ς acknowledging his might, bending before his
+power, and revering his greatness Ι He sent Mohamrned (on whom may the bless-
+ing of God repose l) with the mission of a prophet, long after any messenger from
+above had appeared, when justice had fallen into neglect, and when the true way of
+life was sought for in vain. Through him he cured of blindness, and saved through
+him from perdition, and increased through him what before was small, and collected
+through him what before was scattered. Praised be God our Lord ἔ and may his
+glory increase, and may all his names be hallowed — besides whom there is no God 3
+and may his benediction rest on Mohammed the prophet and on his descendants !
+
+¹ Rosen, T lte Algebra of Molzammea’ ben Musa, pp. 1—4.
+45
+

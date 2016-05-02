@@ -1,0 +1,50 @@
+154 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 medietatem rei maioris, ideo econtra res minor multiplicata cum medietate rei
+maioris producit rem maiorem, et duo multiplicata cum medietate rei maioris,
+producit rem maiorem. Binarius igitur est res minor, et quaternarius maior.
+
+Quaestio decima quarta
+
+s Diuisi 10 in duas partes, et multiplicaui vnam partem cum altera, et productum
+diuisi in differentiam inter partes, et resultarunt 55. Quaeritur, quae sint partes.
+Respondetur ex regula: 3 et 7.
+Regula. Multiplica rem cum 10 praeter rem, et fient 10 res excepto censu;
+deinde diuide 10 res excepto censu in 10 exceptis 2 rebus, quae sunt differentiainter
+10 partes, et exeunt 5} Si igitur econtra multiplicaueris ἦ cum 10, exceptis 2
+rebus, prouenient 10 res excepto censu. Multiplica igitur 55¹1 cum 107 exceptis 2
+rebus, et producuntur 52 den. et semis praeter 10 res et semissem. Atque haec
+omnia aequantur 10 rebus, excepto censu. Dic igitur⁷ restaurando res et denarios,
+qubd 2022 res aequentur 52} denariis et vni censui. Age igitur per caput quo census
+15 et numeri rebus aequantur, multiplicando medietatem radicum in se, et prouenient
+105T¹ff et quae sequuntur et caet.
+
+Quaestio decima quinta
+
+Quatuor radices census multiplicatae cum quinque radicibus eiusdem census,
+producunt duplum census et 36. Quaeritur de censu.
+κο Respondetur ex regula: 2.
+Regula. Multiplica 4 res cum 5 rebus, et fiunt 20 census qui aequantur 2 censi-
+bus et 36 denariis. Diuide ergo 36 in 18 et exeunt 2. Atque tantus est censuS,
+quod examinari poterit.
+
+Quaestio decima sexta
+
+25 Subtraxi a censu eius vnam tertiam et tres denarios, multiplicaui deinde re-
+siduum cum seipso, restituit haec multiplicatio ipsum censum. Quantus igitur
+census sit, quaeritur.
+
+Respondetur ex regula: 9.
+Regula. Subtracta tertia et tribus a tribus tertiis rei, manent ξ rei praeter 3 dena.
+
+30 quae sunt radix census. Multiplica igitur ξ rei praeter 3 denr cum se, et producen-
+tur ξ census et 9 den. praeter 4 res, et illud aequatur radici. Ergo ξ census et 9
+denarii valent 5 res. Reducas ἓ ad vnum censum, eundem, denarios etiam et res
+cum duobus et quarto multiplicando, et inuenies, qubd census et 20} denarii
+aequantur 1 1 rebus et '¹1- Age igitur per caput quo census et numeri rebus aequan-
+
+35 tur. Accipiendo medietatem radicum quae est 5} et multiplicando eam cum
+seipsa, et fiunt 31}}, de quibus subtrahe 20} et manent ῙῙξ-ῗ, cuius radix est 33„
+quam ad medietatem radicum adde, quia non per subtractionem non deunies ad
+intentum, et veniunt 9, census qui quaerebatur.
+

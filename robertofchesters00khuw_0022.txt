@@ -1,0 +1,53 @@
+4 INTRODUCTION
+
+Several propositions of Euelid present geometrica] equivalents
+of the solution of various types of quadratio equations, not involv-
+ing negative coefficients, and further study of similar problems
+appears in Euclid's Data. Of this nature are the fifth, sixth, and
+eleventh propositions of the second book of the Elemenls and the
+twenty-seventh, twenty-eighth, and twenty-ninth of the sixth book,
+and problems 84, 85, 86, and others of the Data.¹ Problem 84,
+for example, reads :
+
+“If two straight lines include a given area in a given angle,
+and the excess of the greater over the less is given, then each of
+them is given.’'
+
+This corresponds to the equations:
+
+xy=k2
+x-jlel.
+The two following problems (85 and 86) correspond to the
+simultaneous quadratic equations:
+
+r1y= k2,
+
+x÷y = a,
+and xy= k2,
+χρ -ye Ξ a2.
+
+The eleventh proposition of the second book of the Elements
+furnishes the solution of the equation
+
+x² -ι- ax = α2
+or even more general,
+,τῖ ÷ ax = b2.
+
+As this so well illustrates the geometrical solution, it is given in
+full, following Heath's Euclz'd.
+
+BOOK II OF THE Elements (ff Emlz'd, PRoposmoN 11
+
+“ To cut a given straight line so that the rectangle contained by the whole and
+one of the segments is equal to the square on the remaining segment.
+
+“ Let AB be the given straight line; thus it is required to cut AB so that the
+rectangle contained by the whole and one of the segments is equal to the square on
+the remaining segment.
+
+¹ References and citations from the Elements are to Heath‘s Euclid and the Data (Greek
+and Latin) edited by H. Menge, Leipzig. 1896. being Vol. VI of [ξω-[ἠῢς opera munia. edi
+Heiberg et Menge. An English translation of the Data is found in the numerous editions
+of lee Elements t3f Euclz'd by Simson. The numbering of the problems is slightly differ-
+ent in the two versions.
+

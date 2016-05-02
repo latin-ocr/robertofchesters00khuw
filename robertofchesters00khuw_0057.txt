@@ -1,0 +1,52 @@
+THE INFLUENCE OF AL—KHOWARIZMI’S ALGEBRA 39
+
+influenced by Al-Khowarizmi. Paciuolo gives¹ the equation
+«ΥΕ-1· 10x= 39
+
+and presents the geometrical explanation as given by the Arab.
+In certain others of the early printed algebras the fundamental or
+type equations as given by Al-Khowarizmi do not appear. Of
+such are the works by Grammateus appearing in 1518, by Chris-
+tian Rudolph in 1525,”·’ and by Estienne de la Roche in 1520,3
+whose work is known to have been a plagiarism of the thzparty
+by Nicolas Chuquet (1484).⁴ However‚ many other writers did
+continue the type problems of the first systematic treatise. Thus
+Elia Misrachi ⁵ in an arithmetic which appeared in Constantinople
+in 1534, eight years after the author's death, devotes a section to
+algebra‚ and this is to a large extent an adaptation of the Algebra
+and Almucabala. In the work by Perez de Moya (1562) θ and in
+the arithmetic of 1539 by Cardan we come upon the type equations.
+Mennher de Kempten‚ a Dutch mathematician‚ states that Algo-
+rithmo was the first writer on algebra. Chaligai‚ the Italian, and
+the Spaniard Pedro Nufiez follow the peculiar order of equations
+found in Al-Khowarizmi. In these and other ways we might
+trace through the centuries the persistent influence, direct and
+indirect‚ of our Arabic author, but that is beside our present
+purpose.
+
+Among the writers who made a serious study of Robert of
+Chester's translation we must place Johann Scheybl (1494—1570)‚
+who was professor of mathematics at Tiibingen from about 1550
+to the time of his death. He was the author of an algebra which
+appeared in two editions in Paris, 1551 and 1552. This treatment
+of algebra was first published in 1550 by Scheybl, prefixed to his
+Greek and Latin edition of the first six books of Euclid. Scheybl
+
+¹ Summa de arithmetica (Venice. 1494), fol. 146 rec.
+
+² I have not seen a copy of this edition. My remark is based upon Die Coss Chrsstqffs
+Rudolffs (Konigsberg, 1553) by stifel. From certain notes about the history of the ter-
+minology and the words dragma, res and substantia, and the like. it appears that Stifel
+had seen a copy of Robert of Chester‘s version.
+
+³ Smith, Rara Arz'tlzmetica. p. 128.
+
+⁴¹ A. Marre, Mam-e sur le'colas Clzuquet el son T riparly en la sciense des nombrcs,
+Boncompagni's Bullelino di bzblz'ografia e di storia delle scz'ellZe matcmaliclze e fissche. Vol,
+XIII (1880), pp. 555—592; the text of the Triparty. same volume, pp. 593—659 and pp.
+693—814; the third section from 736—814 deals with quadratio equations and problems.
+
+⁵ G. Wertheim, Die Aritlnnetzr des Elia illz'srczcln' (Braunschweig, 1896), pp. 54—59.
+
+⁶ Arithmetica practica, y speculativa (Salamanca. 1562).
+

@@ -1,0 +1,64 @@
+ADDITIONS TO THE ALGEBRA 139
+
+the articles, or both negative, then the fourth product is positive. If, how-
+ever, one term in one binomial is positive and the other corresponding term
+is negative then this product should be subtracted from the other products.
+
+There F ollows an I llustration of this Rule
+
+To multiply 8 by 17 is the same as to multiply 10 less 2 by 20 less 3, and
+it will be done in this way. Multiply 10 by 20, giving 2003 then multiply
+negative 2 by 20, giving 40, which subtracted from 200 leaves 160; in the
+third place multiply 10 by negative 3, giving 30, which subtracted from 160
+leaves 130; in the fourth place multiply negative 2 by negative 3, giving
+positive 6, which being added gives 136. Therefore 8 times 17 gives 136.
+
+The calculation follows: 10 — 2
+
+20-Ξ
+
+200 - 40
+
+— ΞΟ -1- 6
+136, etc.
+Positives by negatives you subtract, but other products you add. When
+roots are equal to both number and squares⁷ the half (is multiplied by the
+half) and you subtract, otherwise you add that which you obtain.¹
+
+Three other lines of verse which illustrate the three types os equations.
+
+A square and 8 roots equal 33.
+
+A square together with 6 equals 5 roots.
+
+Four roots and 12 are equal to a square.
+
+In further explanation: other examples os multi plication.
+
+Suppose you are to multiply 10 by 10 less x.
+
+Multiply 10 by 10, giving 100. Then multiply 10 by (negative) x„ giving
+negative 10 x. Hence the product is 100 units less 10 x.
+
+Second. Suppose you are to multiply 10 by 10 plus x.
+
+Multiply 10 by 10 and by x, giving 100 units and 10 x.
+
+Third. Suppose you are to multiply 10 plus x by 10 plus x.
+
+Multiply 10 by 10, giving 100. Then multiply x by 10, giving positive
+10 x. Thirdly, multiply 10 by x. giving positive 10 x. Fourthly. multiply
+x by x, giving positive x2. Hence the product is 100 units, 20 x and x2.
+
+Fourth. Suppose you are to multiply 10 less x by 10 less x.
+
+Multiply 10 by 10⁷ giving 100. Then multiply negative x by 10, giving
+negative 10 x. The total, so far, is 100 less 10 x. Thirdly, multiply 10
+by negative x, giving negative 10 x, or, in all, 100 less 20 x. Fourthly,
+multiply negative x by negative x, giving x² positive. The final product will
+be 100 units, and x² less 20 x.
+
+¹ These verses are somewhat obscure. The meaning probably is that in the type x² ψ n = bx
+the number is subtracted from the square 01 half the coefficient 01 x, whereas in the other two
+types 01 complete quadratics you subtract the number from this square.
+

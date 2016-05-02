@@ -1,0 +1,52 @@
+PREFACE AND ADDITIONS FOUND IN THE ARABIC TEXT 47
+
+given for the area of a square and triangle. Three formulas are
+given for the circumference of a circle and the writer evidently
+recognizes them all as approximations- The formulas are:
+
+(1) c=3}d‚
+(2) c=xsffid2
+(3) [3ξὲξὲ
+
+The area of a circle is given as A=d2—}d2—{ ofssd‘z Other
+simple areas and volumes are discussed. Application of the
+algebra is found in two problems. One of these deals with finding
+the altitude of a triangle of which the sides are given; the other
+with inscribing a square in a given triangle.
+
+As the problems, on finding the altitude of a triangle‚ being
+given the lengths of the sides, and on inscribing in an isosceles
+triangle a square, show that Al-Khowarizmi had an appreciation
+of the possibilities of the algebra, Ι present one of the pmblems,
+following Rosen’s translation.
+
+“ If some one says: ‘There is a triangular piece of land, two of its sides having
+10 yards each, and the basis 12 3 what must be the length osone side of a quadrate
+situated within such a triangle?’ the solution is this. At first you ascertain the
+height of the triangle, by multiplying the moiety of the basis, (which is six) by itself,
+and subtracting the product, which is thirty-six, from one of the two short sides
+multiplied by itsels, which is one-hundred; the remainder is sixty-sour3 take the
+root from this3 it is eight. This is the height of the triangle. Its area is, therefore,
+forty-eight yards : such being the product of the height multiplied by the moiety of
+the basis, which is six. Now we assume that one side of the quadrate inquired sor
+is thing. We multiply it by itsels; thus it becomes a square, which we keep in mind.
+We know that there must remain two triangles on the two sides of the quadram, and
+one above it. The two triangles on both sides of it are equal to each other: both
+having the same height and being rectangular. You find their area by multiplying
+thing by six less half a thing, which gives six things less half a square. This is the
+area of both the triangles on the two sides of the quadrate together. The area of
+the upper triangle will be found by multiplying
+eight less thing, which is the height, by half
+one thing. The product is four things less
+half a square. This altogether is equal to No( φο
+
+the area of the quadrate plus that of the three
+triangles: or, ten things are equal to sorty-
+
+eight, which is the area of the great triangle. *ο
+One thing from this is four yards and four—
+
+fifths os a yard 3 and this is the length os any s
+
+side of the quadrate. Here is the figure: '³ 3} 4} 3}
+

@@ -1,0 +1,53 @@
+ADDITIONS TO THE ALGEBRA 147
+
+Rule. You would let one part equal x and the other 10 — x; then
+multiply x by 10 — x, giving 10x — 2⁴². Afterwards take the quadruple
+of the total, which gives 40 x — 4 x2. This equals the product of x multi-
+plied by x, which is 27². Now under the supposition of our question, x² is
+equal to 40 x — 4 x2. Hence x² equals 8 x, whence x² is 64, and the root of
+it is the number 8. One of the parts of 10 is then 8, and consequently
+the remaining part is 2. This problem, then, is reduced to the chapter
+wherein a square is equal to roots.
+
+Second question
+
+I divided 10 into two parts, and multiplied 10 by itself. Theresult
+of this multiplicatiori was equal to the product of one of these parts multi-
+plied by itself and by two and seven-ninths. What are the parts Ρ The
+answer in accordance with the rule is 6 and 4.
+
+Rule. Let x represent one of the two parts, which multiplied by itself
+becomes x2. Double this square and add to it seven-ninths of one square,
+giving 2} 21⁶² or ²55 x2. Hence if the whole square consists of nine parts (ninths)
+that will be the fifth part and four-fifths of one-fifth of the whole, which is
+twenty-five ninths. But under our supposition the product is equal to
+100. Therefore take one-fifth, and ξ of one-fifth, of the number 100y
+namely 36, which is the value of x2. The root of this, namely 6y is one part
+of 10 in the proposed problem. This question then is referred back to the
+chapter in which a square is equal to a number.
+
+Third question
+
+I divided 10 into two parts in such a way that the one part divided by
+the other equaled 4. The question is, what are the parts? The answer in
+accordance with the rule is 8 and 2.
+
+Rule. Let x represent one part, and 10 — x the other. Now if by the
+division of 10 — x by x there results 4, it follows that by the multiplication
+of 4 by x you will obtain 10 -— x3 4 x„ then⁷ equals 10 — x, and hence 10 pre-
+cisely equals 5x. The value of x is 2. This question is referred back to
+that chapter in which a root is equal to a number.
+
+F ourtlz question
+
+Ι multiplied one-third 2⁴2 plus one unit by one-fourth x² plus one unit
+and the result was 6 3. What is the value of x2? The answer in accordance
+with the rule is 24.
+
+Rule. Multiply one-third (x) by one-fourth (x), and one-twelfth ‚15² will be
+the result ; then multiply one unit by ᾗ (x), and ὲ x will be the result ; again
+multiply ὲ (x) by one unit, giving ὲ x, and finally a unit by a unit, giving a
+unit. The sum total of this multiplicatiori is 1¹5 ‚1⁷² -Ι- ὲ x -4- } x -ψ- 1 which
+equals 6 3 units. Take one unit from both sides⁷ and then, according to the
+rule that it is always necessary to reduce to an integral square, the whole
+

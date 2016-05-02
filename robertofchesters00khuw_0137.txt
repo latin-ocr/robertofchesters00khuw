@@ -1,0 +1,56 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 107
+
+obtain thus the quantityl which was divided. And as in this problem the
+quotient is 4 and the divisor is given as x, you multiply 4 by x, giving 4x for
+the quantity which was divided⁷ io. equal to 10 — x. Therefore complete
+10 - x by adding x to 4x, giving 10 equal to 5x. Whence it follows that
+x is 2. Thus this problem has led you to the third of the six chapters in
+which we treated the type, roots equal to numbers.
+
+Fourth problem, illustrating the ¹fourth chapter
+
+Multiplyssxand one unit by ὲ xand one unit so as to give as the product 20.²
+
+Explanation. You multiply {x by ix, giving ὲ of ὲκῗ, and a unit mul-
+tiplied by {x gives {x to be added. Similarly {x multiplied by a unit gives
+{x and then a unit by a unit gives a unit. Then this multiplication
+amounts to ὲ of ὲκῖ, and {x and {x and one a unit, equal to 20 units.
+You subtract one unit from 20 units, giving 19 units equal to ὲ of ÷x²
+together with {x and {aa Now then you complete the square,3 i.e. you
+multiply throughout by 12. This gives x2 and 7x equal to 228. Then
+halve the roots, ie. divide them equally, and multiply one—half by itself‚
+giving 12} You add this to 228, and you will have 240{. From the root
+of this, 15}v subtract 33, leaving 12 as the root of the square. Now then
+this problem has led you to the fourth of the six chapters in which we
+treated the type, a square and roots equal to numbers.
+
+Fisth problem, illustrating the fisth chapter
+
+Ι divide ten into two parts in such a way that the sum of the products
+obtained by multiplying each part by itself is equal to 58.4
+
+¹ Robert of Chester employs substantia here in the non-technical sense of “ substance ’¹ or “quan-
+tity.’' So also census in the Libri version and mal in the Arabic version are used with the same
+significance. This was a common usage of Arabic writers. Abu Kamil followed this practice,
+on occasion, and Leonard of Pisa, who drew extensively from Abu Kamil. copied this peculiarity
+from the Arabs: see scritti di Leonardo Pisana, Vol. Ι, p. 422. and my article, The Algebra os
+Abu Kamil Shoja‘ bon Asiam, Bibliotheca Mathematica, third series, Vol. XII (1912—1913)‚p. 53.
+In particular, also, consus appears in this sense in the Liber augmenti et diminutionis voralus nu-
+meratio divinationis, es co quod sopientes Indi posuerunt, quemv Abraham compilavit et secundum
+librum qui Indorum dictus est composuit, published by Libri, Histoire des πίονα-ες mathematiques en
+Italic, Vol. Ι, Paris, 1838, pp. 304—371. This work is probably by Abraham ibn Esra.
+
+²(}.t†1)(}x÷1)= 2031¹2x2÷{⁷x†}x÷1 = 203 ,1³² ÷7x÷12= 2403 x² ÷7x= 228;
+{of 7 is 35, (33ss = 12}‚ 228 -ξ- 12} = 240}‚ 4240} = 15¹3, 15} - 3} = 12, which is the value of x.
+
+³ The present usage of the expression “to complete the square'' is quite different from that of
+our text. Here it means, of course, to make the coefficient of x² unity and this also corresponds
+to the operation termed by the Arabs, algebra, as opposed to the operation of almuqabala‚·
+see the article al-Djabr uva-’l-Mulqabala by Professor H. Suter in The Encyclopedia os Islam,
+Vol. I (Leyden, 1913), pp. 989-990.
+
+⁴x² ÷(10-x)²= 583 2x2- 20x ÷100= 58; 2x²÷42= 20x; x²÷21 = 102⁶, which is a
+problem that appears earlier in the text.
+
+ 
+

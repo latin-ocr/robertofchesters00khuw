@@ -1,0 +1,72 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 93
+
+10, 100, and positive 2 multiplied by 10 gives positive 20. Also 10 multi-
+plied by negative r gives negative 10. This sum, moreover, amounts to
+110. But positive 2 multiplied by negative 1 gives negative 2. Whence
+the sum total of this multiplicatiori equals 108.¹ And this illustrates the
+type of process when units are to be added and others to be subtracted.²
+
+Likewise in the case of fracffions, if the problem is a unit and one-sixth
+(to be multiplied) by a unit and one-sixth. You say, unit by unit gives
+unit3 and one-sixth of a unit by a unit gives one-sixth of a unit. Also one-
+sixth by a unit gives one-sixth and one-sixth by a sixth gives one-sixth of a
+sixthy i.e. one thirty-sixth. The total will be a unit and ὲ and ἐς of a unit.
+
+In the sanie manner, if you multiply a unit less one-sixth by a unit less
+one-sixth, the product will be the same as ἓ multiplied by its equal. Whence
+this product equals 25 thirty-sixths of one unit, i.c, ξ and ὲ of one-sixth.
+
+Now the method of this multiplicatiori is that you multiply unit by unit,
+giving unit; then negative one-sixth by unit⁷ giving negative one-sixth;
+then you multiply a unit by negative one-sixth‚ giving one-sixth negative.
+Therefore two-thirds of one unit remain. And negative one-sixth multi-
+plied by negative one-sixth produces one-sixth of one—sixth positive. The
+sum total therefore amounts to ξ and one-sixth of one-sixth.³
+
+¹ Scheybl adds : Moreover this is evident by the following calculation :
+
+10÷2
+10- 1
+100-4-20
+
+—10
+
+ 
+
+ 
+
+110
+-—²
+
+108
+
+Similarly to the example which immediately precedes this Scheybl adds: as follows:
+
+ 
+
+10 - 2
+10 — Ι
+100 —- 20
+-Ε
+[0
+÷ 112]
+71[72]
+
+² Evidently considerable interchange of text was made at this point by Scheybl. The passage
+inserted in the footnote to line 6 should be compared with the 28 lines of Scheybl's text on
+page 94, which are not found at that point in the Dresden and Vienna manuscripts.
+
+³ Scheybl adds: The calculation follows:
+
+ 
+
+ 
+
+unit — ὲ
+unit -ὲ
+unit — ὲ
+giving ξ
+Add ὲ of ὲ.
+
+Whence the product of this multiplicatiori finally amounts to ξ plus ἐς,
+

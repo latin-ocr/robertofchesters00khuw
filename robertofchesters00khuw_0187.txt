@@ -1,0 +1,54 @@
+ADDITIONS TO THE ALGEBRA 157
+
+Seventeenth question
+
+Ι divided a drachma and one-half between a man and a part of a man, and
+to the man there fell the double of that which fell to the part (of a man).
+The question is, how large was the part? The answer is ὲ.
+
+Rule. A man and part of a man is the same as 1 -ί- x. Hence 1} is divided
+by 1 ἢ- x, giving 2 x. Then multiply 2 x by 1 -Ι- x, giving 2 x²-†— 2 x, which
+is equal to 1}- Therefore by reduction to one square, say that x² -†— x is
+equal to ἓ of a unit. Operate now by the chapter in which squares and roots
+equal number, multiplying one-half of the roots by itself‚ obtaining ὲ ; this
+added to Ξ makes 1, of which the root is 1 ; from this subtract the half of the
+
+number of the roots, giving ὲ, the value of the part that is sought.
+
+Eiglzteentlz question
+
+Ι divided a drachma among some men, and each one obtained an unknown
+amount (x); I then added one man to the group and again Ι divided a
+drachma among thern ; to each man there now fell ἐ drachma less than before.
+The question is, how many men were there? The answer is 2.
+
+Rule. In considering this problem you multiply the first number of men
+by the decrease ; then you multiply the product by the number of men -l- 1,
+and the quantity will be obtained. However you should note that this is not
+a general rule ; you have ὲχῖ -f- ἐπὶ which is equal to 1. Hence by com-
+pleting the quantity you obtain x² ψ x equal to 6 units. Operate there-
+fore by the chapter in which squares and roots equal numbers. Multiply-
+ing one-half of the roots by itself, ἑ is obtained. Add this to the 6 units,
+giving (δὴ then the square root will be 2}- From this one-half of the
+roots is subtracted, leaving 2, which is the number of men.
+
+lee last section, on commercial transactions
+
+There are certain customs of business which hold in buying, selling, ex-
+change, and the like, according to two methods. The first method is illus-
+trated: 10 things are sold for 6 drachmas, how many are sold for 4? The
+second: 10 things are sold for 6 drachmas, what is the price of 4?
+
+In the first case 10 things is the number priced, according to that which
+is given, and 6 drachmas is the price, as given; the question, how many,
+represents the unknown number of things, according to the question, and
+4 drachmas the price, according to the question. In the second case, the
+price and the quantity, as given, are the same as before; the question
+represents the price, according to the problem, and 4 is the corresponding
+quantity. Whence the price given is said to be in opposition to the price
+sought, and similarly the quantity given to that sought. Multiply therefore
+among themselves, and divide the product by the third kind, and the fourth
+unknown will appear by the rules of four proportionals.
+
+End of the annotations to explain the rules of algebra.
+

@@ -1,0 +1,65 @@
+84 LIBER ALGEBRAE ET ALMUCABOLA
+
+1 est in quo linea t e c lineam a h in quantitate deuincit, quadratum e n m c ponamus.
+Vnde et iam manifestum, cum linea t c aequalis sit linea l c, nam ipsae in quadrato
+t l aequales protenduntur, similiter et linea e c lineae m c aequalis, quia ipsae quad-
+ratum e m aequali dimensione circundant: aequalium igitur ab aequalibus lineis
+⁵ subtractione facta, linea t e lineae l m aequalis relinquetur quod est notandum.
+Rursus manifestum est, quoniam linea g d aequalis est lineae α lt, cum ipsae in
+latitudine areae lz g aequali dimensione tenduntur, sed linea α h aequalis est lineae
+h b cum ipsae in vno quadrato appareant. Item quoniam linea g l aequalis est
+lineae d e, cum ipsae in vno quadrato reperiantur aequales, sed linea d e aequalis
+10 est lz e, cum ipsae decem radices per medium diuidant3 linea igitur d l residuum
+lineae g l, lineae e b ex linea e lz residuae aequalis erit: atque tandem, cum linea
+t e lineae l m ex superiori demonstratione, non sit inaequalis, area quam linea t e
+et e b circundant, comprehensae sub l m et d l lineis areae aequalis erit. Area
+igitur t b aequalis est m d areae. Et iam manifestum est, quoniam quadratum
+ις tl 25 in se continet, cum ergo ex eodem quadrato t l areas d t et m. d, quae videlicet
+duabus areis g e et t b, 20 et vnum in se continentibus, sunt aequales, subtraxerimus,
+quadratum n c nobis manebit, qui simul numerum, qui est inter 25 et 21, obtinet.
+Et hic numerus est quaternarius, cuius videlicet radicem duo designant, quae
+latus e c adimplent. Hoc autem latus aequale est lineae ε b, quoniam e c aequale
+20 est d l lateri, cum ipsa in latitudine areae d c aequalia protendantur. Iam mani-
+festum est, quoniam d l aequalis est lineae ε b, quando igitur e h quae sunt duo,
+ex e lt, quae sunt radicum medietas, quam quinarius ostendit numerus, abstuleri-
+mus, linea h li ternarium ostendens numerum restabit. Ternarius igitur numerus
+radicem primae demonstrat substantiae.
+25 Quod si contra lineam e c lineae e lt, quae medietatem radicum continet,addideri-
+mus, colligentur 7, quae lineam n h ostendunt. Et tunc radix substantiae maior
+
+1. uincit. e et n m c faciamus pro ε n m c te et e l> circundant om. V; area igitur quam linee
+ponamus. l e, e α circumdant D.
+
+2. Sed pro Vnde. manifestum est, quam et 13. comprehensae sub . . . aequalis erit om. V;
+linea c t similis. nam -l- et. similis est aree quam linee m l. l d circumdant, D.
+
+3. similis est. quoniam et pro quia. 14. t α pro ι b. area pro quadratum.
+
+4, diuisio pro dimensio ubique. aequalium 15. contineat. area pro eodem quadrato.
+. . . iacta om. areas -l- areas D. et om.
+
+5. linea -4- igitur V: ἦ- ergo D. restat con- 16. e I, c g 21 V; α l, c· g 20 et unum D.
+similis quod est notandum omi consimiles V; similes D.
+
+6. Et iam eciam pro Rursus. quoniam —†- et, 17. similitudinem pro simul V. numeri.
+similis sit et sic saepius. b h pro α h cl sic infra. 19. et hoc (hic D). autem om. simile est
+quoniam pro cum. ipsae -l- est V. ε α V; similis est c a D pro aequale est lineae e b.
+
+8. d e V; g d D proh b. cum ipsae . . . lineae similis pro aequale.²
+d e om. V; Nam quoniam linea g l et linea h c in 20. lateri om. Nam et ipse pro cum ipsa
+quantitate habentur consimiles quoniam linea g l aequalia om. continentur. Et iam.
+similis est linee d c D. 21. ά vel (?) prodi D lineae om. e α pro e b.
+
+9. nam pro cum. reperiuntur. aequales om. quando igitur e b om. V; Cum e α D.
+sed om. lineaque. 22. radicis. quaternarius D et quinarius in
+
+10. Nam eciam et pro cum. diuidunt. dl marg. man. 2.
+residuum lineae g I, lineae om. 23. designans pro ostendens.
+
+11. ε α pro ε b. residua. erit -l- linee dlex 25. Vel pro Quod D. contra om. linea pro
+linea g l residue. Sed et pro atque tandem, lineam D. e n (ε h D) super lineam c h (eh
+cum· D) addiderimus. quae -Ι- solum V; quae -ἱ-
+
+12. ex superiori demonstratione om. iam semel D.
+fuerat consimilis pro non sit inaequalis. area quam 26. et (om. V) fiunt 7. a⁰¹ pro maior D.
+

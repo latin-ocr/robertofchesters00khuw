@@ -1,0 +1,54 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 123
+
+is indicated by the question as to the quantity. The rule of this kind of
+problem is to consider the three quantities which are given or known, of
+which two are always found to be inversely proportional to each other.
+These two are to be multiplied one by the other and the product of the mul-
+tiplication is to be divided by the third number, likewise known, which is
+inversely proportional to the unknown. Now the quotient os this division
+will be the number which is sought, and it is inversely proportional to the
+number by which you divide. But lest some error be made in this type
+of problem we give an example of it.l
+
+A Problem os the F irst Type
+
+Ten for six, how many for four?
+
+Observe now in what manner the given numbers are related, according to
+what we have said. For when you say ‘⁴ ten,” you give the measure, and when
+you say “for six,'' you state the price. When you ask, “how much ? '' you
+give the unknown, called Almuhen or MaguL and saying “for four,'' you
+mention the cost. You note further that three of these, that is, 10, 6, and
+4, are known and definite numbers, and the question is concerning the
+fourth or unknown number. If now you take account of the rule given, you
+multiply the first by the last, that is, 10 by 4, for they are the known and
+definite numbers which are inversely proportional to each other. It is
+necessary to divide the product, that is, 40, by the other known and definite
+number, that is, the measure, which is 6. This gives 6} designating the
+unknown number. This number is inversely proportional to the number
+six, which in Arabic is called Alszarar.
+
+A Problem of llze Second Type
+
+An example of the second type of such problems is given by the question,
+“ten for eight, what is the cost of four ? ''
+
+Ten now is the measure which is inversely proportional to the unknown
+cost, and eight designates the price which is inversely proportional to the
+quantity, 4. Theret'ore multiply one of the two known and inversely pro—
+portional numbers by the other, that is, 4 by 8, and you will have 32. Divide
+32 by the third known number, 10, which is the measure. This gives 3},
+designating the cost which is inversely proportional to the number by which
+
+¹ As we have noted in the introduction, page 44, this paragraph is not carefully translated by
+Robert of Chester, and he added the last sentence. The corresponding passage in the Libri ver-
+sion (op. cit„ pp. 268e260) is entitled, Capitulum conventionum ncgociatorum, and begins as fol-
+lows: Scias quod conventiones negotiationis hominum, que sunt de emptione et venditione et
+cambitione et conductione et ceteris rebus, sunt secundum duos modos, curn quattuor numeris
+quibus interrogator loquitur.
+
+Leonard of Pisa (Liber abbaci. p. 2 and p. 83) follows somewhat the terminology of this ver-
+sion in his discussion. The title (p. 2) is given: Dc emptione et venditione rerum uenalium ct
+similium. The section opens (p. 83), as follows: ‘In omnibus itaque negotiationibus quattuor
+numeri proportionales semper reperiuntur, ex quibus tres sunt noti, reliquus uero est ignotus.'
+

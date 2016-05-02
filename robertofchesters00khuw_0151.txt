@@ -1,0 +1,59 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 121
+
+equal to 6 units. I take one-half of the roots and I multiply the half by
+itself. I add the product to 6, and of this sum I take the root. The re-
+mainder obtained after subtracting one-half of the roots will designate the
+first number of girls, and this is two.
+
+F ifteentlz Problem
+
+If from a square I subtract four of its roots and then take one-third of the
+remainder, finding this equal to four of the soors, the square will be 256.¹
+
+Explanation. Since one-third of the remainder is equal to four roots,
+you know that the remainder itself will equal 12 roots. T herefore add this
+to the four, giving 16 roots. This (16) is the root of the square.
+
+S ixteentlz Problem
+
+From a square I subtract three of its roots and multiply the remainder
+by itself 3 the sum total of this multiplicatiori equals the square.2
+
+Explanation. It is evident that the remainder is equal to the root,
+which amounts to four. The square is 16.
+
+These now are the sixteen problems which are seen to arise from the
+former oneS‚ as we have explained. Hence by means of those things which
+have been set forth you will easily carry through any multiplicatiori that
+you may wish to attempt in accordance with the art of restoration and
+opposition.
+
+CHAPTER ΟΝ MERCANTILE TRANSACTIONS³
+
+Mercantile transactions and all things pertaining thereto involve two
+ideas and four numbers.‘² Of these numbers the first is called by the Arabs
+Almuzahar and is the first one proposed. The second is called Alszian, and
+recognized as second by means of the first. The third, Ahnuhen‚ is unknown.
+The fourth, Alchemon‚ is obtained by means of the first and second. Further,
+these four numbers are so related that the first of them, the measure, is
+inversely proportional to the lasty which is cost. Moreover, three of these
+numbers are always given or known and the fourth is unknown, and this
+
+¹ Rosen, p. 663 Libri, p. 296. ὲ (.x·² — 4 x) = 4 x.
+
+In the Arabic text these two problems precede: x² . 3 x = 5 x² and (x2 — ἐπὶ) . 3 x = x².
+
+² Rosen, p. 673 Libri, p. 206. (πθ - 3 x)² = πῖ, whence x² — 3 x = x.
+
+The problem, A· 4- xlx² — ,ι- = 2, precedes. This is one of two problems given in the German
+excerpt of 1461 from the algebra of Al-Khowarizmi (Gerhardt, Monatsbericlzl d. Keinigl. Akad. der
+Wissensclzaftcn :u Berlin, 1870, pp. 142—143).
+
+³ The famous ‘rule οἱ three' is the subject oi discussion in this chapter.
+
+⁴ The two ideas appear to be the notioris of quantity and cost; the four numbers represent
+unit of measure and price per unit, quantity desired and cost of the same. These four technical
+terms are al-mzcsd Ἔν, al-si'r‚ al-tlzaman‚ and al-muthammin, and further al-maqal; see p. 44.
+
+ 
+

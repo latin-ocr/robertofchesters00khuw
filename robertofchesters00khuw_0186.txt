@@ -1,0 +1,57 @@
+156 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 Quaestio decima septima
+
+Diuisi drachmam et semissem inter homines et partem hominis, et contigit
+homini duplum eius quod parti. Quanta igitur fuerit pars, quaeritur.
+Respondetur ex regula: ὲ,
+5 Regula. Idem est homo et pars, ac si diceres, vnum et res. Diuidatur ergo
+drachma et semis in vnum et rem, et venient 2 res. Multiplica deinde 2 res cum
+drachma et re et fient 2 census et 2 res, quae aequantur drachmae et semissi.
+Reducendo igitur ad vnum censum, dic quod census et res, aequentur ἒ drachmae.
+Age igitur per caput, quo census et res numero coaequantur, multiplicando me-
+10 dietatem rei in seipsa, et fit quarta, quae addita ad -Ξ facit vnum, cuius radix est
+
+vnum, a qua subtrahe medietatem rei et manet medietas, pars quae quaeritur.
+
+Quaestio decima octaua
+
+Diuisi drachmam inter homines et prouenit simul res, deinde addidi eis hominem
+
+et postea diuisi drachmam inter eos, et cuilibet contigit minus quod prius sexta
+15 parte drachmae. Quot igitur fuerint homines, quaeritur.
+Respondetur ex regula: 2.
+
+Regula. Huius quaestio consideratio est vt multiplices homines primos cum
+diminuto inter diuisiones; deinde multiplices aggregatum cum hominibus primis
+et cum homine addito, et proueniet census tuus. Scias autem, quod hoc non sit
+
+20 vniuersaliter verum vt credo, sexta census et sexta radicis, quae aequantur drach-
+mae. Dic erg0, res integrandO, quod census et res aequentur 6 drachmis. Age
+igitur per caput quo census et res numeris coaequentur. Multiplicando medie-
+tatem radicum cum seipsa, et fit quarta, quam adde ad 6 drachmas et veniunt δὲ.
+Inde radix quadrata erunt 2 et semis a qua subtracta medietate radicum, manent
+
+25 2, qui est numerus hominum.
+
+Sequitur vltimo de rebus venalibus
+
+Sunt autem conuentiones negociationum quae fiunt in venditione, emptione,
+permutatione, et caeteris rebus, secundum duos modos.
+Primus est modus, vt si dicatur, decem res venditae sunt 6 drachmis, quot
+30 igitur veniunt 4 drachmis?
+Secundus modus est, vt si dicatur, decem res venditae sunt 6 drachmis,
+quantum igitur est precium 4 rerum ?
+In primo casu, 10 res est numerus appreciati secundum positionem, et 6 drach-
+mae est praecium secundum positionem; quaestio quot, est numerus ignotus
+35 appreciati secundum quaerentem, et 4 res precium secundum quaerentem. In
+secundo casu, precium et appreciatum secundum positionem, sunt vt prius, et
+quaestio et precium secundum quaerentem et 4 res est appreciatum secundum
+quaerentem. Vnde precium secundum positionem dicitur opponi appreciato
+secundum quaerentem et appreciatum secundum positionem dicitur opponi
+40 precio secundum quaerentem. Multiplica igitur inter se, et productum diuide
+in tertium modum et exhibit quartus ignotus per regulas quatuor proportionalium
+quantitatum.
+
+Finis annotationum pro declaratione regularum Algebrae.
+

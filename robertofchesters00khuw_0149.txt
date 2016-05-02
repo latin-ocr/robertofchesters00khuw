@@ -1,0 +1,67 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 119
+
+T welfth Problem
+
+I divide a unit and 0116-11311 111 such a way that the larger part shall be
+double the smaller.¹
+
+Explanation. I let the greater part be to the lesser as one is to x ; whence
+Ι say divide 1} units by one unit —{- x, giving 2 x. Therefore I multiply
+2 x by one unit -l- x, giving 2 x² -l- 2 x, which is equal to 1} units. Ι reduce
+this, therefore, to one square, that is, of each thing I take the half. Ι say
+then that x2 4- x is equal to Ξ 01 3 111111. You now proceed in the manner
+which we have explained.
+
+T lzirteentlz Problem ²
+
+Ι multiply a square by two-thirds 01 115611 and have five as a product.³
+
+Explanation. Ι multiply x by two-thirds x. giving }x²‚ which equals
+five. Complete ξ x² by adding to it one-half of 115611, and one x² is obtained.
+Likewise add to five one-half 01 115611, and you have γὲ, which equals x2.
+The root of 11115, 111611, 15 1116 number which when multiplied by two-thirds
+of itself gives five.
+
+F ourteentlz Problem
+
+I divide a unit among girls in such a way that each one receives the same
+fractional part 01 1116 thing. Now 11 Ι add one girl to the number, each
+receives for her part one-sixth (01 3 111111) 1655 111311 1161016.4
+
+Explanation. I multiply the number 01 girls at the first by the fractional
+part representing the difference. Then Ι multiply this product by the
+second number 01 girls⁷ and finally I divide this product by the difference
+between the first and second number 01 girls. This completes the given
+quantity.⁵ Hence I multiply in this instance one x, representing the first
+number 01 girls, by the difference between the two amounts, ὲ, and ὲκ 15
+obtained. Then Ι multiply this product by the second number 01 girls,
+which 15 1 —l— x, and }x² —†- ὲ x is obtained; this being divided by a unit
+equals a unit. I complete the square, that is, I multiply the square by six,
+and I have x² 4- x. Likewise I multiply the unit by six 1111115, giving x² -l— x
+
+¹ strictly, Ιὲ - x = 2 x, whence x = ὲ. The English translation 0111115 problem is adapted by
+Rosen (p. 59) to conform to the solution in the explanation, and this follows closely our explana-
+1
+
+Ιῖί .
+1 42 *t = 2 x, and to this our text leads.
+
+Ι 3111 indebted to Professor W. H. Worrell for the following precise translation 01 the Arabic
+text of the passage: “If it is said to divide a unit and a half between a man and a part 01 3 111311,
+111611 1116 man has received the like of the fraction.'' The Libri text, pp. 285—286‚ varies from
+this only in stating that the man receives double that which the fractional part (of a man) receives.
+
+² The following problem precedes in the Arabic text: (x — ᾖ ,ιτ - ᾗ x — 4)'-⁷ = ,1- † 12.
+
+³ x · ξ x = 5. whence x = Vrglz.
+
+ 
+
+tory text. The equation which is given by Rosen is:
+
+ 
+
+⁴ Rosen, pp. 63·64; Libri, p. 286. Our text is faulty. The problem is 23⁶-ss Ξὲ-
+
+⁵ Latin substantia, ‘square‚’ obviously 311 error.
+

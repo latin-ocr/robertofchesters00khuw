@@ -1,0 +1,60 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 69
+
+are composed of these three kinds: namely, roots, squares ¹ and numbers.
+However number alone is connected neither with roots nor with squares by
+any ratio. Of these then the root is anything composed of units which can
+be multiplied by itself, or any number greater than unity multiplied by
+itself : or that which is found to be diminished below unity when multiplied
+by itself. The square is that which results from the multiplication of a
+root by itself.
+
+Of these three forms, then, two may be equal to each other, as for
+
+example ;
+Squares equal to roots,
+
+Squares equal to numbers, and
+Roots equal to numbers.2
+
+CHAPTER I
+
+C oncernz'ng §quares equal to roots ³
+
+The following is an example of squares equal to roots: a square is equal
+to 5 roots. The root of the square then is 5, and 25 forms its square which,
+of course, equals five ot its rootsst
+
+Another example: the third part of a square equals four roots. Then
+the root of the square is 12 and 144 designates its square.5 And similarly,
+five squares equal 10 roots. Therefore one square equals two roots and the
+root of the square is 2. Four represents the square.⁶
+
+In the same manner then that which involves more than one square, or
+is less than one, is reduced to one square. Likewise you perform the same
+operation upon the roots which accompany the squares.
+
+CHAPTER ΙΙ
+
+Concerning squares equal to numbers³
+
+Squares equal to numbers are illustrated in the following manner: a
+square is equal to nine. Then nine measures the square of which three
+represents one root.⁷
+
+Whether there are many or few squares they will have to be reduced in
+the same manner to the form of one square. That is to say, if there
+
+¹ Literally ‘substances‚' being a translation of the Arabic word mal, used for the second power
+of the unknown. Gerard of Cremona used census, which has a similar meaning.
+
+² These are the three types designated as ‘simple ' by Omar al-Khayyami, Al-Karkhi, and
+Leonard of Pisa. They correspond in modern algebraic notation to the following:
+
+ιιι-2 = bx, ιιι-2 = n, and bx = n.
+
+³ These and the following chapter headings were doubtless supplied by Scheybl.
+
+⁴x² = 5 x, ,r = 5, ‚1⁸² = 25. ⁶ ἐ x²=4 x. x = 12, πῖ = 144.
+
+⁶5.r=10, κεῖ, .t²=4. ⁷x²=9‚ x=3.
+

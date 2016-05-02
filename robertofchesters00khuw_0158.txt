@@ -1,0 +1,53 @@
+1 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+Combinationem triplicem in censibus reperimus, aut enim census et radices
+aequantur numeris, aut census et numeri aequantur radicibus, aut vero radices
+et numeri censibus aequantur.
+
+s Exemplum combinationis primae
+
+Census et octo radices eius 3 3 denariis aequipollent. Quaeritur ergo, quantus
+est census 'r'
+Respondetur: 9.
+Regula est, vt productum ex medietate radicum cum seipsa multiplicata,
+10 scilicet 16, ad numerum, 33, addamus et resultant 49, cuius radix est 7. Atque
+ab hac radice medietatem radicum, 4 seilicet, subtrahamus, et manebunt 3, quae
+sunt radix census. Est igitur census 9.
+Item si dicatur, duo census et octo radices sunt aequales quadraginta duobus
+denariis. Reduc quaestionem ad vnum censum sic. Si 2 census et 8 radices sunt
+15 42 denarii, igitur Vnus census et 4 radices sunt 21. Operando igitur per illud ex
+duplicatione et peruenies in fine ad intentum.
+Item si dicas, medietas census et 4 radices sunt aequales 16} denariis.
+Reduc quaestionem ad integrum censum, et dimidia totum, et patebit in fine
+intentum.
+
+20 Exemplum combinatiom‘s secundae
+
+Census et 15 denarii valent octo radices, quantus igitur est census ?
+Respondetur: 9, vel 25.
+Regula. Duc medietatem radicum in se, et fiunt 16. Ex quibus subtrahe 15
+denarios et manet vnum, cuius radicem, scilicet vnum, subtrahe a medietate radi-
+25 cum, et manent 3, quae sunt radix census. Vel illud vnum adde ad medietatem
+radicum, et veniunt 5 quae sunt radix census. Patet igitur, quaestionem secun-
+dum vtranque partem esse veram, ideo oportet vt eas determines distinctiue.
+
+C orollarium
+
+Notandum si quadratum medietatis radicum minus fuerit quam est vltimus
+
+30 numerus propositus, vt si dicatur, census et 15 numeri sunt aequales 6 radicibus,
+
+tunc quaestio impossibilis erit. Si vero fuerit vltimo proposito numero aequalis
+
+vt si dicatur, census et 9 denarii valent 6 radices, tunc medietas radicum est radix
+
+census. Si autem quaestio venerit cum pluribus censibus, aut paucioribus vno
+censu⁷ reduc ad vnum censum, et operare vt supra dictum est.
+
+35 Exemplum combinationis tertiae
+
+Quatuor radices et 12 denarii censui aequipollent.
+
+Reduc, hoc est multiplica, medietatem radicum in se, et fiunt 4. Quibus adde
+128
+

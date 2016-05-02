@@ -1,0 +1,58 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 97
+
+Yet another problem: how much is 10 -4- x by x — 10? 10 multiplied
+byx gives 10 x, and x by x gives positive x²; also 10 by negative 10 gives
+100 units negative, and x multiplied by negative 10 gives negative 10 x.
+You can say, therefore, that this sum total amounts to x2 less 100 units.
+
+If moreover some one asks what is the product of 10 units and one-half x
+multiplied by one-half a unit less 5 x, you proceed thus: 10 multiplied by
+one-half a unit gives 5 units and one-half of x by one-half a unit gives one-
+fourth x ; also 10 by negative 5 x gives negative 50 x. Whence the sum total
+of this multiplication amounts to 5 units‚ from which are to be subtracted ¹
+49 x and {xx Then {x multiplied by negative 5 x gives two and one-half
+x² negative. The sum total of the multiplicatiori amounts to 5 units‚ with
+two and one-half x²‚ and 49x and {x to be subtracted.2
+
+Another problem: how much is 10 -Ι- x multiplied by x — 10? This
+is the same as x 4- 10 by x — 10. Whence you proceed in this manner:
+x multiplied by x gives x‘2‚ and 10 by x gives 10 positive roots; also x multi-
+plied by negative 10 gives negative 10 x. Whence the 10x to be added
+(positive) and the 10x to be subtracted (negative), or taken away, cancel
+each other, since the first adds as much as the second takes away and x²
+alone remains. Then 10 by negative 10 gives 100 units to be subtracted
+from x2. This total product therefore amounts to x‘2 less³ 100 units.
+
+ΟΝ INCREASING AND DIMINISHING4
+
+The fact must be recognized that every root of any given square is
+unknown3 it is also doubled or tripled, etc. in such a way that by doubling
+and tripling it, by the multiplication of its square, a number is formed of
+which one root is equal to two or three roots of the given unknown square.
+All of this turns out to be like the multiplication of any number beyond
+unity, all in natural order. For if you wish to double the roots, you multiply
+
+¹ Error made by Scheybl, who writes “added'‘ instead of “subtracted.’'
+
+2
+³ Scheybl writes adiectis for abiectis. The problem is, of course, that x -ψ- 10 multiplied by
+,τ — 10 gives .r'-’ — 100.
+
+⁴ An algebraical work with this title is supposed to have been written by ALKhowarizmi.
+
+The Libri and the Arabic versions follow with four problems which do not occur in Robert of
+Chester's translation. However, Scheybl takes up three of these problems in his additions, on
+pages 142—144 of this work.
+
+These problems, following Rosen, op. rit„ p. 27, are as follows: ⁴‘ Know that the root of two
+hundred minus ten, added to twenty minus the root of two hundred, is just ten. The root of
+two hundred, minus ten, subtracted from twenty minus the root of two hundred, is thirty minus
+twice the root of two hundred; twice the root of two hundred is equnl to the root of eight
+hundred. A hundred and a square minus twenty roots, added to fifty and ten roots minus two
+squares, is a hundred and fifty, minus a square and minus ten roots. A hundred and a square,
+minus twenty roots. diminished by fifty and ten roots minus two squares. is fifty dirhems and
+three squares minus thirty roots. I shall hereafter explain to you the reason of this by a figure,
+which will be annexed to this chapter.''
+
+²(10÷ 1)e -5.ν) =5 -40}.r — 2322.
+

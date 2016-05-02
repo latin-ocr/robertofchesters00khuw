@@ -1,0 +1,62 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 127
+
+RULES CORRESPONDING TO THE SIX CHAPTERS OF
+ALGEBRA
+
+First. When roots are equal to a number, divide the number by (the
+number of) the roots, and the quotient represents the desired quantity.¹
+
+Second. When squares are equal to a number, divide the number by
+(the number of) the squareS, and the root of that which you obtain repre-
+sents the desired quantity?
+
+Third. When roots are equal to squares, divide (the number of) the roots
+by (the number of) the squares, and the quotient represents the desired
+quantity.³
+
+Fourtlz. When a number is equal to the sum of squares and roots, divide
+by (the number of) the squares. Take one-half of (the number of) the
+roots after the division and multiply it by itself. To this product add the
+number. The root of this sum less one-half of the number of roots‚ repre-
+sents that which is sought.4
+
+F istlz. When roots are equal to a number and squares, divide the roots
+and the number by (the number of) the squares. Take one-half of (the
+number of) the roots after the division, and multiply it by itself. From this
+product subtract the number; the root of the remainder subtracted from
+one-half of (the number of) the roots is the desired quantity.⁵ But if it is
+not possible ⁶ to subtract the root of the remainder from one-half of (the
+number of) the roots, it is permissible to add the same.
+
+S ixtlz. When squares are equal to a number and roots, on this side divide
+by (the number of) the squares. Take one-half of (the number of) the roots
+after the division, and multiply it by itself. To this product add the
+number; the root of this sum plus one—half of (the number of) the roots
+represents that which is sought.⁷
+
+¹ax =n; x :essm
+
+²01² =n; x² =assn3 x = <W
+
+³ ax² = bx3 x = hsta.
+
+⁴ 02⁴2 ψ bx = n; x = ‘sk'bs'z α)2 ÷ ula — blz a.
+
+⁵ ‹za-² ÷ n = [λη x = bsz α ss Ns(bss2 ιι)2 - usa.
+
+⁵ It is always possible to subtract the root of the rernainder here from one-half of the num-
+ber οἱ the roots, even from the standpoint of the mathematician of the fourteenth century who
+made this table of rules, for the remainder would always be positive, since the square root of
+(bsz α)2 — nf‘a is always less than bs'z α.
+
+⁷ (11² = bx 4-7131· = bs2 α -4- V(bss2a)2 ÷›1,·st1.
+
+The six rules with similar algebraic symbolism are found also in Codex Draedmsis, C. 80¹²²;
+see Wappler, Programm, loc. cit., p. 11.
+
+ 
+
+ 
+
+ 
+

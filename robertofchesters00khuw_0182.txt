@@ -1,0 +1,51 @@
+152 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 accipe quintam partem et quintam quintae, et patebit, quod 10 res vni censui et
+24 denariis aequentur. Age igitur per caput, quo census et numeri rebus aequan-
+tur, multiplicando medietatem radicum cum seipsa, et producuntur 2 5; a quibus
+subtrahe 24 et manet vnitas, cuius radix est vnitas. Hanc radicem subtrahe a
+
+5 medietate radicum, et manent 4, quae sunt vna diuisionis pars. Et nota, quod
+cum illud quod resultat ex diuisione primae partis in secundam alicuius totius,
+multiplicetur curn illo quod resultat ex diuisione secundae partis in primam, illud
+quod prouenit semper idem sit.
+
+Quaestio vndecima
+
+ιο Diuisi 10 in duas partes et multiplicaui Vnam illarum cum 5 et productum diuisi
+in reliquam partem, et exeuntis medietatem addidi ad productum ex multipli-
+catione primae partis cum 5, et totum aggregatum fuit 50. Quaeritur.
+Respondetur ex regula: 8 et 2.
+Regula. Ex 10 accipias rem; hanc multiplicabis cum 5, et fient 5 res. De-
+15 beres diuidere 5 res in 10 praeter rem, et addere medietatem exeuntis ad 5 res.
+Sed hoc idem est, ac si diuideres medietatem 5 rerum in 10 praeter rem, et adderes
+exeuntem totum ad 5 [res]. Vtraque enim operatio producitur 50. Si ergo diuidas 2
+res et semissem in 10 praeter rem, exeunt 50 praeter 5 res, eo quod addito producto
+ad 5 res, prouenirent 50. Cum igitur constet quod multiplicato illo quod prouenit
+20 ex diuisione cum diuisore redeat census tuus, qui est 2 res et semis. Multiplica
+igitur 10 praeter rem cum 50 exceptis 5 rebus, prouenient 500 et 5 census exceptis
+100 rebus⁷ quae omnia aequantur duabus rebus et semissi. Reduc igitur totum ad
+vnum censum accipiendo quintam partem totius, et patebit, quod 100 et census,
+exceptis 20 rebus aequentur medietati rei. Restaurando igitur, dic quod 100 et
+25 census aequentur 20 rebus et medietati rei. Age igitur per caput quo census et
+numeri rebus aequentur, multiplicando medietatem rerum cum se, et prouem'ent
+105 et 1¹—5; a quibus subtractis 100 manent 55¹5, cuius radix est 2}; quibus sub-
+tractis a medietate radicum, et manent 8 vna diuisionis pars.
+
+Quaestio duodecima
+
+30 Diuisi 10 in duos partes, et multiplicatio vnius partis cum seipsa produxit
+numerum continentem alteram partes octogesies semel. Quaeritur de partibus.
+Respondetur ex regula: 9 et 1.
+Regula. Multiplica 10 praeter rem cum se, et fient 100 et census, praeter 20
+res quae aequantur 81 rebus. Restaurando igitur dic, quod 100 et census aequen-
+35 tur 101 rebus. Age nunc per caput quo census et numeri rebus, aequantur, et
+veniet tandem vnitas, vna diuisionis pars.
+
+Quaestio decima tertia
+
+Duo sunt census, quorum maior excedit minorem in duobus, diuisi autem
+maiorem in minorem, et exibat medietas maioris. Quaeritur.
+40 Respondetur ex regula: 2 census minor et 4 maior.
+Regula. Pone rem pro censu, et dic, quia res minor diuidens maiorem producit
+

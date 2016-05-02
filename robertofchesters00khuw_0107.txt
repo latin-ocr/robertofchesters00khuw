@@ -1,0 +1,55 @@
+THE BOOK or ALGEBRA AND ALMUCABOLA 77
+
+to the units, it follows that a root of the square will be the same as the half
+of the roots which accompany the square, without either addition or dim-
+inution.¹ Whenever a problem is proposed that involves two squares, or
+more or less than a single square, reduce to one square just as we have
+indicated in the first chapter.
+
+CHAPTER VI
+
+C oncerning roots and numbers equal to α square
+
+An example of this type is proposed as follows: three roots and the
+number four are equal to a square.2 The rule for the investigation of this
+kind of problem is, you see, that you take half of the roots, giving one and
+one-half; this you multiply by itsels. producing οὲ. ΤΟ 2} add 4, giving
+ὑὲ, of which you then take the square root, that is. 2}— To 2} you now add
+the half of the roots, or Ῑὲ, giving 4, which indicates one root of the square.
+Then 16 completes the square.³ Now also whatever is proposed to you
+either more or less than a square, reduce to one square.
+
+Now of the types of equations which we mentioned in the beginning of
+this book, the first three are such that the roots are not halved, while in
+
+the following or remaining threey the roots are halved, as appears above.
+
+GEOMETRICAL DEMONSTRATIONS
+
+We have said enough. says Al-Khowarizrni‚ so far as numbers are
+concerned, about the six types of equations. Nowy however, it is necessary
+that we should demonstrate geometrically the truth a
+of the same problems which we have explained in
+numbers. Thereiore our first proposition is this,
+that a square and 10 roots equal 39 units.
+
+The proof is that we construct a square of un-
+known sides, and let this square figure represent the
+square (second power of the unknown) which together b
+with its root you wish to find. Let the square, FIG- 1r—Thisfigure ap-
+
+then, be a b, of which any side represents one root. pffirgiamssnhnscssetcffi
+
+¹ Condition for equal roots, 172 — 4 a( = 0. —
+
+² 3x÷4 = .x·‘-'; {os 3 is 1},(1{)2 = εξ, 2} ÷4 = δὲ, vo} = 2¹5, 23-4- 1} = 4, the root.
+
+³ The solution of the general type lvx-bn καθ, reduced by division to ἒπ-ὶ-Ξῑκὲ, is
+b 2
+
+x = χΙ(ῇό -l- ξ -†- ᾖ, and only the positive value of the mdical is taken, since the negative
+
+value would give a negative root of the proposed equation.
+
+ 
+

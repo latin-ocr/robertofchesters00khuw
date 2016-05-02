@@ -1,0 +1,36 @@
+136 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 aequales, cum per subtractionem aequalium ab aequalibus, linea n h lineae d e
+aequalis sit. Eadem n h linea, propter aequalitatem, lineae m n aequalis erit.
+Igitur superficies lz l et m s aequales. Duae igitur superficies d n et lt l simul
+sumptae, ex communi illa noticia, si aequalibus aequalia adiiciantur, vni superficiei
+
+5 d s quae 12 continet, aequales erunt. Vnde si numerus 12 addatur ad quadratum
+e k, cuius latus vel radix est linea e g, medietas numeri radicum, resultabit quadra-
+tum d l, cuius latus vel radix est linea d g. Si igitur illi radici addatur medietas
+numeri radicum, quae est linea g c, linea d c, quae est latus census, proueniet.
+Patet ergo propositum.
+
+10 Sequuntur figurae geometricae
+
+ns b
+Ξ[.ἶῐῆ .
+
+Vel sub alia forma, sic· .
+ί..ὦ
+b e a
+
+Sequuntur multiplicatio cum additis et diminutis
+
+ 
+
+Sicut idem est multiplicare compositum cum composito, et multiplicare vtram-
+que partem compositi cum vtraque parte compositi, vt sic fiat quadruplex multi-
+15 plicatio, scilicet articuli cum articulo et digiti cum articulo, deinde articuli cum
+digito, et quarto digiti cum digito. Comsimiliter potest fieri quadruplex multipli-
+catio, vbi articulus et digitus cum articulo praeter digitum multiplicare debet, et
+similiter vbi articulus praeter digitum cum articulo et digito, vel contra, multiplicari
+debet. Vnde indicimus quadruplicem multiplicationem, atque in omni multi-
+20 plicatione tali praedicta haec regula notanda est.
+Si digiti tam in multiplicando quam in multiplicante additi cum articulis aut
+

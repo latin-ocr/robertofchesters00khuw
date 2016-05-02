@@ -1,0 +1,56 @@
+6 IN TRODUCTION
+
+Algebraically we proceed by subtracting Ξ from both members‚
+
+giving x= Τ - {⁶
+
+This corresponds to the line AF in the figure which is
+BE — Α E.
+
+Analytical solution of the quadratio equation appears quite
+definitely in the works of Heron of Alexandria, who flourished
+about the beginning of the Christian Era. Heron states in effect
+that given the sum of two line segments and their product then
+each of the segments is known.l However, he goes farther than
+any work of Euclid in applying this to a numerical example,
+
+144 x(14 —x)=6720.
+
+Without putting this into the form of an equation‚ Heron states γ
+that the approximate value ofx is 82—5, and this evidently indicates
+an analytical solution. The geometrical garb is absolutely clis-
+carded in a problem in the Geomelry doubtfully attributed to
+Heron.2 The problem is to compute the diameter of a circle
+given the sum of the area, the circumference, and the diameter,
+summing an area and lengths, entirely contrary to Greek usage.
+The form of the result, practically
+
+ffl-m,
+
+II
+
+ 
+
+x:
+
+indicates that the equation
+
+}}x²÷2÷·‘³-x=212
+was put in the form
+121 x²÷638x=(212)(154).
+
+Somewhat similar problems3 in which lines and areas are
+summed appear in Greece in the period between Heron and
+Diophantus (about 250 A.D.) as well as in the works of the
+latter. One of these problems is to find a square whose area and
+perimeter together equal 896 (x‘2-l-4x=896). The solution pro-
+
+¹ Heron. Men-1211, ed. Schone (Leipzig. 1903), pp. 148—151.
+
+2 Cantor, Ι (3), p. 405 ς Heron, Geometrsa, ed. Hultsch (Berlin, 1864), p. 1333 Heremis
+opera, ed. Helberg, Vol. IV, Geometria. p. 381 ς Heath, Diophantus, ppt 63-64.
+
+³ Heiberg and Zeuthen, {seber einige Aufgabcn der nnheslimmtcn Analyzik, Bibliotheca
+Mathematz'sa, Vol. VIII, third series, pp. 118—134. The date is conjectural. See Heath,
+Diophantus. pp. 118-1 21.
+

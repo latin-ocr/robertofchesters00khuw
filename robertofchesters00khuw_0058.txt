@@ -1,0 +1,52 @@
+40 INTRODUCTION
+
+prepared for publication the Latin version of Al-Khowarizmi‘s
+algebra as translated by Robert of Chester. His manuscript copy
+is now in the Columbia University library. The title page¹ reads,
+in translation: ‘ A brief and clear exposition of the rules of algebra
+by Johann Scheybl, Professor of Euclid in the famous University
+of Tiibingen. To this is added the work, On given numbers, by
+that most excellent mathematician Jordanus. Furthermore there
+is presented the book containing the demonstrations of the rules
+of algebraic equations‚ written some time ago in Arabic. All of
+‘these are now published for the first time by the above-mentioned
+Scheybl. These are corrected as far as possible and illustrated
+by appropriate and useful examples.'
+
+The algebra contained in this manuscript is not the same as
+the published work mentioned above. However‚ the method of
+treatment is not materially different. The work by Jordanus
+Nemorarius, entitled De numeris datis, dates from the early part
+of the thirteenth century. The importance of the work, chiefly
+with respect to the development of algebra, is well attested by the
+fact that Regiornontanus and Maurolycus ‘² both planned to publish
+the work, although neither carried the plan to completion. The
+work was published in 1879 by T1·eutlein.²3 The Scheybl version
+contains the complete list of 113 propositions to which Chasles
+made reference in 1841. These are divided into four books con-
+taining respectively 30, 26, 22 and 35 propositions. Scheybl adds
+solutions by the rules of algebra4 in which he employs the same
+algebraic notation as in his published algebm, but he does not
+give the complete text of the work of Jordanus, The other two
+works in the manuscript are presented in this monograph. The
+manuscript was carefully prepared, but, for some reason which we
+do not know, the publication was not accomplished.
+
+¹ Breuis ac dilucida regularum Algebrae descriptio, autore Joanne Scheubelio. in inclyta
+Tubingensi academia Euclidis professore ordinario.
+
+Huic accedit liber consumatissimi mathematici Jordani, de datis.
+
+Liber praeterea, continens demonstrationes aequationum regularum Algebrae, Arabice
+olim conscriptus.
+
+Quae (corr. Qui) ambo ab eodem Scheubelio nunc primum. quantum fieri potuit, emen-
+dato (corr. emendati) in lucem aedita, et aptissimis atque utilibus exemplis illustrata sunt.
+
+‘²- Treutlein, Ablmmz'lzmgen zur Gesclt. d. nlatlz.. Vol. 11 (Leipzig, 1879), pp. 127—128.
+
+²³ Treutlein, lac. cd„ pp. 127—166; corrected by Curtze. Zcitsrlzrift f. Mathematsk und
+Physik. Vol. XXXVI (1891), pp. 1—23. 41-63. 81-95. and κει-138.
+
+⁴ Frequently adding, Sequitur solutio ex regula :Ilgcbraa
+

@@ -1,0 +1,44 @@
+MANUSCRIPTS OF ROBERT OF CHESTER'S TRANSLATION 57
+
+occurs later in the contiguous text; this type of error is the most
+frequent one made in copying Mss. The “jump from like to like ”
+is particularly prone to occur when the parallel passages recur in
+similar parts of neighboring lines; in this event the omission
+approximates the length of a line. Another frequent error in
+copying is to omit entirely one or more lines or to repeat a whole
+line. An examination of the lengths of all such passages leads
+to a fairly definite notion of the length of line of the parent man-
+uscript. It need hardly be stated that any omission is more
+readily made when the appearance, at least, of sense is preserved
+after the omission. In our mathematical text the recurrence of
+similar words and phrases is frequent, and in many places the
+omission of a line is possible with the preservation of a measure
+of meaning.
+
+In Mss. which antedate the tenth century, the length of any
+omission is determined with comparative ease as a certain num·
+ber of letters, for few abbreviations, and those of a standard type,
+were used. However, in Mss. of the type of the Dresden and
+Vienna Mss„ with which we are primarily concerned, the length
+in letters of any omission is by no means a fixed and definite
+quantity. The abbreviations used by the copyists of the twelfth
+to the fifteenth century commonly varied, not only from page to
+page, but even from line to line. On the first page of the Vienna
+ΜΞ. (Plate I), where the conscious effort would be made, probably,
+to be uniform in notation, the copyist wrote t'bus in line 18, and
+tribus in line 26, while on the following page he wrote thu),
+and elsewhere he writes 3¹³⁹). Another possible form is triba
+although this does not appear in our Ms. This word then could
+count either for 3, 4, 5, or 6 letters. Similarly on this same first
+page (line 11) duplicatione is written duplicaffl, while triplicatione,
+which immediately follows, is written t'plicatione. In the Dresden
+MS. there are entirely similar variations. Thus in line 5 of fol.
+340b (Plate II) 5² appears for quinla, in line 7 q'nle for quintae,
+quinario in line 15, and ql‘tiqz and qi'cqg in lines 29 and 32 for
+qm'nque; in line 37 substanciam appears in full and in the next
+line as sabam.
+
+In counting the number of letters in any omission Ι have
+assumed the common abbreviations used in the contiguous pas-
+sages of the Vienna Ms.; for as that is quite certainly the oldest
+

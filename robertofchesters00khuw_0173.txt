@@ -1,0 +1,56 @@
+ADDITIONS TO THE ALGEBRA 143
+
+On tlte division os radicals
+
+Notice, if you wish to divide the root 01 9 by the root 01 47 divide 9 by
+4, giving 2} Of the result take the root, which is Ιὲ, and the resulting
+number will be the quotient 01 1116 root divided by the root. But 11 you
+wish to divide two roots 01 9 by the root 01 1116 number 4, you seek first the
+double 01 the root 01 9 according to that which we have explained, and
+divide the product by the number 4.
+
+On the multiplicatiori os radicals
+
+If you wish to multiply the root 01 1116 number 9 by the root of the num-
+ber 4, multiply 9 by 4 and the root 01 1116 product is that which you seek.
+Other multiplications are similar.
+
+Thus 11 you wish to multiply the root 01 ὲ by the root 01 ὲ, you multiply
+ὲ by ὲ, giving ὲ, and the root of this is that which you seek.
+
+In the same way 11 you wish to multiply two roots 01 9 by three roots 01
+4⁷ you first try to find, as we have explained above, the square whose root
+is twice the root 01 1116 number 9. Similarly you try to find the square
+whose root is three times the root 01 1116 number 4, and you multiply the one
+square by the other. The root 01 1116 product will be that which you seek.
+
+N ow follow four problemsl: First problem
+
+The root of 200 less 10, added to the double 01 11131 which is subtracted‚
+in other words to 20, will be equal to 10 when the root of 200 is 5111)11361661.2
+
+The problem says that if from the root 01 1116 number 2007 10 15 subtracted‚
+and 11 111611 20 15 added to that which remains⁷ and 11 110111 11115 511111 1116 1001
+01 1116 number 200 15 taken away, we finally have left that which was sub-
+tracted, namely 10. This will be proved in the following manner:
+
+Let a b represent the root 01 200, and from it cut off the line ac, repre-
+senting 10. Then to the line a b join b d, a line which is 20 (units in length).
+From 11115 6111 011 b e, equal to the line a b, and from b e cutoff the line bs equal
+to the line ac; the line c b will be equal to the line se. Moreover the line
+c b 15 1116 1001 01 200 1655 10, and the line ed 15 20 1655 1116 1001 01 200. The
+line c b 15 equal to the line se, whence the line sd equals the root 01 200 1655
+10 plus 20 less the root 01 200. Moreover I shall prove that this line sd
+15 exactly 10. The line b d is 20, and as bfis equal to the line α cy which was
+taken as 10, it follows then that the line f d, on account 01 11115 equality, is
+10, which was to be proved.
+
+¹ This and the following three problems 316 not given by Robert of Chester, although the
+Libri and Arabic versions give the first, second, and fourth problems, and the Boncompagni text
+the first and second. Scheybl was probably familiar with the other Latin text, the one published
+by Libri. The geometrical figure in the Libri text is an L-shaped figure, and the same reversed
+in the Arabic text. In each οἱ these the vertical line represents wlff).
+
+² The geometrical demonstration of this simple algebraic addition is relatively complicated;
+in algebraic symbolism, 1]ἷο - 10-1- 20 — wlff: 10, and similarly below.
+

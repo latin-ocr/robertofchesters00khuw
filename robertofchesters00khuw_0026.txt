@@ -1,0 +1,58 @@
+8 INTRODUCTION
+
+Diophantus makes the following explicit statement regarding his
+intention of writing a systematic treatise on the quadratio
+equation:¹
+
+“This should be the object aimed at in framing the hypotheses of propositions,
+that is to say, to reduce the equations‚ if possible, until one term is lest equal to one
+term; but 1 will show you later how, in the case also where two terms are left equa]
+to one term, such a problem is solved.¹’
+
+So far as we know this promise was never fulfilled.
+An equation of the first type is presented by the sixth problem
+of the sixth book, and this we reproduce from Heath : 2
+
+“ 6. To find a right-angled triangle such that the area added to one of the per-
+pendiculars makes a given number.
+
+“ Given number 7, triangle (3 x, 4x, 5 x.)
+
+“ Therefore 6 υεἳ -†· 3 x = 7.⁷'
+
+“ In order that this might be solved it would be necessary that (half coefficient
+of .r)²-l-pr0duct of coefficient of x² and absolute term should be a square: but
+(ΙὲῩ 4— 6 · 7 is not a square. Hence we must find, to replace (3, 4, 5), a right-angled
+triangle such that
+
+“ (ὲ one perpendicular)² -l— 7 times area = a square ; ’'
+
+and the Subsequent work leads to the equation, 84 x2 4- 7 x= 7, x= 3
+and the solution (6, ξ, {LA-⁵).
+In the following problem (VI. 7) the value of x is given as {for
+
+the equation
+84 x² — 7 x= 7,
+
+which equation is of the third type when the negative term is
+transposed after the manner of Diophantus. The equations
+
+63ox2÷73x=6, γεῆ,
+
+63ox2—73x=6, γεῆ,
+
+630x'24-81x=4‚ χεῇἷ,
+and 630x2-81x=4‚ χεὲ,
+
+occur in the next four problems (VI. 8—11). Another problem of
+the third kind (IV. 39) is of especial interest because the rule is
+given for solving this type :³
+
+“To find three numbers such that the difference of the greatest and the middle
+has to the differenee os the middle and the least a given ratio, and also the sum of
+any two is a square.'’
+
+¹ Heath, Diophantus, p. 131.
+2 Heath, Diophantus, pp. 228—229.
+³ Heath. Diophantus, pp. 197—198.
+

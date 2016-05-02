@@ -1,0 +1,52 @@
+18 IN TRODUCTION
+
+of these tables, with extracts from the Latin text, was made by
+A. A. ijrnbo1 and the completed work, edited by Suter, has
+recently been published. Suter has found 2 that this translation is
+not of the original work by Al-Khowarizmi‚ but is based on a revi-
+sion of that work made by Maslama al-Majriti (about 1000 A.D.).
+The work is of considerable importance for the history of trigonom-
+etry, for even though the tangent function which appears therein
+may be the addition of Maslama, yet the introduction of the sine
+function is certainly carried back as far as Al-Khowarizmi.
+
+The combination of mathematical, geographicah and astronomi-
+cal interests exhibited by Al-Khowarizrni renders plausible the
+hypothesis advanced by Suter,3 on chronological grounds, that
+this Mohamrned ibn Musa took part in the measurernent of a
+degree of the earth's circumference which was made at the request
+of the caliph Al-Mamun. Some early Arabic chroniclers join the
+three sons ot Moses, the Beni Musa, in this task. The oldest of
+these brothers was Moharnmed and so he was called after the
+Arabic custom, Mohamrned ibn Musa, meaning Mohammed‚ the
+son of Moses. Abu Ja‘far is the prefix to his name, and this has
+been incorrectly given by numerous modern dictionaries4 as the
+name of our author.
+
+Concerning Mohammed ibn Musa‘s farne among the Arabs as
+an algebraist abundant evidence exists. Not only the commen-
+taries cited bear witness to this sanie but also the recurrent
+appearance for centuries of the numerical examples, x²÷ 10x= 39.
+x2÷ 21 = 10 x, 3x÷4=x2 and many others, which Al-Khowarizrni
+used. Some of the later authors, like Abu Kamil Shoja‘ ibn
+Aslam ⁵ (about 925 A.D.)‚ explicitly acknowledge their indebtedness
+
+¹ Bjo'rnbo, Al-Clzwarizmi's lrigmmmelriske Tzwler, in Feslskrt'ft til H. G. Zeuthen.
+Copenhagen (1909), pp. 1-26; the sudden death ot' this brilliant student of mediaeval
+mathematics is a great loss, sor his systematic studies in this field were beginning to bear
+fruit in numerous and important publications,
+
+² Suter, ifllae‘mm‘res de l'Acad. Royale des Sciences el des Lettres de Danemark, Series 7
+(Lettres), Vol. 3. pt. 1 (Copenhagen, 1914). The dependence upon Maslama's version was
+noted by C. H. Haskins, Adelard [ff Bam, The English Historia-al Revz'ew, Vol. XXVI
+(1911)· pp· 491-498-
+
+³ Suter, Die illatlzcnaztiker und Astronomen der Araber und ihre IVerke, in Abhandl.
+z. Gesch. d. math. li'tLvsenschczflen, Vol. X (Leipzig, 1900), p. 20.
+
+4 Cenlury, li kbsler's, T he lVew English Dictionary, Emyclopcz’dia Britannica.
+
+⁵ L. C. Karpinski, Τ he algebra (gf Aba Kamil Shoja‘ben Aslam, Bibliotheca Mathematica,
+Vol. XII, third series (1912), pp. 40—553 The Algebra (ff Abu Kamil, American Mathe-
+matical dlonthly, Vol. XXI (1914)- pp. 37-48.
+

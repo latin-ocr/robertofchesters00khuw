@@ -1,0 +1,60 @@
+142 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 De radicum diuisione
+
+Nota, si radicem nouenarii in radicem numeri 4 diuidere volueris, diuide 9 in 4
+et erit exiens 2 et quarta, atque exeuntis huius radix, quae est vnum et semis, erit
+numerus exiens diuisionis radicis in radicem. Quod si duas radices nouenarii in
+
+5 radicem numeri 4 diuidere volueris, quaeras primo duplum radicis nouenarii
+secundum quod docuimus, et illud diuide in radicem numeri quatuor.
+
+De radicum multiplicatione
+
+Si radicem nouenarii cum radice numeri 4 multiplicare volueris, multiplica
+9 curn 4, et producti radix est quod quaeris. Ita cum aliis.
+
+10 Quod si radicem tertiae curn radice medietatis multiplicare volueris, multiplica
+tertiam curn medietate, et producitur sexta, cuius radix est quod quaeris.
+
+Quod si duas radices nouenarii cum tribus radicibus quaternarii multiplicare
+volueris, inquiras primo secundum quod supra docuimus censum cuius radix est
+duplum radicis numeri 9. Consimiliter inquiras censum cuius radix est triplum
+
+15 radicis numeri 4, et multiplica vnum censum cum altera et radix producti erit
+quaesitum.
+
+Sequuntur nunc quatuor aenigmata
+
+Primum
+
+Radix ducentorum subtractis 10, addita ad duplum subtracti, scilicet ad 20,
+20 subtracta ducentorum radice aequaliter erit 10.
+
+Dicit aenigma, si a radice numeri 200 subtrahantur 10, id deinde quod relinqui-
+tur ad 20 addatur, ab hoc collecto postea radix numeri 200 auferatur, quod sub-
+tractum tandem, hoc est 10, aequaliter maneant. Hoc autem sic probabitur. Sit
+linea a b radix ducentorum, a qua resecabo lineam a c, quae sit 10. Deinde lineae
+
+25 a b adiungam b d, lineam quae sit 20, a qua resecabo lineam b e, aequalem lineae
+a b, et a linea b e resecabo lineam bs aequalem lineae α c. Erit igitur linea cb
+aequalis lineae s e. Est autem linea c b radix ducentorum exceptis 10. Ac linea
+e d, 20 excepta radice ducentorum, et c b linea est aequalis s e lineae, igitur lineas d
+radix ducentorum erit exceptis 10, addita ad 20 excepta radice ducentorum.
+
+30 Quod autern haec lineas d sit praecise 10, probabo. Linea b d est 20 et cum b f
+linea aequalis sit lineae a c, quae 10 posita est, oportet igitur quod et s d linea
+propter aequalitatem 10 sit, quod erat probandum.
+
+Sequitur figura.
+
+«ι Ξ
+Ξ ε Ξ
+,ἒὲὲῑὶῑ-ΕΞἯἈἝΞΠ,Ἲ-.1Ξλ.ᾱΞΧ,<Ξ“-ῡεῐὲ3ἱ“ι“--. ἐξ Ξ
+ἱ :b f te es ”5 d
+Α· ¹02 μεἰ · a Ρ Ι
+¹-----1‹r-—--³ 3 ἓ r----1o------' s -Ξ- :
+ε κ · 2³. κ ι
+ir} 1.----------20..Ξξ--------.ι
+0 0
+

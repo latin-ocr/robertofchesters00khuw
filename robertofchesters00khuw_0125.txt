@@ -1,0 +1,70 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 95
+
+Similar multiplications of nodes‚¹ illustrated by things or roots and
+numbers, follow. In the same manner the unknowns ² are multiplied by
+themselves, either when numbers added to them, or when numbers are sub-
+tracted from thern, or when they are to be subtracted from numbers. For
+example, to multiply x -4- 10 by x ÷ 10y you proceed thus: x by x, x‘2, and x
+multiplied by 10 gives 10 x; also 10 by x, 10 x, and 10 multiplied by 10 gives
+100. The sum total is then x‘2, 20 x, and 100.³
+
+Another example: multiply x by x. Yon say that x by x gives x2, and
+this is the product of the multiplication.
+
+Similarly, x — 10 by x — 10: x by x gives x2 and negative 10 by x gives
+negatlve 10 x. Also negative4 10 by x gives 10 x negative, and negative 10
+by negative 10 gives positive 100. Whence the total product of this multi-
+plication amounts to x² less 20 x, with 100 to be added.³
+
+Or also if you multiply 10 by 10, and again 10 - x by 10 - x: 10 multi-
+plied by 10 gives 100; so much is the product of the first multiplication.
+Then, 10 multiplied by 10 gives positive 1003 negative x by 10, 10 x nega-
+tive; also 10 by negative x gives negative 10 x; negative x by negative x
+gives positive x2. Whence the total product of the second multiplicatiori
+extends to 100 less 20 x, with x2 to be added.
+
+Again‚ if you try to find the product of 10 ψ x multiplied by its equal you
+proceed thus: 10 by 10, 1003 and x by 10 gives 10x; also 10 by x, 10 x, and
+x by x gives x2. The total product amounts to 100, 20 x and x‘2.
+
+Now if you try to find the product of either 10 — x by 10 or 10 —l- x by
+10, the first product is 100 — 10 x and the other 100 -4- 10 x.
+
+Further some one may ask. how much is the product of 10 — x by 10 -ι- x?
+You proceed thus : 10 by 10, 100 units, and negative x by 10 gives negative
+10 x; also 10 by x gives 10 x positive, and negative x by x gives negative x2.
+This total then equals 100 units less x‘·'.³
+
+Another problem : 10 — x by x. You proceed thus: 10 by x gives 10 x,
+and negative x by x gives x² to be subtracted. This then equals 10 x less x2.
+
+¹ See p. 91, footnote 2.
+
+² Res (literally ‘thing') is used in such a technical sense that it seems better to translate
+by ‘unknoxvn‚' as in this instance, or by x· as in much of the following work.
+
+³ Scheybl adds to this, and to two problems below, the following calculation forms which ap-
+proach the modern symbolism for the product of binomials. Scheybl prefaces with the words,
+‘as follows,' or ⁸ the calculation follows ’z
+
+ 
+
+ 
+
+ 
+
+‚r -ἱ- 10 x — 10 10 — x
+
+x -μ 10 x - 10 10 -k- ,τ
+
+x²÷xox x2—10x 100-10x
+10x÷100N —10x ÷100 -4-10x—x2
+
+x2, 20 x, 100 x² — 20 x ψ 100 100 — ,εἳ
+
+Scheybl uses 100 N here for the number 100, following the notation employed by himin his printed
+works on algebra as well as in the algebra text which is found in the same manuscript with this
+version of Robert of Chester.
+
+⁴ In the Latin text (l. 11) Scheybl has res cum re instead of sine zo cum re.
+

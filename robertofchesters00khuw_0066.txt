@@ -1,0 +1,45 @@
+44 INTRODUCTION
+
+fractionibm, on the same page of our text, seems to be an addition
+by Robert. The introduction of the passage, ‘On Mercantile
+Transactions‚’ pp. 120—124, is not at all carefully translated by
+Robert‚ who retains poor transliterations ot four technical expres-
+sions used in the Arabic. The four expressions in question refer
+to the four terms of a proportion in which when three are given
+the fourth is determined. If a given quantity of goods is sold at
+a fixed or set price, then the price of any other quantity of the
+same goods, or the amount of goods to be obtained for a given
+sum of money, is determined by a proportion in which the three
+given quantities enter. The unit of measure, or quantity sold at
+a fixed price, is termed by Robert Almnsarar, instead of al-
+mum-‘in and the fixed price Alszaran instead of (τί-εἴν,- the
+quantity of goods desired is Almnllcemen, instead of al-77zutkamman
+and the amount to be expended for goods is termed Althemen,
+instead of cll-thaman. stlagul, which is used by Robert for the
+unknown term in a proportion‚ would be in modern transliteration
+al-maqnl.
+
+Robert of Chester does not present the complete list of prob-
+lems which occur. in the Arabic text of Al· Khowarizmi's algebra,
+but only a selection of about one-half of the total number. Upon
+what basis this selection was made does not appear, except that
+typical problems are chosen, and the repetitions which are found
+in the Arabic and the Libri text are eliminated. In the foot-
+notes to our English version we have indicated the problems
+which have been omitted by our author.
+
+The translation of the text and solutions of the problems which
+are given present peculiarities entirely similar to those which
+have been noted in the preceding discussion of the Latin text by
+Robert. A noteworthy omission is made both by Robert of Chester
+and by the translator of the version published by Libri. This con-
+cerns the fifth problem of the set of six whic'h illustrate in order
+each of the six types of quadratio equations. After the solution
+of the problem to the point to which our textl carries the prob-
+lem, the Ambic, as translated by Rosen‚ adds: ‘Or, if you please,
+you may add the root of four to the moiety of the roots; the sum
+is seven, which is likewise one of the parts. This is one of the
+problems which may be solved by addition and subtraction.’
+
+¹ Page 108, lines 1—13.
+

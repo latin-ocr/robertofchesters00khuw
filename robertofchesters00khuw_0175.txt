@@ -1,0 +1,76 @@
+ADDITIONS TO THE ALGEBRA 145
+
+Second problem
+
+The root of 200 less 10, taken from twice that which is subtracted, namely
+from 20, less the root 01 200, 15 1116 triple 01 11131 which was first subtracted,
+namely 30, less two roots of 200.
+
+The problem states that when you subtract 10 from the root 01 1116 1111111-
+ber 200, and this in turn from 20, and from the remainder you take the root
+of the number 200, then the triple, 30, of the quantity originally subtracted,
+10, 1655 ¹ two roots 01 1116 number 200 remains. This will be proved in the
+following manner :
+
+Let the 11116 a b represent the root of 200, and let b c be 601131 10 11. Let
+b d be 20, and further α e be 10. Cut off from the line b α 1116 11116 bsequal to
+a e. Then the whole line dsis 30. Further, from the line c d cut off the line
+c Ιι 601131 10 1116 11116 e b. Since the line e b is the root 01 200, less 10, and the
+line c d is 20 1655 1116 1001 01 200, making the subtraction of the line e b from
+the 11116 c d, you obtain the line lt d which 15 111611 30 1655 two roots of 200.
+
+Moreover that 11115 11116 lzd 15 exactly 01 11131 length, Ι will prove. The
+line sd 15 30, 311(1 since the line b c 15 1116 1001 01 200, 1116 11116 α e equals J' b,
+and also the line eb equals clz. Hence by adding the two linesjb and ch
+we shall obtain the root of 200. The subtraction being made there remains
+the line hd. That therefore which was to be proved, has been proved.
+
+Third problem
+Two roots of any number make one 01 1116 quadruple.
+This 15 sufficiently evident from the fact that any square 15 1116 quadruple
+of another square if the side 01 1116 first 15 double the side 01 1116 other.
+
+F 0 zcrtlz problem
+
+One hundred and x² less 20 x, added to 50 plus 10 x less 2 x2, gives 150
+less x² and less also 10 x.
+
+Proof. VVhere 20 10015 316 subtracted and 10 roots are added, the result
+15 1116 531116 35 11 only 10 roots were subtracted. Also where a square is
+added and two squares are subtracted, the result 15 1116 531116 35 11 only one
+square were subtracted. From this follows that which was proposed.
+
+leere follow eiglzteen questions sor greater practice in these rules²
+
+F ι’ rst question
+
+Ι djvided 10 into two parts and multiplied one part by the other, then
+Ι multiplied one part by 115611. Τ1115 product of one part by itself gave as
+much 35 four times the product of one part by the other. What were the
+two parts? The answer by the 11116 15 8 and 2.
+
+¹ Not “and‚’' asin the text.
+² The eighteen problems are all, vn'th minor changeS, from Al-Khowarizmi’s algebra, but prob-
+161115 10, 11, and 14, which follow, Robert did not include 111 1115 text:
+
+(10) vl· ,1,- 10 — ,Υ
+
+10-:c ,ι’
+
+,r (10 — xl - 1
+
+5 .1· μ
+*33-
+
+ 
+
+ 
+
+ 
+
+ 
+
+⁴ «Ι- 5-1· = 503 (14)
+
+=2÷; (11)I’.10-.1 10—'15
+

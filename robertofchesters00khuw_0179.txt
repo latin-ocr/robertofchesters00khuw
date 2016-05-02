@@ -1,0 +1,53 @@
+ADDITIONS TO THE ALGEBRA 149
+
+or each part is now multiplied by 123 you will obtain x² -μ 7x equa]
+to 744 units. By the first rule you take one-half of the roots and multiply
+the half by itself, obtaining 12{, which being added to 744 will make a
+total of 756} Take the square root of this and you obtain 273. Now from
+27ss subtract the half of the roots, namely 3 and ὲ, and 24 remains as the
+value of the square. This question is referred back to the chapter in which
+squares and roots are equa] to a number.
+
+F istlz question
+
+I divided 10 into two parts and Ι multiplied each part by itself, and the
+sum of the squares was 58. What are the two parts? The answer in accord-
+ance with the rule is 7 and 3.
+
+Rule. Multiply 10 — x by itself, and you obtain 100 units -4— x2 — 20 x;
+then multiply x by itself, and 12 is obtained. You have then 100 units -1-
+2 x² — 20 x, a total equal to 58. By restoration then of the negative 20 x, it
+follows that 100 units ψ 2 x² equal 58 units ή- 20 Χ, and reducing this to
+one square, 50 units 4- .1·2 are found equal to 29 units ψ 10 x. Accordingly,
+by subtracting 29 from 50, 21 units -Ι- x² remain equal to 10 x. Proceed
+therefore according to the second chapter, and it becomes clear that the
+parts are 7 and 3. This problem is referred back to the chapter in which
+squares and numbers are equa] to roots.
+
+S ixtlz question
+
+Ι multiplied ὲ x by ᾗ of it and obtained x -Ι- 2 units. What is the value
+of x? The answer in accordance with the rule is 24.
+
+Rule. Since you well know that the product of ἑ x by ὲ x, is 5¹5 x2, it fol-
+lows that ila κζ’, in this instance, equals x -Ι- 24 units. Make the square
+whole by multiplying all by 12, and you find that x² ψ 12 x is equal to 288
+units. Treat this (equation), then, by multiplying the half of the roots by
+itself and adding the product, or square, to 288. You obtain 324, whose
+root is 18 ; this added to the half of the roots gives 24, the square which was
+sought in the proposed question. This problem is referred back to the
+chapter in which roots and numbers are equal to squares.
+
+Severztlt question
+
+Ι divided 10 into two parts in such a way that the product of one by the
+other is 24. The question is, what are the parts? The answer in accord-
+ance with the rule is 6 and 4.
+
+Rule. You know that you can let the one part equal x, and the other
+10 — x. Then multiply the one by the other and you obtain 10 x - x2,
+which equals 24 units. Now by restoration say that 10 ,ν amounts to 24
+units÷ 2⁴². Treat this then according to the chapter in which squares
+and numbers are equal to roots, and it will be clear that one part is 6 and
+the other 4.
+

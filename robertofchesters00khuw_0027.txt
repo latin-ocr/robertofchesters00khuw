@@ -1,0 +1,51 @@
+ALGEBRAIC ANALYSIS BEFORE AL—KHOWARIZLH 9
+
+The discussion leads to the inequality, 2 7722 > 6 m-l— 18, which,
+since only integral solutions are desired, explains the use of 7 as
+the approximate square root of 45, in the following paragraph:
+
+“ When we solve such an equation, we multiply half the coefficient ofx into itself,—-
+this gives 9, —then multiply the coefficient of ,εἳ into the units, — 2 · 18:36, — add
+this last number to the 9, making 45, and take the side [square root] of 45, which
+is not less than 7; add half the coefficient of .t‚—making a number not less than
+10‚— and divide the result by the coefficient of .t²; the result is not less than 5.”
+
+Of the second type, ax2÷c=b22 Diophantus gives several illus-
+trations, requiring frequently only the approximate value of the
+root. Problems of this kind are the following:
+
+72 m > 17 7722 -l- 17, m not greater than ξ-ξ, (V. io)
+19 m² -1- 19 > 72 m, m not less than »ξ-ξ, (V. 10)
+7722 ÷ 60 > 22 m, m not less than 19, (V. 30)
+772² 4- 60 < 24 m, m not greater than 21, (V. 30)
+and 172x= 336x‘24-24, (V1.22>
+
+of which the statement is made that the root is not rational, ancl in
+the same problem
+78848x2—8432x4 225 =o‚
+
+which has the rational root {²1⁵3-
+
+Commentaries on the Arz'tlmzetica began to appear very early.
+Probably the most interesting commentary from the modern point
+of view was the one written in the late fourth or early fifth cen—
+tury by Hypatia, the daughter of Theon of Alexandria. Unfortu-
+nately her writings are all lost, although there is ground for the
+beliefl that some remarks made by Michael Psellus (eleventh
+century) concerning Egyptian arithmetic ancl algebra were based
+on her commentary. She came naturally by her mathematical
+ability; her father Theon wrote a commentary on Ptolemy's
+Almagest and makes in this the earliest known reference to
+Diophantus.
+
+Cossali,2 writing in 1797 on the history of algebra‚ conjectures
+that the step from the geometrical to the analytical form of solu-
+tion took place in the period between Euclid and Diophantus.
+
+¹ Diophantus, ed. P. Tannery (Leipzig, 1893), Vol. ΙΙ, pp. 37—383 Heath‚ Diophantus,
+
+. 18, 1.
+pp ² Oriigine, lrasporto in ltalia, primi progressi in essa dell* algebra (Parma. 1797). V ol.
+
+Ι, pp. 87-91.
+

@@ -1,0 +1,55 @@
+ADDITIONS To THE ALGEBRA 133
+
+A notker Demonstration
+
+Let the square ab represent 2⁴2. To the side of it apply one-half the given
+number of roots and to another side of it apply the other half of the number
+of the roots. Let the first addition be represented by ac and the second by
+ad. To complete the square cd the square called be is lacking and the side
+of this is equal to one-half the number of the roots. The reason for our
+procedure (in halving the roots) is now apparent; for by multiplying the
+half of the number of roots by itself we obtain the square be, and the re-
+mainder is 2⁴² together with the added roots. Now since the larger square
+is known, and the root of it is known, then by subtracting the root of the
+square be from the root of the square ae, necessarily the root of our unknown
+square remains.
+
+The geometrical figures follow.¹
+
+An I llustration of tlte Second Type
+
+Let the square abed represent x2, and to its side bc apply the parallelogram
+chef, which we take to be equivalent to 15 units. Then the whole rectangle
+does is equivalent to 2⁴² and 15 units, thus containing 8 roots of x² (8 x).
+Divide now the line df into two equal parts by the point g and erect a square
+gkmd upon the side gd. Extend cb up to a point l (the point of intersection
+with the upper side of the square upon gd). Mark the point of intersection of
+gk with ae by the letter lz. Since db is a square, it follows by our construction
+and by proposition 6 of the second book of Euclid ² that bk is a square and
+further that the two parallelograms gb and bm are equal to each other.³
+Further, then, by a well-known axi0m4 ga and cm are equal. Also finally,
+since ga is equal to the parallelogram ge by the thirty-sixth proposition of
+the first book of Euclid? it follows that cm is equal to the same parallelogram
+ge. Hence subtracting 15. that is the gnomon ldlz, from the square gm,
+which is 16, one is left as the area of the square bk. Since the area is known,
+the side or root, which is the line lb, is also known. But the whole line lc is
+known, whence it follows by subtraction of lb from lc that the line bc is
+known. In this instance it is to be noted that the point g falls within the
+parallelogram which is applied to the square.
+
+The geometrica] figures follow.
+
+¹ Compare these and subsequent figures with the corresponding figures on pages 77-89.
+
+² Euclid II, 6, following Heath‚ lec Tltz'rtcen Books of Enclid’s Elemcnts, p. 1. “If a straight
+line be bisected and a straight line be added to it in a straight line, the rectangle contained by the
+whole with the added straight line and the added straight line together with the square on the half
+is equal to the square on the straight line made up of the half and the added straight line.” In
+modern algebraic notatim, (a 4- x) ,ι’ ÷ (al2)‘-' = (alz ψ .1·)².
+
+³ By Euclid Ι, 43, following Heath‚ luc. cit„ “In any parallelogram the complements of the
+parallelograms about the diameter are equal to one another.'’
+
+⁴ Euclid I, 36, following Heath, loc. cil., “Parallelograms which are on equal bases and in the
+same parallels are equal to one anotherff*
+

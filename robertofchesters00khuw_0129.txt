@@ -1,0 +1,72 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 99
+
+2 by 2, and the product by the unknown square of the same root. The
+result will be a number of which one root will be equal to two roots of the
+given unknown square.1 And if you wish to triple the root, you multiply
+3 and 3, and the product by the square of the root; so you obtain a number
+of which one root is equal to three roots of the first square.² Moreover, if
+you wish to take one-half oi a root, it is necessary to multiply one-half by
+one-half. and then the product by the square itseli. The root which is
+taken will be one—half of the root of the given square.³ Indeed the nature
+of numbers requires that just as integral numbers are multiplied so also are
+lesser numbers, i.e. fractions. You proceed then in the same manner with
+thirds, with fourths‚ and so with every number less than an integer3 illus-
+trations follow}
+
+First illustration⁵t Take the root of nine to be multiplied. If you wish
+to double the root of nine you proceed as follows 1 2 by 2 gives 4, which you
+multiply by 9, giving 36. Take the root of this, i.e. 6, which is found to be
+two roots of nine, i.e. the double of three. For three, the root of nine, added
+to itself gives 6.ὃ
+
+Second illustration: If you wish to triple the root of 9, you multiply 3
+by 3, giving 97 which multiplied by itseli, ie by 9, gives 81. Of this number
+9 is the root, and this is seen to be equal to 3 roots oi 9, i.e. 3 >< 3.⁷
+
+Third illustration: if, however, you wish to take one-half of the root,
+multiply one-half by one-half, giving ὲ which when multiplied by 9 will
+give ΖΞ. Take the root of this. i.e. 1{‚ which is one-half of the root of 9,
+
+ 
+
+ 
+
+ 
+
+¹24} =5s22·.v.
+
+23ἚΙῙ = 432-32 —
+
+³}xl‚12=wl{.{.x= lg,
+4
+
+⁴ This section begins in the Arabic with the four problems which we have given in footnote
+4 on the preceding page of the translation The part which corresponds to this paragraph,
+following Rosen, pp. 27-28, is as follows: ‘If you require to double the root of any known or
+unknown square (the meaning of its duplication being that you multiply it by two), then it
+will suffice to multiply two by two, and then by the square; the root of the product is equal to
+twice the root oi the original square.
+
+Ii you require to take it thrice, you multiply three by three, and then by the square; the
+root oi the product is thrice the root of the original square.
+
+Compute in this manner every multiplicatiori of the roots whether the multiplicatiori be
+more or less than two.
+
+Ii you require to find the moiety of the root of the square, you need only multiply a half by
+a half, which is a quarter; and then this by the square: the root oi the product will be half
+the root oi the first square.
+
+Follow the same rule when you seek for a third, or a quarter of a root, or any larger or
+smaller quota oi it, whatever may be the denominator or the numerator. Examples of this . . . ¹
+
+⁵ In translating Ι omit some words added by Scheybl.
+
+θ 2 ΝΙξ = *lgr—*9 = 6. The problems may appear trivial, but the reader should note that this
+is the first approach to an algebraic treatment in systematic form of surd quantities. Al-Kho-
+warizmi proceeds admirably from known to unknown,
+
+⁷346=43·3·9=9·
+
+ 
+

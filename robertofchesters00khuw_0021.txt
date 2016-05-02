@@ -1,0 +1,54 @@
+ALGEBRAIC ANALYSIS BEFORE AL—KHOWARIZMI 3
+
+an arc is swung with a radius of four units, while from the other
+end an arc is swung with a radius of five units. The intersection
+is connected with the peg from which the shorter arc is swung,
+forming thus a right angle with the desired line, for in any tri-
+angle with sides in the ratio three to four to five, a right angle
+lies opposite the longest side.
+
+The Pythagorean theorem was applied also in India, before the
+time ot Pythagoras, in the construction of altars. With this
+theorem as developed in the Apastamba Sulba Sutras,1 the rules
+for altar construction, are associated careful approximations of
+square root, pure quadratio equations‚ and even, as Milhaud has
+shown,2 the possible solution of the complete quadratic equation,
+
+(1962 -†- bx: c.
+
+The ancient Babylonians, furthermooe, constructed tables of
+squares and cubes. Such tables are found upon the famous
+tablets of Senkereh‚³ which are contemporary with the Ahmes
+papyrus. Application of these quadratic numbers to problems
+similar to those of Egypt already mentioned has not been dis-
+covered, but the fact is evident that such tables were a step toward
+the study of quadratic equations. Cantor4 shows that the ancient
+Hebrews were probably familiar with the 3, 4, 5 right triangle. In
+China, too, students mathematically inclined had come upon this
+number relation‚⁵ and evidently were studying quadratic numbers.
+
+Familiarity of Greek mathematicians with the geometrical
+solution of quadratio equations in the time of Pythagoras is now
+well established.6 'Hippocrates (fifth century Bc.) writing on the
+quadrature of the lunes, in an attempt to square the circle,
+assumes a construction which is equivalent to the solution of the
+
+equation‚⁷
+x2 -Ρ xl} ax: αἳ.
+
+¹ Biirk, Das ApasmmbaSulba-Sutra, Zeilschrffl der deutschen Alorgenlzindischen
+Gesellschafl, Vol. LV (1901), pp. 543-591, and Vol. LVI (1902), pp. 327-391.
+
+‘² G. Milhaud. La Ge⁴mlle⁵trie d’Apczstamba, Reme gt‘m‘rale des Scoences, Vol. XXI (1910),
+pp. 512-5 20; see also T. L. Heath. T he thirteen books of Euclz'd's Elemcnts (3 vols.‚ Cam-
+bridge. 1908). Vol. Ι, pp. 352—364. We shall refer to this latter work as Heath's Euclid.
+
+³ Cantor. 1 (3), pp. 25—31. 4 Cantor. Ι (3), p. 49.
+
+⁵ Cantor. Ι (3), pp. 181 and 679-680. ὃ Heath's Euclid, Vol. Ι, pp. 386—387, 403.
+
+⁷ T. L. Heath, Diophantus of Alexandria, A study in the history os Greek algebra,
+second edition (Cambridge. 1910), p. 633 more detailed in Rudio. Der Bericht des Sim<
+plz‘cins iiber die Quadraturen des Antzjbhon und des Hzppokralcs (1907), p. 58, and same
+author in the Bibliotheca Mathematz'ca, Vol. ΙΙΙ, third series (1902), pp. 7—42.
+

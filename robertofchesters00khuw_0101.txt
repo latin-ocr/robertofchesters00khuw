@@ -1,0 +1,57 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 71
+
+are two or three or four squares, or even more, the equation formed by
+them with their roots is to be reduced to the form of one square with its
+root. Further if there be less than one square, that is if a third or a fourth
+or a fifth part of a square or root is proposed, this is treated in the same
+manner.l
+
+For example, five squares equal 80. Therefore one square equals the fifth
+part of the number 80 which, of course, is 16.2 Or, to take another example,
+half of a square equals 18. This square therefore equals 36.3 In like manner
+all squares, however many, are reduced to one square, or what is less than
+one is reduced to one square. The same operation must be performed
+upon the numbers which accompany the squares.
+
+CHAPTER III
+
+Concerning rools eqztal to numbers
+
+The following is an example of roots equal to numbers : a root is equal to
+3. Therefore nine is the square of this root.4
+
+Another example t four roots equal 20. Therefore one root of this square is
+5.⁵ Still another example: half a root is equal to ten. The whole root
+therefore equals 20, of which, of course, 400 represents the square.6
+
+Theresore roots and squares and pure numbers are, as we have shown,
+distinguished from one another. Whence also from these three kinds which
+we have just explained, three distinct types ol equations⁷ are formed in-
+volving three elements. as
+
+A square and roots equal to numbers,
+A square and numbers equal to roots‚ and
+Roots and numbers equal to a square.⁸
+
+CHAPTER IV
+
+Concerning squares and rools equal to numbers
+
+The following is an example of squares and roots equa] to numbers: a
+square and 10 roots are equal to 39 units. The question therefore in this
+type of equation is about as follows: what is the square which combined
+with ten of its roots will give a sum total of 39.> The manner of solving
+this type of equation is to take one-half of the roots just mentioned. Now
+the roots in the problem before us are 10. Therefore take 5, which multi-
+plied by itself gives 25, an amount which you add to 39, giving 64.
+
+1 Our modern expression ¹‘ to complete the square,'’ used in algebra. originally meant to make
+the coefficient of .r² equal to unity, is. make one whole square.
+
+²5x²=80;x'-'=16. ³{.x·²=18;.r²=3o. ⁴.x·:3;.x·²=9.
+
+⁵ 4x = 20; x = 5; ,νῖ = 25. ⁵ ὲ .1·= 103 x = 20; ,ιθ = 400. ⁷ ‘Types of equations ’ = genem.
+
+⁸ Abu Kamil, Omar ALKhayyami, Al-Karkhi, and Leonard designate these as *composite '
+types. In modern notation: ax2 -l- bx = n; ιιιιῗ -l- η = bx3 (ιι-2 = bx -1μ n.
+

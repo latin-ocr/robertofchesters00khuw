@@ -1,0 +1,51 @@
+36 INTRODUCTION
+
+manuscript is given in the Rara Arz'tlmzetz'ca‚¹ but the somewhat
+extensive treatment of algebra is not mentioned.
+
+The first work in the German language on algebra was an
+excerpt from Al-Khowarizmi which begins:2 “ Mohammed in the
+book of algebra and almucabala has spoken these words ‘census
+radix (root), and number.'‘' This is followed by two problems
+from the text. The manuscript which contains this brief dis-
+cussion, of date 1461, is now in Munich‚ having been moved
+from the Benedictine Abbey of St. Emmeran. The first treat-
+ment in the English language appears to be that by Robert
+Recorde‚ Tlce leetslone of [Vitta which was published in
+1557. This work which, as I have elsewhere shown,3 does
+not display any marked originality on the part of Recorde, intro-
+duced our present symbol of equalsty, =, and contributed to the
+study of algebra in England by presenting the material in the
+mother tongue.
+
+Regiomontanus seems to have been familiar with Al-Kho-
+warizmi's work, for he not only refers to the art of thing and
+square (ars reiet census), but also uses certain technical expres-
+sions, reslaurare daseclus, for example, similar to those in the
+algebra. A manuscript copy4 of Mohammed ibn Musa‘s algebra
+in Mr. Plimpton’s collection shows astonishing similarity to the
+handwriting and abbreviations of Regiomontanus as well as to
+the form of equation used by the great German. Furthermore‚
+some of the problems given in this manuscript, which are not
+part of Al-Khowarizmi's text, are discussed by Regiomontanus in
+his correspondence with Cardinal Blanchinus.5 We must sup-
+pose him to have been familiar with this text if not actually, as
+we suspect, the transcriber of this copy. Regiomontanus was
+twenty years of age when this manuscript was written (1456), and
+we know that he did transcribe numerous mathematical and
+astronomical works of historical importance. Algebra was em-
+
+¹ Rara, 446—447.
+
+² Gerhardt. Zur Gesclu'slzte der Algebra in Deutsclzland, Monatshericht der lx'iimgl.
+Akad. d. H'z'ssensclz. su Berlin, 1870, pp. 141—153.
+
+³ Karpinski, T lte whetstone (gf witta, Bibliotheca Mathematica, third series, Vol. ΧΙΙΙ,
+pp. 223-228.
+
+⁴ Rara Arz'tlzmetica, 454-456.
+
+⁵ M. Curtze, Der Brieswecltsel Regiomontan's mit Giovannz‘ Bianchim‘, Jacob von
+Speier und Christian Rodcr, Ablmndl. ε. Gesclz. d. math. bVissen„ Vol, XII (Leipzig,
+1902), problem 6, p. 219.
+

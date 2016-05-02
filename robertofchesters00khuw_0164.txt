@@ -1,0 +1,55 @@
+134 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 Sed esto iam, quod punctus g cadat in latus census vel quadrati.
+
+Sit census vt prius a b c d, et parallelogrammum, numero quindecim, lateri b c
+applicatum c b e s. Tunc super medietatem lineae d s, erigo quadratum g k m s
+et accipio lineam c o aequalem lineae c s et protraho lineam n lt ο p aequedistantem
+
+5 lineae ds. Et quoniam lineae d c et c b inter se aequales sunt, lineae quoque c o
+et c s aequales; et parallelogrammum igitur d o propter aequalitatem linearum,
+parallelogrammo c e aequale erit. Sed quia aequalia etiarn inter se sunt ex propo-
+sitione 43 primi libri Euclidis, duo supplementa g o et 0 m, cum per subtractionem
+aequalium ab aequalibus, ex communi quadam noticia, aequalia relinquantur,
+
+10 parallelogrammum d Ιι parallelogrammo l e cum quadrato c p aequale erit. Sed
+quia d lz aequale etiam est, ex propositione 36 primi, parallelogrammo g o cum
+quadrato c p3 haec igitur duo, g 0 parallelogrammum et c p quadratum, prioribus
+duobus l e parallelogrammo et c p quadrato ex communi quadam noticia, aequalia.
+Atque mOX, per ablationem quadrati c p communis, g 0 ipsi l e parallelogrammo
+
+15 aequale. Sunt vero c 0 et l m lineae inter se aequales. Ergo et linea m ε lineae
+g c aequalis erit, atque ita aequalis etiam lateri quadrati lz l. Cum ergo quadra-
+tum g m sit notum, eo quod eius latus sit medietas numeri radicum, si subtrahantur
+ab eo 15, quae gnomonem valent, quadrato Ι] ἰ circumiacentem et cui etiam paral-
+lelogrammum d 0 aequale est, manebit quadratum h l notum. Vnde et latus eius
+
+20 notum. Sed quia illud est aequale lineae g c vel m e, latere igitur quadrati lz l ad
+medietatem numeri radicum ms, latus quadrati g m. addito, constituitur linea e s
+nota. Atque haec est radix census. Patet ergo propositum.
+
+Sequuntur figurae geometricae.
+
+α b 3
+
+d c s
+
+ 
+
+Exemplum combinationis tertiae
+
+25 Quatuor radices et duodecim denarii censui aequipollent.
+
+Causa huius combinationis est haee. Sit census quadratum a b c d ignotum
+continens quatuor radices et 12 denarios. Ex isto igitur quadrato resecabo
+parallelogrammum b c e s continens quatuor radices, manebit ergo parallelo-
+grammum α e continens precise duodecim denarios. Deinde diuidam lineam e c,
+
+30 numerum radicum, aequaliter in puncto g, et super latus e g erigam quadratum
+g e li k. Super latus etiam d g erigam quadratum g d m l, et secet linea m l lineam
+e s in puncto n⁴ Et quoniam lineae α d et d c inter se aequales sunt, linea quoque
+m d et d g aequales, cum per subabiectionem aequalium ab aequalibus, linea a m
+lineae g c ex communi quadam noticia, aequalis sit. Eadem a m linea propter aequa-
+35 litatem, ex altera quadam noticia, lineae e g, atque mox etiam lineae lz k, aequalis
+erit⁴ Item, quia lineae h e et e g inter se aequales sunt, lineae quoque n e et d g
+

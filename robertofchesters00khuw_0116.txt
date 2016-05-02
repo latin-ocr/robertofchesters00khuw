@@ -1,0 +1,132 @@
+86 LIBER ALGEBRAE ET ALMUCABOLA
+
+1 priore substantia erit, quia videlicet super ipsam 21 addidimus.
+
+Et similiter ipsa
+
+suis 10 radicibus aequalis fiet, quod demonstrare voluimus.
+De radicibus et numeris substantiam coaequantibus.
+Tres radices et 4 ex numeris coaequant substantiam.
+5 Quadratum igitur cuius latera ignota ponuntur propono, quod sit a b c d, atque
+hoc quadratum tribus radicibus et quatuor ex numeris, vt diximus, aequale con-
+
+stituo.
+
+Quoniam autem manifestum est, quod si vnum latus omnis quadrati
+
+semel in vnitatem ducamus vna radix eiusdem quadrati necessario nascatur ex
+quadrato igitur a b c d per lineam ef aream α f resecemus, atque vnum huius areae
+10 latus numerum ternarium, id est numerum radicum, significare constituamus.
+
+Sit autem hoc latus linea a e.
+
+Nobis igitur manifestum quoniam area e c numero
+
+quaternario, quem supra radices adiecimus, adimpletur, igitur super punctum g
+latus α e tres radices signans, per lineam in duo media diuidamus, ex quorum vno
+quadratum, quod est g k l e faciamus, quadratum inquam, quod ex multiplicatione
+15 medietatis radicum in seipsa ductae perficitur, hoc est ex vnitate et medietate cum
+
+seipsis multiplicatis producitur.
+
+Deinde lineam k m quae sit lineae e d aequalis, lineae g k adiiciamus, fietque
+
+linea g m aequalis lineae g d, vt quadratum, quod est g o, inde nascatur.
+
+Et iam
+
+manifestum est, quoniam linea α d aequalis est lineae e f, sed g d aequalis est e n
+20 cum ipsae in quadrato g ο tenduntur aequales, linea igitur g a lineae ns manebit
+
+aequalis.
+
+Quia vero g α aequalis est lineae g e cum ipsae radices medient, id est per
+
+medium diuidant, linea insuper g e lineae k l aequalis, narn ipsae in latitudine areae
+em continentur aequales: linea igitur k l lineae ns aequalis erit. Rursus manifestum
+est, quoniam linea d g aequalis est lineae e n cum ipsae in quadrato g o tendantur
+
+25 aequales.
+
+1. ista pro priore. erit om. quando pro quia.
+addidimus, fiet ipsa substantia 10 suis consimilis
+radicibus et hoc est (tamen D) quod explanare
+voluimus.
+
+2. Add. Sequitur huius alterius partis pro ad-
+ditione figura geometrica C.
+
+3. Titulum om. V; De tribus radicibus et 4⁰¹· ex
+numero D.
+
+4. Tres -l- autern. numero D.
+
+5. ponuntur -†— substantiam. sit -l- rumbus a
+d, Sed et totum (-Ι- habet D) pro atque hoc.
+
+6. numero. que prediximus. equalem.
+constituto D.
+
+7. Et iam pro Quoniam autem.
+
+8. simul D. duxerimus V; duximus D.
+eius V. nascetur. Aream igitur (ergo D) h d
+ex area a d resecemus (repetemus D sed resecemus
+superscr. man. 2) et unum aliquod (aliud D) pro ex
+quadrato . . . huius areae.
+
+10. sig-nans constituamus.
+
+11. Erit quoque (que D) hoc latus (4- simile D)
+z d. area Ιι b. 40¹¹ ex numero que.
+
+12. adimpleat. e pro g.
+
+13. e h g V; h g D. per lineam om. qui-
+bus pro quorum vno.
+
+14. areae apro g k l e.
+pro quadratum inquam, quod.
+
+Eritque hec area que
+
+Sed linea g e aequalis est lineae el cum ipsae quadratum g l aequali
+
+15. ductae: deducte V; deductam D. per-
+ficitur om. 2bus et 4⁸V; duobus et 4¹²³ D pro
+vnitate et medietate.
+
+16. deductis perficitur.
+
+17. t l pro k m. quae sit om. a h pro ε d.
+consimilem. e t pro g k. et ffietque D.
+18. aeprogm. elprogd. area em pra
+o.
+g 19.agproad. hz.sedhe(acD). hn
+proen.
+
+20. quoniam pro cum. rumbo e m. ε g
+
+pro g α. n c V ; z n D. remansit consimilis
+pro manebit aequalis,
+
+21. Sed et linea pro Quia vero. e g pro g a.
+h e pro g e. Nam et pro cum. mediant.
+
+22. diuidunt⁴ quoque h e (ergo h a sed a corr.
+ex ε man. 1 D) similis est linee tc pro insuper . . .
+
+aequalis.
+
+23.hlproem. nzprokl. ctprons.
+Et iam pro Rursus.
+
+24. α h pro d g. lineae om. m n pro e n.
+quoniam in latitudine aree α ε proponuntur pm cum
+ipsae . . . tendantur.
+
+25. Sed -l- et. α e pro g e. quoniam pro
+cum. rumbum ε m V; rumbos eos D pro qua-
+
+dratum g o.
+

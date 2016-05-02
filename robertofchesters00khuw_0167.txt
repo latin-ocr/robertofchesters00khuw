@@ -1,0 +1,57 @@
+ADDITIONS To THE ALGEBRA 137
+
+and dg are equal, then by subtracting equals from equals the line am will
+be equal to the line gc by this well-known axiom. On account of this
+equality the same line am will, by another axiom,¹ be equal to the line eg
+and hence also to kk. Further‚ since the lines lte and eg are equal to each
+
+other and also the lines ne and dg are equal, then by subtracting equals from 1
+
+equals the line nlz is equal to the line de. On account of this equality the
+same line nh will be equal to the line mn. Hence the areas hl and mf are
+equal. Theret'ore the two areas dn and hl taken together, by the well-
+known axiom “if equals be added to equals‚‘' will be equal to the single
+area ds, which contains 1 2 units. Whence if the number 12 be added to the
+square ek, whose side or root is the line eg, the half of the number of the
+roots, the square dl is obtained whose side or root is the line dg. If, then, the
+half of the number of the 10015, which is represented by the line ge, be
+added to that side (dg) the line dc will be obtained, which is the side of the
+unknown square. The proposed problem is solved.
+The geometrical figures follow.
+
+[Or in another form, thus]
+
+M ulti plication with Positives and N egatz'ves ²
+
+Since the multiplicatiori of a composite³ number by a composite number
+is the same as the multiplicatiori of each part of the one composite by each
+part of the other⁷ so it follows that the multiplicatiori is fourfold‚ namely
+article by article, digit by article, then article by digit, and fourthly digit
+by digit. Similarly, you may have a fourfold multiplicatiori when an article
+and a digit is to be multiplied by an article less ⁴³ a digit, or the reverse.⁵
+It seems desirable to indicate the fourfold nature of this multiplicatiori (by
+some examples), and in every multiplication of this kind this rule is to be
+
+e .
+fOliiwiyhg digits in the multiplicand as well as in the multiplier are added to
+
+¹ The halves oi equals are equal, and the axiom oi the preceding note.
+
+² Attention is called to a similar use of this expression in the text (p. 32). Johannes de Muris
+in the third book of the chadripartitum numerorum, doubtless familiar to Scheybl, entitles a
+similar chapter, De multiplicatione et diuisione, additarum ct diminutorum (Cod. Pal. Vind. 4770,
+fol. ²30 8); 566 also Karpinski, The “Quadriportitum numerorum’' of John of Meurs, loc. cit„
+p. 110.
+
+³ In this discussion Scheybl uses the more common terms such as “composite numbers‚''
+“articles” and ⁴‘digits,'' instead of “modes'' and “units'' as in the corresponding section oi
+Robert of Chester's text (pp. 88-96).
+
+⁴ praeter is used to suggest the idea of negative, illustrating in fact the Arabic conception of
+negative, namely that the “article'' or ten (in this instance) is incomplete by the digit which 15
+subtracted from 11,
+
+⁵ Probably including all four types, (x 4- α)(.τ ÷ b), (x 4- 11)(x — b). (x — a)(x ψ ὁ), and
+(x —- a)(x — b). That multiplication is commutative was doubtless 1611, 6ν611 though not
+expressed.
+

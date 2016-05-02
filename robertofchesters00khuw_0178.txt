@@ -1,0 +1,58 @@
+148 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 necesse, ad censum integrum reducas, totum scilicet, vel singula, cum 12 multi-
+plicando, et venient 1 census et 7 res aequales 744 denariis. Per primam igitur
+
+regulam dimidia radices, et medietatem cum seipsa multiplica et producentur
+12}; quibus additis ad 744 resultabunt 756}¹ Hinc elice radicem quadratam,
+
+5 veniunt 273, atque ab his medietatem radicum 3 scilicet et ὲ subtrahe et relin-
+quuntur 24, quantitas census. Haec autem quaestio ad caput in quo census et
+res numero aequales sunt, reducitur.
+
+Quaestio quinta
+
+Diuisi 10 in duo, et multiplicaui Vtrumque cum seipso, et aggregatum quadra-
+10 torum fuit 58: quae igitur sunt partes?
+Respondetur ex regula: 7 et 3.
+
+Regula. Multiplica 10 praeter rem cum seipsa, et producentur 100 den. et
+census, exceptis 20 rebus ; deinde multiplica rem cum seipsa, et producetur census.
+Habes igitur 100 den. et 2 census, exceptis 20 rebus, quae omnia aequantur 58.
+
+15 Restaurando igitur 20 res diminutas, patet quod 100 denarii et 2 census valent
+58 den. et 20 res, atque reducendo ad vnum censum, veniunt 50 den. et 1 census
+aequales 29 den. et 10 rebus. Postea vero subtrahendo 29 a 50 relinquuntur 21
+den. et vnus census aequales 10 rebus. Operare igitur per caput secundum, et patet
+quod altera pars 7 et altera 3 sint. Haec autem quaestio reducitur ad caput in
+
+κο quo census et numeri rebus aequantur.
+
+Questio sexta
+
+Multiplicaui tertiam census cum quarta eiusdem, et prouenerunt census et 24
+denarii: quantus igitur est census?
+Respondetur ex regula : 24.
+
+25 Regula. Quia satis nosti, quod ex multiplicatione tertiae partis rei cum quarta
+parte rei, duodecima proueniat pars census, quae in hoc casu vni rei et 24 denariis
+aequalis est. Integra igitur censum, multiplicando totum cum 12, et perficias
+quod census vnus 12 rebus et 288 denariis aequetur. Age igitur, multiplicando
+medietatem radicum cum seipsa, et addendo productum seu quadratum ad 288,
+
+30 et prouenient 324, cuius radix est 18, quae addita ad medietatem radicum, veniunt
+24, census propositae quaestionis. Reducitur autem haec quaestio ad caput in
+quo radices et numeri substantias coaequant.
+
+Quaestio septima
+
+Diuisi 10 in duo, vt multiplicatio vnius cum altero producat 24: quae igitur
+35 sint partes, quaeritur.
+Respondetur ex regula: 6 et 4.
+Regula. Scias Vnam partem esse rem, et alteram 10 praeter rem. Multiplica
+igitur vnam cum altera, et producuntur 10 res praeter censum, quae valent 24
+denarios. Restaurando igitur dic, quod 10 res valeant 24 den. et vnum censum.
+
+40 Age nunc per caput quo census et numeri rebus aequantur, et patebit quod vna
+pars diuisionis 6 et altera 4 sint.
+

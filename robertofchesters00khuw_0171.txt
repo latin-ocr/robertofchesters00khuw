@@ -1,0 +1,58 @@
+ADDITIONS TO THE ALGEBRA 141
+
+Fisth. Given to multiply 10 plus x by 10 less x.
+
+Multiply 10 by 10, giving 100. Then multiply x by 10, giving positive
+10 x. Third, multiply 10 by negative x, giving negative 10 x. Fourth,
+multiply the positive x by the negative x, giving negative x2. The sum
+total is 100 units less x2.
+
+Sixtlz. Given to multiply x by 10 less x.
+
+Multiply x by 10, giving 10 x; then multiply x by negative x, giving
+negative x2. The total is therefore 10 x less x2.
+
+Seventlz. Given to multiply x less 10 by 10 plus x.
+
+Multiply x by 10, giving 10 x. Then multiply negative 10 by 10, giving
+negative 100. Third, multiply x by x, giving positive x2. Fourth, multiply
+negative 10 by x, giving negative 10 x. The total is therefore x2 less 100
+units.
+
+Eiglztlz. Given to multiply one-half a unit less 5 x by 10 plus ὲ x.
+
+Multiply the half unit by 10, giving 5, Then multiply negative 5x
+by 10, giving negative 50 x. Third, multiply the half unit by ἐκ, giving
+{x positive. Fourth‚ multiply negative 5 x by ἐκ, which 15 the same as
+multiplying 232· by x, giving 2} x² negative. The total therefore is 5
+units less 2} 2⁵², and less 49} x.
+
+N intlz. Given to multiply a unit less ὲ by a unit less ὲ of a unit.
+
+Multiply a unit by a unit, then negative ὲ of a unit by a unity giving a
+unit less ὲ 01 a unit Third, multiply a unit by negative ὲ 01 a unit, giving
+negative ὲ 01 a um‘t. These give ἓ of a unit. Fourth, multiply negative >6¹-
+by negative ὲ 01 a unit, giving positive ἐς The total is therefore twenty-
+five thirty-sixths 01 a unit.
+
+Tentlz. Given to multiply 10 plus x less 10 by 10 plus x. This is the
+same as to multiply x by 10 plus x. Hence the product is x² plus 10 x.
+
+Concerning the dombling, triffiing, and quadrupling o] radicals
+
+It should be noted that when you wish to double the root of a square,
+either a definite root or a surd, you multiply 2 by 2 and multiply the given
+square by this product. The root of this product will be the double which
+you seek 01 the root os the proposed square. Similarly 11 you wish its triple,
+you multiply 3 by 3. And 11 you wish the quadruple 01 it, you multiply
+4 by 4, and so on; and finally you multiply the proposed square by the
+product3 the root of the product thus obtained will be the double, triple,
+or quadruple, etc„ oi the proposed square.
+
+A similar note on fractions
+
+If you have it in mind to obtain half of the root, multiply one-half by
+one-half, then the given square by the product. The root 01 this final
+product gives the desired result. Similarly if you wish to have a third part,
+multiply a third part by a third part, and so on.
+

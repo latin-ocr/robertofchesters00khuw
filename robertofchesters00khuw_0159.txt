@@ -1,0 +1,57 @@
+ADDITIONS TO THE ALGEBRA 129
+
+SOME ADDITIONS IN EXPLANATION OF THE ALGEBRA
+
+We find a triple combination of squares,1 namely squares and roots equal
+to numbers, squares and numbers equal to roots, and finally roots and
+numbers equal to squares.
+
+An Illustration of tlte First Type
+
+A square and 8 of its roots equal 3 3 units. The question is, what is the
+square ? ² Answer : 9.
+
+The rule is to add to the number the product of half of the root multiplied
+by itself, that is 16 to 33, and 49 is obtained, of which the root is 7. Now
+from this root we subtract one-hali of the number of the roms, namely 4,
+which leaves three. This is the root of the square, and the square is 9.³
+
+Likewise if you are given that two squares and eight roots are equal
+to 42 units. Reduce in the following manner to one square. If two squares
+and eight roots are equal to 42 units, then one square and four roots are
+equal to 21. You operate therefore by duplication and arrive in the end
+at the desired result}
+
+Likewise if you are given one—half a square and four roots equal to 16}
+units. Reduce the problem to a whole square, take one-half of the whole,
+and in the end you arrive at the desired result.⁵
+
+An Illustralion of the Second Type
+
+A square and fifteen units equal eight roots. What then is the square?
+Answer: 9 or 25.
+
+Rule. Multiply one-half of the roots by itself, and 16 is obtained. From
+
+this subtract the 15 units and one is obtained, of which you subtract the
+
+root, namely one„ from one-half of the roots. This gives 3 as the root of
+
+the square. Or add that one to one-half of the roots and 5 is obtained as
+
+the root of the square. It is clear then that the problem is solved by each
+value, and hence it is necessary to determine separately both solutionsfi
+
+C orollary
+
+It should be noted that if the square of half of the roots is less than the
+proposed number, as, for example, a square and the number 15 equal to
+6 roots, then the problem is not solvable.⁷ If the square of one-half of the
+roots is equal to the given number7 as, for example, a square and 9 units
+equal to 6 roots, then the half of the roots is the root of the square. More-
+over, if a problem is proposed involving more than one square or less than
+a whole square, reduce to one square. and operate as indicated above.
+
+¹ Scheybl changes from substantia to census: see p. 69, n. 1.
+² Textus in the margin precedes the statement of each problem, and Minor the solution.
+

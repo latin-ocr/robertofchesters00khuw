@@ -1,0 +1,63 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 115
+
+I multiply x 4- 2 units by ᾗ, representing the quotient.l This gives {x
+and a unit equal to x. On account of the one-half x Ι take one-half x from
+both sides, leaving a unit equal to ὲκ. Ι double this, giving two units,
+which equal the unknown. Whence four is the other.
+
+S ixtlz Problem
+
+Ι multiply a square by its root in such a way that the product equals three
+similar squares.²
+
+Explanation. From what is given it follows that when you multiply
+the root by one-third of the square, the total gives the square.³ Therefore
+3 represents the root of this square, and 9 the square.
+
+Seventlz Problem
+
+I multiply three roots of a square by four of its roots in such away that the
+sum total of the multiplication will equal the same square and 44 units.⁴²
+
+Explanation. Multiplying four roots of a square by three of its roots,
+we have twelve squares, which are equal to one square and 44 units.5 Take
+therefore the one square from the 12 squares, leaving 11 squares equal to
+44. Hence one square equals 4.
+
+Eiglztlz Problem
+
+I multiply four roots of a square by five roots of the same square in such
+a way that the sum total of the multiplication will equal double the square
+and 36 units.⁶
+
+Explanation. I multiply four roots of a square by five of its roots and
+I have as a product 20 squareS, which are equal to 2 squares and 36 units.
+Therefore Ι take the two squares from the 20 squares, leaving 18 squares
+equa] to 36 units. I divide 36 by 18, and obtain 2, which represents the
+square.⁷
+
+1 x
+x -†· 2
+
+² Rosen, pp. 54—55; Libri, p. 291.
+
+Al-Khowarizmi carefully avoids the term for the cube of the unknown, with which he was
+certainly familiar, for Diophantus and other Greek writers employed the term. His continuator,
+Abu Kamil, discussed not only cubics which, like this one, are reducible immediately (to equa-
+tions of lower degree), but also equations in quadratic form. However, systematic discussion
+of the general cubic was first attempted by Omar Khayyam.
+
+³ x² · x = 3 .i·².
+
+⁴ Rosen, p. 55; Libri, p. 291.
+
+⁵3x·4x =x² ÷44.
+
+⁶ Rosen, p. 55; Libri, p. 284.
+
+⁷4x-5x = 2x² ÷36; 181² =36; x² = 2.
+
+={‚whencex ={(x÷2); x ={x†1;{x =1,x =2.
+
+ 
+

@@ -1,0 +1,44 @@
+MANUSCRIPTS OF ROBERT OF CHESTER'S TRANSLATION 61
+
+in agreement with Scheybl's reading as opposed to the Vienna
+reading. Thus on page 66 of our text the marginal notes to words
+in lines 17 and 18 alii centenum and alii decem, and on page 68 to
+a word in linc 2, aliz· coniunctis. Four rather long marginal cor-
+rections are made, also apparently based upon the Vienna manu—
+script, in the text to page 92, line 1, in the text as given in note
+6 on the same page, in the text given on page 94, lines 34—36,
+and on page 96, line 17.
+
+We have found then in each of these two manuscripts seven
+definite indications of a parent manuscript with a line length of
+between 36 and 54 letters, not very different from the line length
+in these Mss. themselves. But aside from the line length of the
+parent there are other indications that the two Mss. have a com-
+mon parent. In the text of page 86, line 15, both Mss. read cx
+duobus el quarta ιἰι sc· ipsis where the sense requires ex unitate et
+medietate in sc ζ’ῥςίςς this error was evidently in the parent Μὰ,
+and possibly in the autograph. Similarly in the text of page 106,
+lines 1 1 and 14, both Mss. read plainly 36, and that twice, whereas
+49 is the correct numerical result here. The scribe of the Dresden
+ΜΞ. commonly (5 times) writes lziz's and the other scribe llis, but
+in the text of page 76, line 15, this procedure is reversed; the in—
+dicationis that lzz‘z‘s was the form employed in the parent. The
+Dresden scribe writes addicias and the Vienna scribe adicias, ex-
+cept in the text of page 76, line 20 where the latter also writes
+afficiam probably this form was used in the parent Ms. In the
+text of page 102, line 26, the Vienna MS. reads 10 sine re, and the
+Dresden Ms. rem, while the sense requires 10 res sine substantia.
+Either the translation was incorrect in the parent, or, more prob-
+ably, the passage was illegible. In the text of page 112, line 22,
+the Vienna Ms. reads 2000, 500, 50 et 4³, for 2550 cl 4³; the
+Dresden Ms. writes the expression in words. This corresponds
+to a direct translation from the Arabic, for most early mathemati-
+cal Mss. in Arabic follow the practise of writing numbers in full
+numeral words, and not in Hindu-Arabic notation.
+
+The discussion of Scheybl's text is somewhat more complicated
+than that of the two preceding, for Scheybl follows sometimes the
+one. sometimes the other, and frequently neither, of the two older
+texts. As we have indicated above, there is probability that thc
+present Vienna text may have been in the library of the Univer-
+

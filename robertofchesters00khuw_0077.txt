@@ -1,0 +1,51 @@
+MANUSCRIPTS OF ROBERT OF CHESTER'S TRANSLATION 51
+
+make the text easier to follow. That the reader may have before
+him all the evidence in regard to the text, the readings of the
+other Mss. are recorded in the critical notes. These may seem
+needlessly full on account of the inclusion of many apparently
+unimportant variants3 yet in any attempt to determine the parent-
+age of the Mss. such evidence frequently possesses a significance
+which is not at first sight apparent.
+
+The Dresden Codex C. 80⁰³, of which I have photographic
+copies through the courtesy of the director of the Dresden library,
+contains a fragment of Robert of Chester's translation of the alge-
+bra of Al-Khowarizmi. The passage is introductory to a work on
+arithmetic; the latter contains portions of the algorism by Sacro-
+bosco, and of the algorism in verse by Alexander de Villa Dei,
+and also parts of the commentary on the former by Petrus de
+Dacia (1291), together with other comment and further exposi-
+tion. The “ Rules corresponding to the rules of algebra,'' which
+we have reproduced on page 126 from the Vienna Ms. are also in-
+cluded with other algebraic material in this mathematical MS.
+Here these rules1 follow closely the Vienna text, whereas similar
+rules ² in Codex Dresden C. 80, fol. 351³, do not.
+
+The fragment from Codex Dresden C. 80¹¹¹ follows:
+
+“ Incipit liber restauracionis numeri quem edidit machumed filius moysi algau-
+
+riszmi quare dixit machumued.
+
+“Laus deo creatori qui homini contulit scientiam inveniendi vim numerorum.
+Considerans enim omne id quo indigent homines ex numero, inveni id toturn esse
+numerum. Et nil aliud esse numerum nisi quod ex vnit-atibus componitur. Vnitas
+ergo est qua vnaquaque res dicitur vna et vnitas in omni numero reperitur. Inveni
+autem omnem numerum essentialiter ita dispositum vt omnis numerus vnitatem
+excedat vsque ad 10. Decenus quoque numerus ad modum vnitatis disponitur,
+vnde et duplicatur et triplicatur quemadmodum factum est ex vnitate. Fiuntque
+ex eius duplicatione 20. ex eius triplicatione 30. Et sic multiplicando decenum
+numerum ad centenum peruenitur. Proinde centenus numerus duplicatur et triplica-
+tur, ete. ad modurn numeri deceni. Et sic centenum numerum duplicando et
+triplicando, etc. Millenus excrescat numerus. Ad hunc ergo modum millenus
+numerus ad modos numerorum, vsque ad infinitam numeri investigationem
+conuertitur.'’
+
+In this passage the sentence, ‘⁸ Vnitas ergo est qua vnaquaque res
+dicitur vna‚'‘ is interjected from Sacrobosco's algorisnn it is a
+translation of Euclid's definition of a unit. The work which im-
+
+¹ Published by Wappher, qugramm (vaickau, 1887), note ι, page 14.
+'² Published by Wappler. loc. cst„ pp. 13—14.
+

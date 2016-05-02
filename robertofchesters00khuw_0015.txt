@@ -1,0 +1,40 @@
+PREFACE
+
+FROM the point of view of the history of science, no justification
+is needed for the publication of a mathematical text of the twelfth
+century, for the available material representing this period is
+meagre. A wider acquaintance with Robert of Chester's Latin
+translation of Al-Khowarizmi's Arabio treatise on algebra will per-
+haps contribute to a more just estimate of the services rendered to
+science by the Arabs. In the English version I have not at-
+tempted to give a literal translation of the Latin, but rather to
+express the thought in a phraseology which the modern student of
+mathematics will find easy of comprehension; by consulting the
+Latin text and footnotes the reader will be able to examine Robert
+of Chester’s own words. For the convenience of readers interested
+in the text Ι have added a Latin Glossaly in which are noted
+many variations from the usage of classical writers. In the
+Introduction I have presented a study of the significance of the
+treatise in the history of mathematics, and a description of the
+manuscripts upon which the text is based.
+
+It is a pleasure to express indebtedness to Professor David
+Eugene Smith for having suggested the work; to Mr. George A.
+Plimpton for the generous use of his unique mathematical library;
+to the librarians of the libraries of Vienna and Dresden for photo-
+graphic reproductions of manuscripts containing this text; to the
+librarian of Columbia University for the loan of the Scheybl man-
+uscript, and to the librarian of the Cleveland Public Library
+for the use ot works from the John G. White collection. I am
+much indebted also to colleagues of the University of Michigan,
+particularly in the Department of Latin and the Department of
+Mathematics.
+
+Ι am under special obligation to Mr. William H. Murphy for
+making possible this publication.
+
+LOUIS C. KARPINSKI.
+
+ANN ARBOR, MICHIGAN,
+November 1, 1915.
+

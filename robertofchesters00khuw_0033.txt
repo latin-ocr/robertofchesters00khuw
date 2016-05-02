@@ -1,0 +1,60 @@
+AL—KHOWARIZMI AND HIS TREATISE ΟΝ ALGEBRA 15
+
+change has taken place here, although this must have been rela-
+tively early since Ibn al-Qifti‚1 who died in 1248 A.D., in his
+Clzronz'cles of tlte Learned, gives the same account of Al-Khowa-
+rizmi as Al-Nadim. Furthermore, the author of the Fihrist knew
+of the algebra‚ for he mentions no less than three men as com-
+mentators on the algebra of Moliammed ibn Musa; Sinan ibn
+al-Fath of Harran‚ ‘Abdallah ibn al-Hasan al-Saidanani‚ and
+Abu'l·Wefa al-Buzjani are credited with such commentaries.2
+
+The arithmetic of Al—Khowarizmi lias come down to us only in
+a Latin translation, and this survives in a unique copy belonging
+to the library of the University ot Cambridge, published in 1857
+by Prince Baldassare Boncompagni.³ Several references4 in this
+work to the writer's other book on arithmetic make it evident
+that the Al-Khowarizmi in question is the author of the algebra.
+Our word algorism, as well as the obsolete form augrz'm‚⁵ used by
+
+¹ Smer, loc. cit.‚ pp. 6z-632 Casiri, Bibliotheca Arabico-Hispana Escarialenszk (Madrid,
+1760-1770)‚ 1, pp. 427—428. Ibn al-Qifti mentions the arithmetic.
+
+2 Suter, loc. cit.² pp. 37, 36, and 39 respectively.
+
+³ T rattati d ' aritmetz'ca (Romey 1857), I. Algoritmide numero indorum, pp. 1—23‚ which
+is the arithmetic in question, and bears interna] evidence that it is a translation from the
+Arabic; ΙΙ. Joanm's Hispalensis liber algmrismi de pratica arismetrice, evidently an
+adaptation and enlargement of the preceding. Some other manuscripts of the second
+treatise are anonymous, while others ascribe it to Gerard of Cremona.
+
+⁴¹ One passage is in Trattati, 1, pp. 2—3q Etiam patefeci in libro algebre et almucabalah,
+idest restaurationis et oppositionis, quod uniuersus numerus sit compositus, et quod
+uniuersus numerus componatur super unum. Vnum ergo inuenitur in uniuerso numero3
+et hoc est quod in alio libro arithmetice dicitur. Quia unum est radix uniuersi numeri, et
+est extra numerum. Radix numeri est. quare per eum inuenitur omnis numerus. . . .
+Reliquus autem numerus sine uno inueniri non potest. . . . Reliquus autem numerus
+indiget . . . uno: quare non potes dicere duo uel tria, nisi precedat unum. Nichil
+aliud est ergo numerus, nisi unitatum collectio. . . .
+
+Inueni. inquit algorizmi, omne quod potest dici ex numero. et esse quicquid excedit
+unum usque in lx.. id est quod est inter. Ix- et unum, id est duplicatur unum et fiunt duo:
+et triplicatur idem unum, fiuntque tria, et sic in ceteris usque in lx. De inde ponuntur,
+x. in Ioco unius, et duplicantur, x. ac triplicantur, quemadmodum factum est de uno,
+fiuntque ex eorum duplicatione, xx. et triplicatione. xxx. et ita usque ad xc. Post hec
+redeunt C in loco unius, et duplicantur ibi atque triplicantur, quemadmodum factum est de
+uno et x; efficiunturque ex eis cc. et ccc, et cetera usque in Dcccc. Rursum ponuntur
+mille in loco unius: et duplicando et triplicando, ut diximus. fiunt ex eis 11 mila, et 111 et
+cetera usque in infinitum numerum. secundum hunc modum.
+
+Compare with this our text, p. 66, lines 10—21.
+
+Another passage is Traltali, Ι, p. 10. Etiam patefeci in libro, quod necesse est omni
+numero qui multiplicatur in aliquo quolibet numero, ut duplicetur unus ex eis secundum
+unitates alterius.
+
+Compare with this our text. p. 90, lines 6-8.
+
+⁶See my paper on :Zagrou-stanes, Modern Languegw Notas, Vol. XXVII (1912),
+pp. 206—2093 compare also the use of the term Αζραιινῐςιή in our text, p. 102.
+

@@ -1,0 +1,58 @@
+146 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 Respondetur ex regula: 8 et 2.
+
+Regula. Vnam sectionem ponas rem et alteram 10 praeter rem. Multiplica
+deinde rem cum 10 praeter rem, et fiunt 10 res praeter censum. Postea quadrupla
+hoc toturn et producuntur 40 res praeter 4 census, et illud aequatur productum ex
+
+5 multiplicationis rei cum re, quod est census. Ex hypothesi ergo quaestionis
+census aequalis est 40 rebus praeter 4 census. Vnus igitur census aequatur 8
+rebus. Sed ille est 64, radix vero numerus 8. Vna igitur sectio est 8, et per con-
+sequens reliqua 2. Ista autem quaestio reducitur ad caput vbi census radicibus
+aequatur.
+
+ω Quaestio secunda
+
+Diuisi 10 in duas partes, et multiplicaui, 10 cum seipso, fuitque resultans ex
+tali multiplicatione aequale vni duarum partium multiplicatae cum seipsa bis
+et septem nonis multiplicationis vnius: quae igitur fuerunt partes?
+
+Respondetur ex regula: 6 et 4.
+
+1⁵ Regula. Ponatur vna duarum partium res, quae multiplicetur curn seipsa, et
+fit census. Is census dupletur et addantur septem nonae census et resultant 2
+et ἐ, hoc est viginti quinque nonae, census. Igitur si census esset nouem partes,
+istae essent quintae pars et quatuor quintae vnius quintae totius, quod esset
+viginti quinque nonae. Sed ex hypothesi totum multiplicatum vel productum
+
+20 est 100. Accipiatur igitur quinta pars et ξ quintae partis ex numero 100, erunt
+autem haec 36. Atque tantus est census, cuius radix scilicet 6 vna diuisionis pars
+in proposita quaestione. Reducitur aut haec quaestio ad caput in quo census
+numero aequatur.
+
+Quaestio tertia
+
+²⁵ Diuisi 10 in duas partes, et diuisi vnam partem in aliam et exiuerunt 4. Quae-
+ritur, quae sint partes.
+Respondetur ex regula: 8 et 2.
+Regula. Sit vna pars res, et altera 10 praeter rem. Si igitur ex diuisione 10
+praeter rern in rem exierint 4. Igitur ex multiplicatione 4 cum re resultabunt 10
+30 praeter rem. Quatuor igitur res sunt 10 praeter rem, atque ita quinque res
+decem praecise. Ergo vna res 2. Reducitur autem haec quaestio ad illud caput
+vbi res numero aequatur.
+
+Quaestio quarta
+
+Multiplicaui tertiam partem census et denarium vnum cum quarta parte
+35 census et curn denario vno, et prouenerunt 63 : quantus igitur est census?
+Respondetur ex regula: 24.
+
+Regula. Multiplica tertiam partem cum quarta, et producetur pars duo-
+decima census; deinde multiplica vnum denarium cum ὲ et producetur ᾧ rei;
+multiplica etiam tertiam curn denario et producetur ὲ rei, atque tandem denarium
+
+40 cum denario, et producetur denarius. Est autem totum multiplicationis produc-
+tum ᾖ census, quarta rei et tertia rei atque denarius, aequantes 63 denarios.
+Demas igitur primo denarium Vtrique, casum deinde hunc, vt quidem semper
+

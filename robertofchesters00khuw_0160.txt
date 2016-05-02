@@ -1,0 +1,39 @@
+130 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 12 denarios et veniunt 16, cuius radicem 4 adde ad medietatem radicum, et
+resultant 6, quae sunt radix census. Omne etiam, quod aut maius est vno censu
+aut minus, reducas ad vnum censum, atque deinde operare vt dictum est.
+
+Proponit causas trium combinationum
+
+5 Causa combinationis primae est haec :
+Sit quadratum α b quod censum significet, sitque huius quadrati latus ipsius
+census radix. Et quoniam ductus Vnius lateris in numerum radicum, quantitas
+
+A
+
+Β
+
+radicum sumptorum existit. Applicetur igitur ad vnumquodque latus quadrati
+quarta pars numeri radicum, scilicet duae radices lateri vni, et duae alii, et ita
+10 deinceps. Resultat autem sic quadratum aliud, praeter quatuor eius angularia
+quadrata, quorum singulorum vnumquodque latus duo, hoc est quartam partem
+numeri radicum, continebit. Ex ductu igitur quartae partis numeri radicum in se
+quater, resultabunt illa quatuor parua angularia quadrata, atque haec eadem
+
+ 
+
+resultant ex multiplicatione medietatis numeri radicum in se semel. Si igitur
+ις productum ex medietate numeri radicum in se multiplicata, addatur ad censum et
+
+ad radices, quadratum cuius vnius lateris quantitas aequalis est lineae c d de-
+
+scribetur. Hoc autem latus excedit latus census in medietate numeri radicum,
+
+quia per quartam partem in vno extremo, et per quartam partem in altero huius
+
+census latus auctum est. Ideo subtracta medietate numeri radicum a tota linea
+20 c d manebit quantitas radicis census quae quaerebatur.
+
+Illa probatio procedit ex propositione quarta secundi Euclidis.
+

@@ -1,0 +1,53 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 75
+
+fore take one—half of the roots, giving 5, which multiplied by itself produces
+25. Add this to 56, making 81. Extract the square root of this total, which
+gives 9, and from this subtract half of the roots, 5, leaving 4 as the root of the
+square.
+
+In this manner you should perform the same operation upon all squares,
+however many of them there are, and also upon the roots and the units.
+
+CHAPTER V
+
+Concerning squares and numbers equal to roots
+
+The following is an illustration of this type: a square and 21 units
+equal 10 roots.l The rule for the investigation of this type of equation
+is as follows: what is the square which is such that when you add 21
+units the sum total equals 10 roots of that square? The solution of this
+type of problem is obtained in the following manner. You take first one-
+half of the roots, giving in this instance 5, which multiplied by itself gives
+25. From 25 subtract the 21 units to which we have just referred in
+connection with the squares. This gives 4, of which you extract the square
+root, which is 2. From the half of the roots, or 5, you take 2 away, and 3
+remains‚ constituting one root of this square which itself is, of course, 9.2
+
+If you wish you may add to the half of the roots, namely 5, the same 2
+which you have just subtracted from the half of the roots. This give 7,
+which standsfor one root of the square, and 49 completes the square.³ There-
+fore when any problem of this type is proposed to you, try the solution of it
+by addition as we have said. If you do not solve it by addition, without
+doubt you will find it by subtraction. And indeed this type alone requires
+both addition and subtraction, and this you do not find at all in the preceding
+types.⁴
+
+You ought to understand also that when you take the half of the roots
+in this form of equation and then multiply the half by itself⁷ if that which
+proceeds or results from the multiplication is less than the units above-
+mentioned as accompanying the square, you have no equation.⁵ If equal
+
+¹ x² ÷ 21 = xo x. For this type of equation both solutions are presented since both roots are
+positive. A negative number would not be accepted as a solution by the Arabs of this time,
+nor indeed were they fully accepted until the time of Descartes,
+
+² For the general type, 1² -†- n = bx the solution is x = ἒ ss xl (ΞΥ - η, and both positive and
+
+negative values of the radical give positive solutions of the equation proposed. In this problem
+we have x²÷ 21 = 10 .=·; ὲ of 10 is 5, 5² is 25, 25 - 21 = 4,
+xl} = 2; 5— 2 =3,0ne root; 5÷2 = 7, theotherroot.
+³ Another use of the expression, ‘⁵ completing the square.’'
+⁴ The Vienna MS. defines, ‘in which the roots are halved.'
+⁵ This corresponds to the condition, b² - 4ac < ο, in the equation ax² ÷bx ÷c = 03
+in this event the roots are imaginary.
+

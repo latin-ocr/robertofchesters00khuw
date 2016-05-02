@@ -1,0 +1,60 @@
+ALGEBRAIC ANALYSIS BEFORE AL—KHOWARIZMI 5
+
+“ For let the square ABDC be described on AB (I. 46),· let AC be bisected at
+the point E, and let BE be joined 3 let CA be drawn through to F, and let EF be
+made equal to BE 3 let the square FH be described on AF, and let GH be drawn
+through to K.
+
+“ I say that AB has been cut at H so as to make the rectangle contained by AB,
+BH equal to the square on AH.
+
+‘¹ For, since the straight line AC has been bisected at E, and FA is added to it,
+the rectangle contained by CF, FA together with the square οι] AE is equa} to the
+square on EF. (ΙΙ. 6.)
+
+“But EF is equal to EB; therefore the rectangle CF, FA together with the
+square on ΑΕ is equal to the square on EB.
+
+· “But the squares on BA, ΑΕ are equal to the F
+square on EB, for the angle at A is right (Ι. 47),-
+therefore the rectangle CF, FA together with the
+square on AE is equal to the §quares on BA, AE.
+
+“ Let the square on AE be subtracted from
+each; therefore the rectangle CF, FA which re-
+mains is equal to the square on AB.
+
+“ Now the rectangle CF, FA is FK, for AF is
+equal to FG ; and the square on AB is AD 5
+therefore FK is equal to AD.
+
+“ Let AK be subtracted from each; therefore Ε
+FH which remains is equal to HD.
+
+“ And HD is the rectangle AB, BH, sor AB is
+equal to BD; and FH is the square on AH3
+therefore the rectangle contained by AB, BH is
+equal to the square on HA.
+
+ 
+
+“Therefore the given straight line AB has been cut at H so as to make the
+rectangle contained by AB, BH equal to the square on HA. Q. E. F.'‘
+
+The ordinary algebraical solution of the corresponding equation
+x2 -†- ax: αἳ, from a(a — x) = 96²,
+parallels this geometrical demonstration.
+
+To complete the square in the left-hand member, ai is added to
+
+both members. This corresponds to marking the point E on the
+
+figure, for then the square on BE equals α]2 4-{3 or AB2÷ AE2.
+
+Extracting the square root of both members, we have, alge-
+braically, χ-ΉΞ = -ὓ- &fisus
+
+the negative sign being disregarded. The right-hand member
+corresponds to the line BE and the left-hand member to EF,
+which is equal to BE.
+

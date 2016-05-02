@@ -1,0 +1,58 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 117
+
+Ninth Problem
+
+Multiply the root of a square by four of its roots in such a way that the
+sum total of the multiplication shall equal three squares and 50 units.¹
+
+Explanation. Ι multiply the root by 4 roots and Ι obtain four squares
+which are equal to three squares and 50 units. Ι take the 3 squares from the
+4 squares, leaving a square equal to 50 units.² Therefore the root of this
+square is the root of 50.³ The root of 50 multiplied by 4 roots of 50 gives
+200, which is equal to three of the squares and 50 units.
+
+Tentlz Prohlem
+
+I take from a square one—third of it and three units, and multiply the
+remainder by itself ; the product is the square.⁴²
+
+Explanation. When I have subtracted one-third and three units, two-
+thirds less three units remain. Now let the square be represented by x3
+then we multiply ξ x — 3 units by itself and have ᾖ x² ÷ 9 units — 4 roots
+equal to one root. Add the one root to the four roots, giving ξ x² -Ι- 9 units
+equal to 5 roots. It is now necessary to complete the four-ninths of a
+square, so as to make it a whole square. You multiply each side by ἠέ
+giving 11} x equal to x² -4- 2οὲ units. You perform the operations with
+these, then, in the manner which we have explained to you in the sections
+
+on the halving of the root.
+
+Eleventh Problem
+
+I multiply one-third of a square by one-fourth of it in such a way that
+the sum total of the multiplication will give the square.⁶
+
+Explanation. Ι multiply {x by ἑ (x) and I obtain {- of ὲχῖ equal to x.
+The root of the square, then, is 12, and the square is 144⁷
+
+¹ Rosen, p. 56; Libri, pp. 291—292.
+
+²x·4x =3x² 450.
+
+³ Scheybl adds: “The root of fifty multiplied by four roots of 50 gives 200, which is equal to
+three of the squares and 50 units.'’ Robert of Chester's text is more closely followed by the
+Vienna and Dresden manuscripts.
+
+The symbol for square root xl used by Scheybl was introduced by Adam Riese in his Coss
+written in 1524, but not printed until recently (Berlet‚ Leipzig, 1892); for the word Coss see
+page 38.
+
+⁴ Rosen, pp. 56—57; Libri, pp. 284—285. In modern notation: (x — ὲ x — 3)² = x. Between
+this and the preceding problem the Arabic text includes a problem, leading to the equation z
+
+,τ2 ÷ 20 = 12 x.
+
+⁵ Scheybl adds that you may, if you prefer, divide both sides by ξ.
+⁵ Roseu, p. 583 Libri, p. 292. {x · Ξ x = x.
+⁷ In the Arabio text this problem follows: (ὲ x -4- 1)(:¹s x 4- 2)= x -ί- 13.
+

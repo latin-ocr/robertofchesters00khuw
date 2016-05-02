@@ -1,0 +1,50 @@
+ADDITIONS TO THE ALGEBRA 135
+
+Now let the point g fall within the side of the square.
+
+Let the square as before be represented by abed and the parallelogram chef,
+equivalent to the given number 15, be applied to the side bc. Then upon
+half of the line df erect the square gkms. Construct the line co equal to
+the line cf and draw the line nhop everywhere equally distant from the line
+df. Since the lines dc and cb are equal to each other (being sides of a square),
+and further, the lines co and cf equal (by construction), it follows that the
+parallelogram do is equal to the parallelogram ce on account of the equality
+of the sides. But further, since the two supplementary rectangles go and
+om are equal to each other by the forty-third proposition of the first book
+of Euchd, by subtracting equals from equals according to the well-known
+axiom, the remainders are equal, giving the parallelogram dlz equal to the
+parallelogram le together with the square cp. But also since dlz is equal to
+the parallelogram go plus the square cp by the thirty-sixth proposition of
+the first book'(of Euclid), it follows that these two, the parallelogram go
+and the square cp. are equal to the preceding two, the parallelogram le
+and the square cp by another well-known axiom.¹ Whence by subtracting
+the common part, the square cp, go is equal to the parallelogram le; and in-
+deed the lines co and lm are also equal to each other. Further‚ the line
+me will be equal to gc, and so also equal to the side of the square lzl.
+Since the square gm has a known area, by the fact that its side is one-half
+of the given number of roots, if from it there be subtracted 15 which is repre-
+sented by the gnomon gfm, circumscribed about the square hl and equal,
+as we have just shown, to the parallelogram do, the square hl remains known
+in area; whence also the side of it is known. But since this side of the
+square lzl is equal to the line gc or me, when added to the half of the number
+of the roots ms a side of the square gm, the line ef is then known. And
+this is the root of the unknown square. The proposed question is solved.
+
+The geometrical figures follow.
+
+An Illustration of the Third Type
+
+Four roots and twelve units are equal to x2.
+
+The explanation of this type is as follows. Let x² be represented by
+the unknown square abed which contains 4 roots and 12 units. From this
+square cut off the parallelogram bcef containing four roots. The paral-
+lelogram ae consequently will contain precisely 12 units. Then divide the
+line ee, representing the number of the roots, into two equal parts by the
+point g and upon the side eg erect the square gclzk. Also upon the side
+dg erect a square gdml, and let the line ml cut the line es in the point n.
+Since the lines ad and dc are equal to each other, and further the lines md
+
+¹ Following Heath‚ loc. cit„ “Things which are equal to the same thing are also equal to one
+another.''
+

@@ -1,0 +1,50 @@
+144 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 Secundum aenigma
+
+Radix ex 200, subtractis 10, diminuta a duplo subtracti, scilicet a 20 excepta
+radice ex 200 est triplum subtracti, scilicet 30, praeter duas radices ducentorum.
+Dicit aenigma, si a radice numeri 200 subtrahantur 10, id deinde quod relinquitur
+5 a 20 subtrahatur, atque ex hoc residuo postea radix numeri 200 auferatur, quod
+tandem triplum subtracti, hoc est 30, et duae radices numeri 200 maneant. Hoc
+autem sic probabitur. Sit linea a b radix ducentorum, et sit b c sibi aequalis, b d
+vero 20, atque postea α e 10. Secabo autem de linea b α lineam bf aequalem a e.
+Erit igitur tota linea d s 30. Porro ex linea c d secabo lineam c lz aequalem lineae
+10e b. Et quoniam linea e b est radix ducentorum exceptis 10, cum linea c d sit 20
+excepta radice ducentorum, facta subtractione e b lineae a linea c d, manet linea
+lt d quae erit 30 exceptis duabus radicibus ducentorum. Quod autem haec eadem
+linea Ιι d praecise tantum sit, probabo. Linea s d est 30 et cum linea h c radix sit
+ducentorum, linea deinde a e lineae j b, linea etiam e b lineae c Ιι aequalis ; et
+15 aggregatum ergo ex lineis s b et c lz radix ducentorum erit. Manet autem sub-
+tractione facta linea lz d. Probatum ergo quod probandum erat.
+
+Sequitur figura.
+
+r--m-fflu serm-nm ------- Ἴ ξε
+
+2---ss10 ------ ε ε
+ι- ----- 10 ----- ¹— ----------- 0 ----------- ·
+
+Tertium aenigma
+
+Duae radices alicuius numeri sunt vna sui quadrupli.
+20 Hoc satis patet ex eo quod quadratum est quadruplum ad aliud quadratum,
+cuius costa est dupla ad costam alterius.
+
+Quartum aenigma
+
+Centum et census exceptis 20 radicibus adiuncti ad 50 et ad 10 radices exceptis
+duobus censibus, sunt 150 exceptis censu et 10 radicibus.
+25 Probatio. Vbi enim subtrahuntur 20 radices, et adduntur 10 radices, idem est
+ac si solum 10 radices subtraherentur, et vbi additur census et subtrahuntur duo
+census, idem est ac si solum modo vnus census subtraheretur, ex quo patet pro-
+
+positum.
+
+Sequuntur nunc harum regularum exercitii maioris causa quaestiones decem et octo
+30 Prima
+
+Diuisi 10 in duas partes et multiplicaui Vnam partem cum altera, et postea
+Vnam cum seipsa, et produxit haec multiplicatio partis cum seipsa tantum quan-
+tum multiplicatio vnius partis cum altera quater: quae igitur fuerunt partes?
+

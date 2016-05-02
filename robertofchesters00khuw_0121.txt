@@ -1,0 +1,61 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 91
+
+Now further the method is to be explained by which you multiply un-
+known quantities or roots, either when alone, or when numbers are joined to
+them or subtracted from them. or when they are subtracted from numbers;
+also in what manner they are added to, or, in turn, subtracted from, each
+other.
+
+In the first place you should understand that the only way to multiply a
+number by a number is to take the number to be multiplied as many times
+as there are units in the number by which it is to be multiplied.¹ When
+therefore the nodes 2 of numbers are proposed either with some units or if
+units are subtracted from them, then the multiplication is fourfold, i.e.‚ first
+the nodes are multiplied by the nodes, then the units by the nodes and the
+nodes by the units, and finally the units by the units⁴ When therefore
+the units which accompany the nodes are both added or both subtracted
+the fourth product is to be added. But if one is added and the other sub-
+tracted then the fourth product is to be subtracted.
+
+A problem of this kind is given by the following : 10 and 2 are to be multi-
+plied by 10 and 1. Hence multiply 10 by 10, giving 100; then 2 by 10,
+giving 20 to be added; likewise 10 by 1, giving 10 to be added. Two by 1
+gives 2 to be added. The sum total of this multiplicatiori is finally 132.3
+And this illustrates what we have said in respect to the type in which the
+units which accompany the nodes are both to be added.4
+
+But when you wish to multiply 10 less 2 by 10 less 1, you say 10 by 10
+gives 100; 2 to be subtracted by 10 gives 20 to be subtracted; also 10
+by 1 gives 10 to be subtracted. This total, then, amounts to 70. But
+negative 2 multiplied by negative one gives positive 2. Therefore the sum
+total is finally 72.⁵ This illustrates what we have said when both (bino-
+mials) involve negatives.
+
+Moreover if you wish to multiply 10 and 2 by 10 less 1, you say 10 by
+
+¹ To this definition Al-Khowarizmi refers in his arithmetic (Τναίίαῑῐ, Ι, p. 10).
+
+² Scheybl adds that this is a word of uncertain and obscure meaning. The Arabic word ‘aqud
+is connected with the verb meaning “to knot,'' referring to tying knots on a string to indicate
+numbers. The Libri and Boncompagni texts use artz's11l1‘‚xvhile Rosen translates* greater numbers.'
+See also F. Woepcke, in Journal Asiatiquc, Vol. I (0), 1863, p. 276.
+
+³ The Columbia manuscript continues with the following addition by Scheybl:
+
+The calculation is as follows: 10 4- 2
+10 *f* 1
+
+ 
+
+100 20
+10 r [written by mistake for 2]
+132
+
+⁴ This is one of the early attempts at a discussion of the multiplicatiori ofbinomina15‚ including
+(x ÷ a) times (x 4- b), (x — α) times (x - b), and (r - α) times (r -4- b).
+
+⁵ Scheybl's text contains by error 81 for 72. The problem as given in the Arabio and Libri
+versions is (10— 1) by (10— 1) with the product 81. This undoubtedly was given by Robert
+of chester, and is so recorded in the Vienna and Dresden MSS. Scheybl evidently varied from
+the text before him, but neglected to make necessary changes in the numerica] computation.
+

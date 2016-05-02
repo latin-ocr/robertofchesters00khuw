@@ -1,0 +1,44 @@
+INTRODUCTION
+
+CHAPTER Ι
+
+ALGEBRAIC ANALYSIS BEFORE AL-KHOWAszI
+
+ARABIC contributions to science have, in the past, been sorne-
+what neglected by historians. More recent studies are recogniz-
+ing our indebtedness to Mohammedan scholars, who kept the
+embers of learning aglow while Europe was in the darkness of
+the Middle Ages. Much of our knowledge of Greek mathematics
+comes to us from Arabic sources; the early Latin versions were
+frequently based upon Arabic texts rather than the Greek origi-
+nals. Similarly‚ Hindu arithmetic and astronomy were trans-
+rnitted to Europe by Islain. The services of the Arabs to science
+were not limited to the preservation and transmission of the
+learning of other nations. They rnade independent contributions
+in many fields.
+
+Among these achievements is the Arabic algebra of Al-Khow-
+arizrni, which for centuries enjoyed wide popularity in the origi-
+nal, and for further centuries extended its popularity through
+translations and adaptations. A study of the content of this
+work is an excursion into mediaeval thought. By a study of the
+text in a form as nearly like the original as possible, we discover
+the reason for its long-continued appeal to the Occidental as well
+as the Oriental mind, its interest for the Englishman. the Ger-
+man, and the Italian, as well as for the Arab. Even to-day
+teachers of elementary mathematics may find this book fruitful
+in suggestion: the geometric solutions of quadratic equations
+presented by the Arabic writer rnore than a thousand years ago
+may be used with profit in our classroorns.
+
+Sitnple equations of the first degree in one unknown, of the
+type ax=b, are found in the oldest mathematical text-book which
+we possess, the Ahmes papyrus of about 1700 B.c., which was
+published with a German translation by Eisenlohr.l This Egyp-
+
+¹ A. Eisenlohr. Ez'n mathematisclzes Handbuclz der alten Αιζξγρίεν, Leipzig. 1877;
+Facsimile of tlte ha'nd Allatlzematical Papyrus in tlze Brz‘tislz thseum, with preface by
+E. A. Wallis Budge, London, 1898.
+
+1
+

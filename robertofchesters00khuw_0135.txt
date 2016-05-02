@@ -1,0 +1,65 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 105
+
+product of one part by the other. Then multiply x by x, i.e. one part by
+itselL giving x2, which equals 40x - 4 x2. Therefore restore ¹ or complete
+the number, i.e. add four squares to one square, and you obtain five squares
+equa} to 40 x. Hence 8 is the root of the square which itself is 64. The root
+of this is that part of 10 which is to be multiplied by itself‚ and the difference
+between this number and ten is 2. So that 2 is the other part of 10. Now
+this problem has led you to one of the six chapters² and, indeed, to that one
+in which we treat the type, squares equal to roots.
+
+Second problem, illustrating the second chapter
+
+I divide 10 into two parts in such a way that the product of 10 by itself
+is equal to twice the product of one part by itself⁷ adding seven-ninths of the
+same product.³
+
+Explanation. You multiply 10 by itself, giving 100, which is equal to 2x2
+and gx? You reduce this to one square, i.e. to ἐς, equal to ὲ and ἓ of ὲ
+of itself. And so reduce ὲ and ξ of ἑ of 100, i.e. 36, to one square. The
+root of the square is 6, representing one part of the division of 10, whence
+then the other part is necessarily 4. Therefore this problem has led you
+to the second of the six chapters in which we treated the type, squares equal
+to numbers.
+
+Third problem, illustrating the third chapter
+
+I divide 10 into two parts in such a way that when one part is divided by
+the other, the resulting fraction equals 4.4
+
+Explanation. You let x represent one part, and consequently the other
+you propose as 10 — x. Then you divide 10 — x by x, giving 4. Now
+it is evident that if you multiply the quotient by the divisor you
+
+¹ This is strictly the operation corresponding to the term algebra, and the verb used in the
+Arabic text is in fact from the same stem jbr as the word ¹ algebra ' ; the quantity 40 x above is
+regarded as incomplete by the amount 4 1²².
+
+² The reference is to the six types οἱ quadratic equations which are discussed extensively in the
+first part of the work, namely,
+
+ιιι-2 = br, ιιι-2 -4- bx = n,
+ax² = n, α.ϊῖ -†- n = bx,
+ar = n, affl = bx 4- n.
+
+The first six of the problems in this set are chosen to illustrate each of these six types, in order.
+
+³ 225² -4-{x2 = 100; ²15⁵-x2 = 100; x² = 36 anda· = ὁ.
+
+The Arabic text οἱ this problem is somewhat lengthier, and includes the statement of a
+second problem which does not appear either in our text or in the Libri version. Following
+Rosen’s translation, op. cit.‚ p. 36: ⁴¹1 have divided ten into two portions: I have multiplied
+each of the parts by itself, and afterwards ten by itself: the product of ten by itself is equal to
+one of the two parts multiplied by itself, and afterwards by two and seven-ninths; or equal to
+the other multiplied by itself and afterwards by six and one-fourth.” But a solution is given
+only for the first part of the problem.
+
+4 10 - x
+
+x
+
+ 
+
+=4; 10 —x =4x; 10 =5x‚andx =2.
+

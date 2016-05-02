@@ -1,0 +1,60 @@
+150 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 Quaestio octaua
+
+Diuisi 10 in duo, atque Vtroque multiplicata cum seipso, subtraxi minus de ma-
+iori et manserunt 40. Quaeritur de duobus.
+Respondetur ex regula: 7 et 3.
+
+5 Regula. Multiplica rem cum re, et proueniet census. Deinde multiplica
+etiam 10 praeter rem cum 10 praeter rem, et prouenient 100 dena. et census,
+exceptis 20 rebus. Subtrahe igitur censum a 100 et censu exceptis 20 rebus, et
+manent 100 exceptis 20 rebus quae aequantur 40 dena. Restaurando igitur dic,
+quod 100 denarii aequentur 40 denariis et 20 rebus. Subtrahendo deinde 40 a 100
+
+10 patet quod 60 denarii aequantur 20 rebus; tres igitur denarii rei vni; estque
+ternarius vna diuisionis pars, quare 7 altera.
+
+Quaestio nona
+
+Diuisi 10 in duo et Vtramque multiplicaui curn seipso, adiunxi deinde producta
+
+simul et insuper addidi differentiam horum duorum antequam multiplicarentur
+ις cum seipsis, et prouenerunt 54. Quaeritur.
+Respondetur ex regula ε 6 et 4.
+
+Regula. Multiplica rem cum re, deinde etiam 10 praeter rem curn 10 praeter
+rem, et adde simul producta, et veniunt 100 denarii et 2 census, exceptis 20 rebus.
+Cum igitur superfluum inter partes, vel partium differentia, sit 10 praeter 2 re5‚
+
+20 adiecto hoc superfluo, erit totum 110 dena. et 2 census exceptis 22 rebus, quae
+omnia aequantur 54 denariis. Dic igitur, res integrando, quod 110 den. et 2
+census aequentur 54 denariis et 22 rebus. Reducendo deinde ad vnum censum,
+dic, quod 55 denarii et 1 census aequentur 27 denariis et 11 rebus; subtrahendo
+verb 27 a 55, dic quod 28 denarii et Vnus census aequentur 11 rebus. Age igitur
+
+25 per caput quo census et numeri rebus aequantur, et patebit quod vna pars diui-
+sionis 6 et altera 4 erunt.
+
+Quaestio decima
+
+Diuisi 10 in duo et vtrunque diuisi in alterum, et aggregatum ex diuisionibus‚
+id est exeuntium, fuit 2 et vna sexta. Quaeritur.
+
+30 Respondetur ex regula: 4 et 6.
+
+Regula. Aggregatum ex multiplicatione Vtriusque cum seipso, aequum est
+multiplicationi vnius curn altero et producti cum aggregato ex diuisionibus
+vtriusque in alterum quod in hoc casu est 2 et vna sexta. Ideo multiplica 10
+praeter rem cum seipso, et re cum re, et prouenient 100 et 2 census, exceptis 20
+
+35 rebus, et hoc totum aequatur multiplicationi rei cum 10 praeter rem, et producti
+cum 2 et vna sexta. Sed multiplicatio rei curn 10 praeter rem producit 10 res
+praeter censum, quibus curn 2 et ἐς multiplicatis 21 res et ξς rei praeter 23¹5 census
+resultabunt, quae aequantur 100 dena. et 2 censibus exceptis 20 rebus. Re-
+staurando igitur census et res, veniunt 41 res et ἐ rei aequales 100 denariis et 4
+
+40 censibus curn sexta parte census. Reduc igitur totum ad vnum censum sic.
+Consideretur censum esse 6, et erunt 4 census et sexta, 25. Atque huius vnus
+census, 6 scilicet, est vna quinta et quinta quintae. Totius igitur quod habes
+

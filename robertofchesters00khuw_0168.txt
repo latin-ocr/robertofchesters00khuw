@@ -1,0 +1,63 @@
+138 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 diminuti fuerint in Vtroque, tunc multiplicatio quaelibet debet addi. Si autem
+vnus fuerit additus et alter diminutus, tunc ista multiplicatio subtrahi debet a
+productis.
+
+Sequitur liuius rei vel regulae exemplum
+
+s Idem est multiplicare 8 cum 17, et multiplicare 10 praeter 2 cum 20 praeter 3,
+et hoc fiet sic. Multiplica 10 cum 20, et resultabant 200. Deinde multiplica
+praeter 2 cum 20, et resultabunt 40, subtrahenda a 200 et manent 160. Tertio
+multiplica 10 cum praeter 3, et resultabunt 30, subtrahenda a 160 et manent 130.
+
+Quarti) multiplica praeter 2 cum praeter 3 et resultabunt 6 addenda, et veniunt
+10 136. Igitur octo decies septies sunt 136.
+
+Sequitur huius rei calculus.
+
+10 praeter 2
+
+20 praeter 3
+
+200 praeter 40
+15 praeter 30 et 6
+136 et caet.
+
+Aucta minuta simul minues; sed caetera iunges.
+Aequantur numero radices censibus ambo,
+In medio minues, alibi quod colliges addes.
+
+20 Alia tria carmina, quae trium aequationum exempla proponunt
+
+Census et 8 res 30 valent simul et tres.
+Census cum seno, res quinque valere notato.
+Aequiualent censum res 4 et duodenus.
+
+Sequuntur nunc in declaratione exempla multiplicationis alia
+
+25 Si cum 10 praeter rem debeas multiplicare 10.
+
+Multiplica 10 cum 10, et fiunt 100. Deinde multiplica 10 cum re, et fiunt 10
+res diminuendae. Dic ergo qubd resultent 100 denar. praeter 10 res.
+
+Item secundbz si cum 10 et re multiplicares deberes 10.
+
+Multiplica 10 cum 10 et re, et resultabunt 100 denarii et 10 res.
+
+30 Item tertib. Si cum 10 et re multiplicare deberes 10 et rem.
+
+Multiplica 10 cum 10, et fiunt 100. Deinde multiplica rem cum 10, et fiunt 10
+res addendae. Tertii> multiplica 10 cum re, et fiunt 10 res addendae. Quartb
+multiplica rem cum re, et fit census addendus. Erit ergo totum 100 dena.‚ 20
+res et census.
+
+35 Item quarte). Si cum 10 praeter rem multiplicare debes 10 praeter rem.
+
+Multiplica 10 cum 10, et fiunt 100. Deinde multiplica rem diminutam cum 10,
+et fiunt 10 res diminuendae. Manent autem 100 praeter 10 res. Tertia multi-
+plica 10 cum re diminuta, et fiunt 10 res diminuendae. Manent autem 100 praeter
+20 res. Quarti) multiplica rem diminutam cum re diminuta, et fit census addendus.
+
+40 Totum igitur erunt 100 denarii, census praeter 20 res.
+

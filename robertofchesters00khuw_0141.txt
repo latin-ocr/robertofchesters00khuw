@@ -1,0 +1,62 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 111
+
+F irst Problem ¹
+
+I divide ten into two parts in such a way that the product of one part
+multiplied by the other gives 21.²
+
+Now then we let x represent one part, which we multiply by 10 — x,
+representing the other part. The product 10x - x2 is equal to 21 units.
+Complete on by x‘·' and add this x2 to 21. This gives 10x equal to x² ÷ 21
+units. Take one-half of the unknowns, i.e. 5, and multiply this by itself,
+giving 25. From this subtract 21, giving 4. Take the root of this, 2, and
+subtract it from half of the roots, leaving 3, which represents one of the parts.
+
+Second Problem
+
+I divide ten into two parts in such a way that each part being multiplied
+by itself‚ the product of the smaller part taken from the product of the larger
+part leaves 40.³
+
+Explanation. You multiply 10 - x by itself, giving 100 -Ι- x² — 20x.
+You multiply x by itself, giving 2⁸², which you take from 100 -l- x2 — 20x‚
+leaving 100 - 20x equal to 40 units. Therefore by adding 20x to the
+40 units complete 100 units by 20x. This gives 100 equal to 40 units 4- 20 x.
+Therefore you take 40 from 100, leaving 60 units equal to 20x. Three is
+then the value of x and represents one part.
+
+T lzird Problem
+
+I divide ten into two parts in such a way that when to the sum of the
+products of each part by itself is added the difference between the two parts
+the sum total will be 54 units.¹¹
+
+1 The sixteen problems which follow are selected by Robert of Chester from twice that num<
+ber in the Arabic text. The Boncompagni version presents nine, including the first, second,
+third, and fifth of this list.
+
+The Boncompagni version interjects (loc. cit„ pp. 45—46) before these problems: “pro rnul-
+titudine <lata assignatur horum muttatione quaslibet questiones secundum restauracionem pro-
+positas in predictos modos solubiles esse palam est. Cuius utilitas ad documentum libri
+elementorum precipua est. in inveniendis scilicet lineis alogis et medialibus binomiis et residuis
+sive reccisis que per notum numerum assignari non possunt. In practica quoque geometrie et
+universis questionibus ignotorum secundum arismeticam formatis certissima via est.''
+
+² ,τωο - x) = 21, which leads to the type equation given earlier in the work, ,τῖ -4- 21 = 10 x,
+and indeedv it incidentally appears a second time in the preceding set of problems. The Arabic
+text precedes the statement of this problem, Rosen, op. cil., p. 41, as follows: ‘¹ If a person puts
+such a question to you as . . .’'·‚ the Boncompagni version, loc. cit, p. 46. precedes: “Igitur
+sub formas precedencium et alias questiones proponimus. Queritur. . . . '³
+
+³ (10 — .ι·)2 - ,ι-’-“ = 40, whence 100 — 20 x = 403 20 ‚r = 60, x = 3, which is the value of the
+root.
+
+⁴x² ÷(10 —x)²÷10— 2x = 54, whence 2x2— 22x ÷110= 54; 2x² 4- 110 = 54÷22x
+x² ÷55 = 27 4- 11 .t; x²÷28= 11 x; ὲ of 11 is 53, (ςὲ)2 =30}‚30}- 28 = ἢ, νῇ =
+5} - 1} = 4, which is the value of the unknown quantity.
+
+3
+7
+
+τὲ
+

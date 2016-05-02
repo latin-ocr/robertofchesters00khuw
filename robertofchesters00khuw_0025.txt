@@ -1,0 +1,52 @@
+ALGEBRAIC ANALYSIS BEFORE AL—KHOWARIZMI 7
+
+ceeds in the ordinary manner by adding to 896 the square of half
+the coefficient of x and then taking the square root of this sum.
+From this is subtracted one-half the coefficient of x, giving the
+side 28. Four other problems of this series deal with right tri-
+angles having rational sides and hypotenuse, in which the sum of
+the area and perimeter is to equal a given number. It a, b are
+the sides, c the hypotenuse‚ S the area, r radius of the inscribed
+circle, and s=}(a÷b÷c), then the solution depends upon the
+following formulae:
+
+S=rs=ssab‚ r÷s=a÷b‚ ιτς-ν.
+
+Ξέε r÷sss xs(r÷5)2—8 rs.
+2
+
+ 
+
+In the sixth book of the Arillznzetica Diophantus treats rational
+right triangles in which the area plus or minus one side is a
+given number, Orthe area plus or minus the sum of two sides or
+one side and the hypotenuse‚ is a given number. Again, such a
+problem appears in an algebraic work by Shoja ben Aslam, Aba
+Kamil, an Arabic writer of the tenth century.¹
+
+In respect to analysis Diophantus is the greatest name among
+the Greeks. Recently it has been established that he flourished
+in the third century of the Christian Era, when Greek supremacy
+in mathematics was waning. No doubt whatever exists that this
+Alexandrian was familiar with the analytical solution of the vari-
+ous forms of quadratio equations, neglecting negative roots and, of
+course, imaginary roots, which did not receive serious treatment
+for more than a millennium after Diophantus. The three types of
+complete quadratic equations, involving only positive coefficients,
+are the following:
+
+ax2 4- ὀ.τΞ c,
+αχ2 -i- c = bx,
+ax2 = bx÷ c.
+
+All three types appear in the Ar2·tlmzetz·ca of Diophantus, not
+systematically treated but solved as incidental to the solution of
+
+other problems. In fact, after dealing with the solution of equa-
+
+tions of the form
+ax⁷²¹ = bx&
+
+¹ Suter, Die Ablmndlung des Aba Kamil ΣΙιιξριῒ b. Aslam “iiber das Fic‘nfeck und
+Zelmcckff' Bibliotheca Affatlzemalica, Vol. X. third series (1910-11), pp. 15ss42.
+

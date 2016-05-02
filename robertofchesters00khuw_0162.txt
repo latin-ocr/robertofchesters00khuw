@@ -1,0 +1,39 @@
+132 ADDITA QUAEDAM PRO DECLARATIONE ALGEBRAE
+
+1 Aliter sic
+
+Sit census quadratum a b, cuius vni laterum applicetur medietas numeri radicum,
+et alteri eius lateri applicetur medietas numeri radicum altera7 sit autem primum
+additum α c, secundum vero α d. Ad perficiendum igitur quadratum c d, deficit
+
+5 quadratum quod vocetur b e, cuius latus medietati numeri radicum est aequale.
+Patet igitur causa operationis; nam ex ductu medietatis numeri radicum in se,
+resultat quadratum b e, et residuum est census cum adiectis radicibus Vnde cum
+illud magnum quadratum notum sit, et eius radix nota, per subtractionem radicis
+quadrati b e a radice quadrati α e, necessario rad'ur census manebit.
+
+10 Sequuntur figurae geometricae.
+
+b
+C C 6
+
+Exemplum combinationis secundae
+
+Sit census quadratum α h c d, cuius lateri b c applicabo parallelogrammum c b es,
+et ponam ipsum 15. Totum igitur parallelogrammum d a e s est census et 15
+denarii, et continet octo radices census. Diuidam ergo lineam d. s aequaliter in
+ις punctum g et erigam super latus g d quadratum g k m d, et protraham c b vsque ad l
+et ponatur litera lz in locum vbi g k secat α e lineam. Et quoniam d b est quadra-
+tum, cum ideo ex structura et propositione sexta secundi libri Euclidis, b k quad-
+ratum sit, duo parallelogramma g l> et b m inter se aequalia erunt ; mox deinde, per
+communem quandam noticiam, g α et c m aequalia. Atque tandem cum g a ex
+20 propositione 36 libri primi Eucli[dis]‚ g e parallelogrammo aequale sit, c m eodem
+parallelogrammo g e aequale erit. Subtractis igitur quindecim, hoc est gnomone
+l d lz a quadrato g m quod est sedecim, manet vnitas quadratum h k. Et quia
+notum, latus igitur vel radix, quae est linea l b, erit nota. Sed et tota l c nota est,
+manet igitur, post subtractionem I b ab l c linea, et b c linea nota. Et in hoc casu,
+25 quo punctus g cadit in parallelogrammum applicatum censui, sequuntur figurae
+geometricae.
+
+ 
+

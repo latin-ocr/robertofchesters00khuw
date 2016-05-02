@@ -1,0 +1,64 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 73
+
+Having taken then the square root of this which is 8, subtract from it the
+half of the roots, 5, leaving 3. The number three therefore represents one
+root of this square, which itself, of course, is 9. Nine therefore gives that
+square.¹
+
+Similarly however many squares are proposed all are to be reduced to
+one square. Similarly also you may reduce whatever numbers or roots
+accompany them in the same way in which you have reduced the squares.
+
+The following is an example of this reduction: two squares and ten
+roots equal 48 units.2 The question therefore in this type of equation is
+something like this: what are the two squares which when combined are
+such that 11 ten roots of them are added, the sum total equals 48? First
+of all it is necessary that the two squares be reduced to one. But
+since one square is the half of two. it is at once evident that you should
+divide by two all the given terms in this problem. This gives a square
+and 5 roots equal to 24 units. The meaning 01 11115 15 about as follows:
+what is the square which amounts to 24 when you add to it 5 of its roots?
+At the outset it is necessary, recalling the rule above given, that you take
+one-half 01 the roots. This gives two and one-half⁷ which multiplied by
+itself gives ὑὲ. Add this to 24, giving 30} Take then of this total the
+square root, which is, of course, 53. From this subtract half of the
+roots, 2ὲ, leaving 3, which expresses one root 01 the square, which itself
+is 9.
+
+Another possible example: half a square and five roots are equal to 28
+1111115.3 The import 01 11115 problem is something like this: what is the
+square which is such that when to its half you add five of its roots the sum
+total amounts to 28? Now however it is necessary that the square, which
+here is given as less than awhole square, should be completed.4 Therefore the
+half of 11115 square together with the roots which accompany it must be
+doubled. We have then, a square and 10 10015 equal to 56 units. There—
+
+¹x2⁷÷10x=39; ὲο110155,5ῗί525,,1513οΞ64
+Vffi=8; 8-5=3- ·v=3;·1⁴²=9-
+
+ 
+
+b
+
+For the general type x2 4- bx = η, the solution is ,1 = XMZY 4(- n -{; the negative value of
+
+the square root 15 neglected, as that would give a negative root 01 the equation.
+² 2 x² -†- 10 .r = 48, reducing to x² 4- 5 x = 24; ὲ 01 5 is 23, (2ὲ)2 = ὑὲ, 24 -ι- 6} = 30}‚
+113Ῑὲ - εὲ = 3-
+The general type affl -†· bx = n is reduced to the preceding by division, giving x² ÷g x = ff,
+
+α
+b²nb
+
+and the solution is, as before, x =Xl<ff) -1-ἇ- ῇ’
+
+ 
+
+³ ἐπὶ ÷5x = 28, reducing to x² 4- 10x = 56. x = 45²—÷56 — 5, 01 x = 4. Note that
+
+the value of x² 15 1101 given here as it usually is.
+⁴ Attention 15 called to the force of the expression, ⁴* completing the square‚'' as here used with
+
+the meaning to make the coefficient of the second power of the unknown quantity equa] to
+unity or making one whole square. See also page 81, footnote 1.
+

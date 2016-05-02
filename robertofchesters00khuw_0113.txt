@@ -1,0 +1,58 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 83
+
+which proves to be one side of the square a b, that is, one root of the pro-
+posed x2. Therefore three is the root of this 25², and x¹2 is 9.
+
+CONCERNING A SQUARE AND UNJTs EQUAL To UNKNOWN QUANTITLES
+
+A square and 21 units are equal to ten unknowns. This proposition or
+problem was proposed in the fifth chapter and here a geometrical
+demonstration is presented.
+
+Suppose that the square α b, α
+having unknown sides, represents
+x² and apply to it a rectangu-
+lar parallelogram of which the
+breadth is equal to one side of
+the square a b and the length is 7² b ⁰ d
+any quantity you please} Then FIG. 7.—Incornplete figure. lfrom the Columbia
+the numerical value Of [hig rec- manuscrlpt, where lt thce appears.
+tangle is 21. which number accompanies the same x‘3. Moreover this area
+b Z'c 9 or rectangle is called bg, of which one side is g d and the
+
+f 9
+
+length os the two areas together is finally h d. And it
+
+is now evident that this length represents 10⁷ since every
+
+3³ αἳ ‘³ y d quadrilateral having right angles (every square) gives for
+
+Pltofieg'ffissssoeng the product of one of its sides by unity one root, and if
+manuscript. multiplied by two gives two roots of its area.
+
+Therefore since the problem was given„ 2⁶² and 21 units equal 10 roots‚ it
+is evident that the length of the side lz d is 10. for the side lz b designates one
+root of x2. Thereiore bisect the side lz d at the point e 3 so that the line e lz
+is equal to the line e d. From the point e draw the perpendicular e t. This
+perpendicular equals lz α. Add to the prolongation of the line e t a part e c
+equal to the amount by which it is less than d e and then t c will equal t g.
+Whence we arrive at the square t l which is the product of half of the roots
+multiplied byitself. that is the product. in this instance, of 5 and 5. More-
+over we know that the area b g which we add to x² amounts to 21. Therefore
+we cut across the area b g with the line t e, which is one side of the area t l,
+and thus decrease the area b g by the amount of the area b t. Then we form
+
+¹ Scheybl's text is incorrect here.
+
+² If the lettering of this figure is made to conform to that of our text the demonstration will be
+seen to be not materially different3 it is based more directly on Euclid ΙΙ, 5. This proposition,
+following Heathv les leirtccu Books of Euslid's Elcmcnts, reads as follows: ‘¹ If a straight line
+be cut into equal and unequal segments, the rectangle contained by the unequal segments oi the
+whole together with the square on the straight line between the points of section is equal to the
+square on the half.'' This is one oi the propositions of Euclid which connect very directly with
+the geometrical solution of the quadratic equation.
+
+³ The completed figure (Fig. 9) appears on p. 85, The lettering of Fig. 7 does not correspond
+to that of the completed figure.
+

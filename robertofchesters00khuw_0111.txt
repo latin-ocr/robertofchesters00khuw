@@ -1,0 +1,65 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 81
+
+Hence we take half of ten and multiply this by itself. We then add the
+whole product of the multiplicatiori to 39, that the drawing of the larger
+square G H may be completed ; ¹ for the lack of the four corners rendered
+incomplete the drawing of the whole of this square. Now it is evident
+that the fourth part of any number multiplied by itself and then multi-
+plied by four gives the same number as half of the number multiplied
+by itself.² Therefore if half of the roots is multiplied by itself, the sum
+total of this multiplication will wipe out, equal or cancel ³ the multiplicatiori
+of the fourth part by itself and then by four.
+
+Another method4 also of demonstrating the same is given in this manner:
+to the square α b representing the square of the unknown we add ten roots
+and then take half of these roots, giving 5. From this
+we construet two areas added to two sides of the square
+figure a b. These again are called α g and b d. The
+breadth of each is equal to the breadth of one side of
+the square α b and each length is equal to 5. We
+have now to complete the square by the product of 5
+and 5. which, representing the half of the roots, we
+
+ 
+
+add to the two sides of the first square figure, which Fug'guss'fplffisslmplfffi
+
+represents the second power of the unknown. Whence Dresden manu-
+
+it now appears that the two areas which we joined to scnpt.
+
+a the two sides. representing ten roots, together with the first
+ab square, representing x²„5 equals 39. Furthermore it is
+
+evident that the area of the larger or whole square is
+formed by the addition of the product of 5 by 5. This
+
+Fut-‚ile ⁶* —Dsgsrcffi square is completed and for its completion 25 is added to 39.
+
+manuscript. The sum total is 64. Now we take the square root of
+this, representing one side of the larger square and then we subtract
+from it the equal of that which we added, namely 5. Three remains,
+
+¹ This corresponds to our algebraic process of completing the square. The correspondence
+of the geometrical procedure to the terminology and the methods employed in algebra makes it
+highly desirable to present the geometrical and algebraical discussions together to students ol
+elementary mathematics.
+
+2 (ἐγ - (ἐγ.
+4 4 - 2
+
+³ The words adaequabit zvcl delebit are doubtless added by Scheybl to explain the force of
+euacuct.
+
+⁴¹ A method slightly different from either of these is given by Abu Kamil and also in the
+Boncompagni version of Al-Khowarizmi's algebra, ascribed to Gerard of Cremona. This con-
+sists in applying to one side of the square a rectangle with its length equal to 10, while the other
+dimension is the same as that οἱ the square. The two together represent x² -1- on, or 39. Bi-
+sect the side whose length is 10. Now by Euclid ΙΙ, 6, the square on half the side 10 plus the
+side of the original square, (x -l- 5)‘-'‚ equals the whole rectangle (39) plus the square 25 of half
+the side 10. The rest of the demonstration is similar to that here given.
+
+⁵ I use ,r2 for substantia here and in the following demonstrations. &ko
+
+ffa-
+

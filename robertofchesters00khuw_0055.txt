@@ -1,0 +1,49 @@
+THE INFLUENCE OF AL—KHOWARIZMI'S ALGEBRA 37
+
+ployed by Regiomontanus in his trigonometryl in the solution of
+problems.
+
+Regiomontanus has been cited by Nesselmann ² as an illustra-
+tion of one who employed rhetorical algebra as opposed to synco-
+pated or symbolical. Later writers have followed Nesselmann in
+the assertion that Regiomontanus used rhetorical algebra, but,
+whereas the statement in Nesselmann is correct in so far as the
+illustration which he gives is concerned, the assumption that this
+was the general practice of the great Teuton is an error. In
+fact, his correspondence with Cardinal Blanchinus shows that he
+had a form of equation little inferior to ours. The -1- sign which
+he uses is a ligature for ct, the minus sign a ligature for minus,
+ancl for an equality sign he uses a single straight line. Further
+he has separate symbols for the various powers of the unknown
+up to the cube, so that Regiomontanus approached modern forms
+more closely than most mathematicians even of the sixteenth
+century. This attempted division of the history of algebra into
+rhetorical, syncopated‚ and symbolic periods is an excellent illus-
+tration of a plausible and taking theory, in historical matters,
+which lacks only the first essential for such a theory; namely,
+historical evidence. Development in mathematics, as in art and
+literature, does not proceed in a logical manner, but rather in
+waves advancing and receding, and yet withal constantly
+advancing.
+
+We have mentioned the Hebrew translation of the algebra
+of Abu KamiL which was made by Mordechai Finzi (about
+1475 ΑΒ.) of Mantua. Another treatise on algebra, in Hebrew,
+dedicated to Finzi, was written by Simon Motot.³ As the words
+cosa and censo are mentioned by Motot as being found in the
+works of Christian authors with which he was familiar the
+Italian source of his information is established, although the par-
+ticular writers in question are not known. As we have above
+indicated, the Italians were sufficiently active in this science, so
+that many Italian works on algebra were available‚ in manuscript,
+at this time.
+
+In the summer of 1486 Johann &Vidmann of Eger is known to
+
+¹ Regiomontanus, De triangulis libri quinque (Nuremberg, 1533), problem 12, p. 51.
+
+'² Nesselmann, Die Algebra der Gricclzen (Berlin. 1842), p. 303.
+
+³ G. Sacerdote. Le livre de l'algebre et le problema des asymplotes de Simon imitat,
+Revue des &tudes juz‘ws, 1893—1894.
+

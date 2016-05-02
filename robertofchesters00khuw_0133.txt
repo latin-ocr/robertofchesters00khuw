@@ -1,0 +1,61 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 103
+
+If you wish to multiply the root of 3 by the root of 3, you multiply 3 by 3,
+giving ὲ. The root of this one-sixth is that which we obtain by the multi-
+plication of the root of ὲ by the root of 3.
+
+Again if you wish to multiply two roots of 9 by three roots of 4‚¹ take two
+roots of 9 according to the method which we have explained so that you may
+know the square of which this is the root. Treat similarly the three roots
+of 4 in order to find the square of which this is the root. Then multiply these
+squares by each other, i.e. one of them by the other, and take the root of
+this product since this is the result of the multiplicatiori of two roots of 9
+by three roots of 4.
+
+Therefore using this process you are able, casting aside error, to multiply
+as many roots as you wish to join together or as many as you wish to sub-
+tract from other quantities.²
+
+PROBLEMS ILLUSTRATING THE CHAPTERS³
+
+Says Mohammed Al-Khowarizmi: Up to this point we have set forth
+the chapters on numbers which we proposed in the beginning of this work,
+under six problems⁷ one for each chapter, and we also mentioned in that place
+that every problem of restoration and opposition necessarily falls within the
+scope of one of these six chapters. But since the explanations were some-
+what involved we present and more fully explain these further problems,
+by which each type is illustrated and the science is more easily elucidatedst
+
+First problem, illustrating tlze first chapter
+
+Divide ten into two parts in such a way that one part multiplied by
+the other and the product, or result⁷ taken four times, will be equal to the
+product of one part by itself.5
+
+The method is to let x represent one part of ten, and the other 10 — x.
+Therefore multiplyxby 10 — x. giving 10x — x2. Also multiply 10x — x²
+by 4. as it was to be taken four times, giving 40x - 4x2 as four times the
+
+ 
+
+¹ 245 ΜΞΝ] = ὟΙ3-6 by *[3-62 ’Ῐῐῑφό = 36-
+
+² Rosen, op. cit, p. 31, translates this paragraph: “You proceed in this manner with all
+positive or negative roots'‘; he follows with the geometrical explanation of the two problems
+given in footnote 4, p. 33, and a further elucidation of the third problem of that set.
+
+³ Scheybl adds to the statement of each problem the marginal wordy Textus, and to the expla-
+nation, Minor,- also the numbering of the problems appears to be his addition.
+
+⁴ Rosen, op. cit.y p. 35: “Or THE srx PRonrssms.
+
+Before the chapters on computation and the several species thereos, Ι shall now introduce six
+problems, as instances of the six cases treated of in the beginning of this work. I have shown
+that three among these cases, in order to be solved, do not require that the roots be hzssved, and
+I have also mentioned that the calculating by completion and reduction must always necessarily
+lead you to one οἱ these cases. I now subjoin these problems, which will serve to bring the
+subject nearer to the understanding, to render its comprehension easier, and to make the argu-
+ments more perspicuous.'’
+
+⁵ 4.t(10—x) = x²; 5x² = 40.t;.1·= 8.
+

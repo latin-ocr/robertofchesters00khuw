@@ -1,0 +1,59 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 113
+
+The explanation of this problem is of the following nature: you multiply
+10 — x by its equal‚ which gives 100 -ὶ- x² — 20:25. Also you multiply
+x by x, giving x2, which you add to 100 —†- x² - 20 x. This gives
+100 † 2 x² — 20 x. To the sum total now add the difference between
+the two parts, 10 — 2x‚ and this total amounts to 110 -Ι- 2 x² - 22 x,
+which equals 54 units. You complete therefore (by adding 22 x), and you
+obtain 110 units -Ι- 2 x2 equal to 54 units -l- 22 x. This, moreover‚ you
+reduce to one square, giving 55 units —†- x² equal to 27 units -4- 11 x. So
+subtract 27 from 55, giving 28 units 4- x² equal to 11 x. Halve the un-
+knowns, giving 53. Multiply this by itself, giving 30} From this subtract
+28 and the root of the remainder, 13, taken from one-half of the roots, will
+leave 4. Therefore this represents one part.
+
+F ourtlt Problem ¹
+
+Divide ten into two parts in such a way that the product of one part by
+itself equals 81 times the other part.²
+
+Explanation: you multiply 10 — x by itself, giving 100 ÷ x² — 20 x,
+which equals 81 x. Complete 100 ψ x² by adding 20x to 81 x. This
+gives 100 ÷ x² equa] to 101 x. You halve the unknowns, giving 503.
+Multiply this by itself, giving 2550} Now subtract 100 from it, leaving
+2450} Take the root of this, i.e. 493. and subtract it from the half of
+the roots. This will give unity⁷ representing one part of ten.³
+
+F i stlz Problem
+
+Two squares (i.e. two quantities or numbers) being given with a difference
+of two units, I divide the smaller by the larger in such a way that the
+fraction resulting from the division shall equal one-half.⁴
+
+¹ The order of the problems is from this point different from the order of the corresponding
+set of problems as given in the Libri, Arabic, and Boncompagni versions, but the variations are
+due to the omission of problems, as will be noted below, rather than to actual changes in order.
+See chapter V οἱ our Introduction. The Boncompagni text is the least complete, giving only
+ten problems, which follow, in the main, those of the Libri text.
+
+² This problem (10 - x)² = 81 x, appears on pages 47—48 of Rosen's book, and appears twice
+in the Libri text, pp. 282—283 and pp. 289—290.
+
+In modern notation, the solution proceeds:
+
+100 - 20:1¹ ÷x² = 81 ,η .τῖ ÷ 100= 101 .τ; {of 101 is 5οὲ, (5οὲ)2 = 2550}; 2550} — 100
+
+ 
+
+= 2440}; 42440} = 493 ; 50} — 49ss = 1, which is the value of one root. The other root would
+be 50} 4- 493, or 100.
+
+³The second root, 100, is not given, since it leads to 100 and negative 90 as the two
+parts into which 10 is divided. This was rejected by the Arabic writer as an impossible
+solution, nor, indeed, was such a solution regarded as possible for centuries after the time oi
+the Arab.
+
+⁴ Rosen, pp. 50—51‚ and again pp. 62-63; Libri, p. 283 and p. 295. By error Scheybl makes
+this one-half of the larger square.
+

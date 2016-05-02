@@ -1,0 +1,57 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 89
+
+left equa] to l n. Further since e d equals n o, as they measure the breadth
+of the same area, therefore n 0 equals l n. Now as from the above demon-
+stration k lis not unequal to n s, it follows that the area comprehended by
+k l and l n equals the area included by the lines ns and n ο. m
+Therefore the area k n equals the area n c. The area e c
+amounts to the number four which we added to the three ῃ ⁰ h
+roots, and it is evident that the two areas e o and kn are
+
+equal in quantity to the one area e c, containing four in
+
+number. It is clear to us that the square g 0 consists of the
+
+product of one-half of the roots, zle. Ιὲ, by itself‚ with the
+
+addition of the two areas e 0 and k n. Thus the sum total F F
+
+of this square is 6} and the root of it is given by 23, which I‘iheu' {exim
+is contained by the side dg. We have left of the side of manuscript.¹
+the first square, which is the area a b, representing 1⁵², the half of the roots
+amounting to 1} which is the side g α. The line d g is a side of the square
+g 0y containing the product of one-half of the roots by itself with the addi-
+tion of four, as we have said. This total amounts to ὑὲ. We add the root
+of this, Ξὲ, to the line g α which is one—half of the three roots⁷ amounting
+to Ῑὲ. Hence this sum total reaches four, which is the line α d. This is
+the root of x² and also further of the square α c. The whole of x² is finally
+16. This is what we desired to explain.
+
+We have now explained these things concisely by geometry in order that
+what is necessary for an understanding of this branch of study might be
+made easier. The things which with some difficulty are conceived of by the
+eye of the mind are made clear by geometrical figures.²
+
+Posmviss AND NEGATIVES
+
+And I found, says Mohammed Al-Khowarizmi, that all problems of resto-
+ration and opposition are included in the six Chapters which we have set
+forth in the beginning of this book.³
+
+¹ The writer of the Vienna manuscript took no pains to make the proportions of his figures
+correct. Thus in this figure a b d g is intended to represent a square, while e is supposed to be
+the middle point of the line Ιι g. Further ο c is to be a square and likewise 6 m, and also the
+rectangle n t is intended to be equal to the rectangle z m, Moreover the proof in the Vienna
+manuscript is not consistent with the lettering of the figure, showing that the copyist did not
+succeed in following closely the argument of the text. similarly the figures in the Boncompagni
+version do not have the correct proportions,
+
+For the proof based directly on Euclid ΙΙ. 6, see page 133. The Boncompagni version and
+Abu Kamil make explicit reference to the propositions of Euclid.
+
+² This paragraph is not found in either the Libri or the Arabic versions; nor in the Boncom-
+pagni text.
+
+³ The evident meaning of this passage is that all problems leading to equations of the first or
+second degree can be solved by the methods set forth in the preceding text.
+

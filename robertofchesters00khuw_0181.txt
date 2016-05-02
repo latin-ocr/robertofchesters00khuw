@@ -1,0 +1,53 @@
+ADDITIONS TO THE ALGEBRA 151
+
+Eighth question
+
+Ι divided 10 into two parts, and each being multiplied by itself, I sub-
+tracted the smaller from the larger, and 40 remained. The question is
+as to the parts? The answer in accordance with the rule is 7 and 3.
+
+Rule. Multiply x by x, and you obtain x2. Then multiply also 10 — x
+by 10 — x and you obtain 100 units -4— x² — 20 x. Subtract, therefore, x²
+from 100 -1- x² — 20 x, and you have 100 — 20 x, which equals 40 units.
+By restoration say, then, that 100 units are equal to 4ο unjts and 20 x.
+Then by subtracting 40 from 100 it is plain that 60 units are equal to 20 x,
+and hence 3 units to one x. Three is one part; hence 7 is the other.
+
+N intlz question
+
+I divided 10 into two parts, and multiplied each part by itself3 then I
+added these products together, and the difference between these two, be-
+fore each was multiplied by itself, and the result was 54. The question
+is stated. The answer in accordance with the rule Is 6 and 4.
+
+Rule. Multiply x by x, and also 10 — x by 10 — x; add the products and
+you obtain 100 units -Ι- 2 ,1⁴² — 20 x. Since the excess of one part over the
+other, or the difference of the parts, is 10 — 2 x, when this excess is added
+we shall have 110 units -ὶ- 2 x² — 22 x as the sum total, which equals 54
+unjtS. Say therefore, by adding the 22 x, that 110 units ψ 2 x² equals 54
+um'ts -lss 22 x. Then by reduction to one square, you say that 5 5 units 4- x²
+equal 27 um'ts and 11 x. By subtracting 27 from 55, you say that x2 ψ 28
+um'ts equals 11 x. Treat this by the chapter in which squares and num-
+bers equal roots‚ and it will be plain that one part is 6, and the other 4.
+
+T entlt question
+
+I divided ten into two parts, and I divided each of these by the other;
+the sum of the two quotientS, that is to say, the result, is two and one-sixth.
+The question is stated. The answer in accordance with the rule is 4 and 6.
+
+Rule. The sum of the products of each (of the parts) multiplied by
+itself is equal to the product of the one by the other when tlu's product is
+multiplied by the sum of the quotients of each of the divisions, which in
+this case is 23. Hence you inultiply 10 — x by itself, and x by x, obtain-
+ing 100 -ι- 2 ‚r2 — 20 x. This total is equal to the product of x by 10 — x,
+multiplied by 24} But the product of x by 10 — x gives 10 ,r — x2‚ which
+being multiplied by 21¹3 there results 21 x ἦ· ξ x — 2} „1⁴² equal to 100 units
+-Ι- 2 x2 — 20 x. By restoration, then, of the squares and the roots, 41 a· 4—
+ξ x are obtained equal to 100 units 4- 4 „r2 -μ ὲ ,r². Reduce the whole then
+to one square in the following manner ε If a square is supposed to be 6,
+then 43¹5> squares would be 25 ; of this, one squarey namely ὁ, is ἑ and ὲ of ξ.
+Take therefore of everything which you have ἑ and ὲ of ὲ, and it wssl
+
+be plain that 10 x is equal to x² ψ 24 units. Proceed then by that chap-
+

@@ -1,0 +1,55 @@
+10 INTRODUCTION
+
+Now the Arabio Book of Chronicles¹ (987 A.D.) states that the
+astronomer Hipparchus (second century B.c.) wrote a treatise on
+algebra, and Cantor2 inclines to the belief that there actually was
+such a work. No trace, however. has been found of it, and the
+probability is that Hipparchus did not write any systematic trea-
+’ tise on algebra or on quadratic equations. The word “algebra'’
+indeed is Arabio in its origin and the use of it as a title goes back
+only to the time of our author, Mohammed ibn Musa. Neverthe-
+less it is possible that Greek mathematicians of the time of
+Hipparchus did occupy themselves with problems of the kind in
+question, because this was a natural development out of the con-
+sideration of rational right triangles, as given by Pythagoras and
+Plato, in connection with the geometrical treatment of quadratic
+equations as given by Euclid. Quadratic equations connect even
+more directly with the application of areas, of Pythagorean origin,
+which is extensively treated by Euclid.
+
+Some two centuries after the period of Diophantus, Eryabhata
+one of the earliest Hindu mathematicians of prominence, was born
+(476 Α.1).). In the work of ,ſs—Xryabhata as presented by Rodet³
+we find the solution of a quadratic equation assumed in the rule
+for finding the number of terms of an arithmetic series when the
+sum, difference‚ and first term are given. Nor does Kryabhata
+in India stand alone in the study of analysis, as Diophantus
+does in Greece. Brahmagupta of Ujjain, the centre of Indian
+learning, wrote on algebra in the early part of the seventh century
+and gave a rule4 for the solution of quadratic equations:
+
+“To the absolute number multiplied by the [coefficient of the] square, add the
+square of half the [coefficient os the] unknown, the square root of the sum, less half
+
+the [coefficient of the] unknown, being divided by the [coefficient of the] square, is
+the unknown.”
+
+In formula this corresponds to the solution
+
+x: Γ (bs2)2÷ac-bs2
+a
+
+ 
+
+¹ Das Mathevmtzkcr-hersen-lnam im Fila—ist des lbn Abi Ja‘kub an-Nadim. translated
+by H. Suter, xlbffizndl. ¹:- Gescln'clzte der Matlmnatzk, Vol. 6 (Leipzig, 1892), p. 22. and
+note, pp. 54-55. Suter holds that there is some error in the text, and this seems probable.
+
+² Genhichte, Vol. I (3). pp. 362-363.
+
+3 Lesons dc Calcul d‘Akvablmta, Journal Asiatique‚ seventh series, Vol. XIII (1879),
+ΡΡ· 393-434-
+
+¹¹ Colebrooke. Algebra, with Arithmett'c and lllftlslcration, from the Sanskrit of Brak-
+mezgrupta and Blm'scara (London. 1817), p. 3472 Cantor, I (3), p. 625.
+

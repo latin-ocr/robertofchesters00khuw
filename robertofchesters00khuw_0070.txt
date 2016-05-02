@@ -1,0 +1,42 @@
+48 INTRODUCTION
+
+The inheritance problems occupy a large part of the original
+work; the inclusion of one of these problems here will perhaps not
+be 3111155. Only the first of the problems is given since the follow-
+ing problems are of the same general nature, involving other legal
+
+peculiarities.
+
+“A man dies, leaving two sons behind him, and bequeathing one-third of his
+capital to a stranger. He leaves ten (1111161115 of property and a claim of ten dirhems
+
+upon one of the sons.
+“ Computation : You call the sum which is taken out os the debt thing. Add this
+
+to the capital which is ten dirhems. The sum 15 ten and thing. Subtract one-third
+of this, since he has bequeathed one-third of his property, that 15, three dirhems and
+one-third of thing. The remainder 15 six (1111161115 (and two-thirds) and two-thirds
+of thing. Divide this between the two sons. The portion of each of thern is three
+(1111161115 and one-third plus one-third of thing. This 15 equal to the thing which was
+sought for. Reduce it⁷ by removing one-third from thing, on account of the other
+third of thing. There remain two—thirds of thing, equal to three (1111161115 and one-
+third. It 15 then only required that you complete the thing, by adding to it as much
+35 one-half of the same; accordingly, you add to three and one-third 35 11111611 as
+one-half of thern: This gives five (1111161115, which is the thing that 15 taken out of
+the debts.¹⁷
+
+The legal point involved in the problern given 15 that a son who
+owes to the estate of his father an amount greater than the son’s
+portion of the estate, retains, in any event, the whole sum which he
+owes. Part 15 regarded as 1115 511316 of the estate, and the re-
+mainder 35 a gift from the father. The above problem would have
+given exactly the 531116 numerical results for any debt from five
+(111-1161115 up; however, if there were a claim of four 61111161115 against
+one of the sons, instead of ten, the debtor son would have received
+in 63511 ξ of one (111-116111, the other son four and ξ 61111161115, and the
+stranger four and ξ (1111161115.
+
+111 algebraical symbolism, the equation 15 ξ (Io-l-x) = 2x
+whence x = 5; lo -i— xis the total estate left, and x 15 the share
+of each son.
+
