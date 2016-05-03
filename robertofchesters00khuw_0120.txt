@@ -1,0 +1,67 @@
+90 LIBER ALGEBRAE ET ALMUCABOLA
+
+1 oppositionis in sex capitibus, quae in principio huius libri praemisimus, contineri.
+N unc porro, quomodo res vel radices, quando vel solae vel cum illis numeri fuerint,
+aut quando ex eis numeri extracti, seu cum ipsae ex numeris extractae suerint, ad
+inuicem multiplicentur, vel quomodo ad inuicem iungantur, vel ex aliis dimi-
+
+5 nuantur, deinceps dicendum est.
+
+In primis ergo sciendum est, quod numerus cum numero multiplicari non possit,
+nisi cum numerus multiplicandus toties sumatur, quoties in numero cum quo
+ipse multiplicatur, vnitas reperitur. Cum ergo nodi numerorum et cum illis
+aliquot vnitates propositae fuerint, aut si vnitates ab illis subtractae fuerint, tunc
+
+10 multiplicatio quater repetenda erit; hoc est nodi primo cum nodis, vnitates deinde
+cum nodis, et nodi cum vnitatibus, ac tandem vnitates cum vnitatibus multipli-
+candae erunt. Cum itaque vnitates quae cum nodis pronunciantur, omnes
+adiectae siue omnes diminutae fuerint, quarta multiplicatio erit addenda. Quod
+si quaedam earum fuerint adiectae, quaedam vero diminutae3 quarta multipli-
+
+15 catio erit minuenda.
+
+Similitudo talis est, 10 et duo cum 10 et vno multiplicanda sunt. Multiplica
+ergo 10 cum 10, et producuntur 1003 deinde 2 cum 10, et procreantur 20 addenda.
+Similiter 10 cum vno, et procreantur 10 addenda, et duo cum vnitate, et produ-
+cuntur 2 addenda. Tota igitur huius multiplicationis summa in 132 terminatur.
+
+20 Et hoc est quod diximus, quando vnitates quae cum nodis pronunciantur, omnes
+fuerint adiectae.
+
+At quando 10 sine 2 cum 10 sine vno multiplicare volueris, dicas 10 cum 10
+generant 100, et duo diminuta cum 10 procreant 20 diminuenda. Item 10 cum
+vno procreant 10 diminuta. Hoc autem totum 70 complectitur. Sed duo di-
+
+25 minuta cum vno diminuto, duo procreant addenda. Tota ergo haec summa in 72
+terminatur. Et hoc est quod diximus, quando omnes diminutae fuerint.
+
+Si autem 10 et 2 cum 10 sine vno multiplicare volueris: dicas 10 cum 10 100,
+
+ 
+
+1. capitulo D. 19. 132 creantur D. C add.: vt sequeus
+2. Nunc ergo dicendum (addendum D) est. habet calculus. 10 et 2
+id est radices quando sole fuerint uel quando cum. cum 10 et 1 multiplicata
+3. uel pro aut V. numeros extraxerint. 100 20
+quando pro cum. 10 1
+4. et qualiter adinuicern iungantur, et qualiter producunt 132
+quidam (qui D) ex aliis diminuantur pro vell. . . 20. qui.
+est. 22. 10 sine uno in 10 sine uno (4- in 10 sine
+6. est om. V. quam. in numerum. uno V).
+7. cum¹ om. duplicandusD. tociensdupli- 23-25. et unum diminutum in 10 deductum,
+cetur quociens. in (om. D) quem. 10 procreant diminutiua. Item unum diminu-
+8. multiplicatio D. modi D saepius ; C add. : tum (diminutiuum D) in 10 deductum, 10 generat
+seu incerta et obscura cognitio. diminutiua. Hoc ergo totum 80 (31, et 80 C
+10—12. id est nodos in (-†- prima D) nodis et uni< sed dcl.) amplectitur. Sed et unum diminutum
+tates in nodis (om⁴ D) et iterum unitates in nodis in uno diminutiuo unum procreant adiectiuurn.
+et unitates cum unitatibus. Cum ergo. 26. C mid..- vt sequitur,
+13. adiectiuus pro adiectus siue addendus cl 10 sine 2
+saepius. sua pro siue D. diminutiuus pro cum 10 sine 1 multipli.
+diminutus siue diminuendus et saepius. 100 mi. 20
+14. alie V; alia D pro quaedam2. multiplico mi. 10
+V; multiplicato D. Summa prod. 70
+16—19. Dicam ergo 10 in ιο, 100 procreant, et plus 1
+unum in 10, 10 generat adiectiua et 2 in 10, 20 pro< 71
+
+creant adiectiua. et duo in 1 duo generant adiectiua. 27. ducas pro Dicas D. fiunt 100 V.
+

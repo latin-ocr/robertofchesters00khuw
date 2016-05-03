@@ -1,0 +1,54 @@
+ADDITIONS TO THE ALGEBRA 155
+
+Rule. Let x represent the one quantity, and say, since the lesser quan-
+tity divided by the greater gives one-half of the greater, that consequently
+the lesser multiplied by one-hali of the greater gives the greater quantity.
+But two times one-half of the greater quantity gives also the greater quan-
+tity. Therefore 2 is the value of the lesser quantity, and 4 is the greater.
+
+F ourteentlz question
+
+Ι divided 10 into two parts, and Ι multiplied one by the other and divided
+the product by the difference between the two, obtaining 5} as the result.
+The question is, what are the parts? The answer is 3 and 7.
+
+Rule. Multiply x by 10 — x, giving 10x —- x²3 then divide 10x — x²
+by 10 — 2 x, which is the difference between the parts, and 5} is obtained.
+Now, on the other hand, if you multiply 5} by 10 — 2 x, you will obtain
+10 x - x2. Hence multiply 5} by 10 — 2 x, which gives 52} units — 10} x,
+all of which is equal to 10 x — x2. Observe, then, that by restoring to the
+10 x and to the units (the quantities, x² and 10} x respectively, which are
+subtracted from them) 20} x. is equal to 52} units 4- x2. Operate there-
+fore by the chapter in which squares and numbers are equal to roots, multi-
+plying the half of the roots by itself, and there will result 10 51¹5, etc.
+
+F isteentlz question
+
+Four roots ot a square multiplied by five roots of the same square give
+double the square and 36. The question is as to the square. The answer
+in accordance with the rule is 2.
+
+Rule. Multiply 4 x by 5x, giving 20 x2, which equals 2 x² -†- 36 units.
+Hence divide 36 by 18, giving 2 as the result. And this amount is the square,
+which may be tested.
+
+Sixteentlz question
+
+Ι subtracted from a quantity one-third of it and three unitsy then Ι
+multiplied the remainder by itself, restoring the quantity itself by this
+multiplicatiori. The question is, how great is the quantity? The answer
+in accordance with the rule is 9.
+
+Rule. Subtracting ὲ x ἦ- 3 (units) from ἐκ, there remain ξ x — 3 units,
+which is the root of the quantity (x.) Therefore multiply {x — 3 units by
+itself, giving 244,- x² 4- 9 units — 4 x, and that is equal to the root (x). Hence
+ξ x² ψ 9 units equals 5 x. You reduce the ξ to a whole square by multiply-
+ing it, and also the units and the 5 x, by ἢ, and you will find that x² 4- 2οὲ
+units is equal to 11} x. operate then by the chapter in which squares and
+numbers are equal to roots. Taking the half of the roots, 55, and multiply-
+ing it by itself‚ you have 3134} : from this subtract 20}‚ there remains 1 1}{, of
+which the root is 3} Add this to the half of the roots, since by subtraction
+
+you will not arrive at the desired result, and 9 appears as the quantity
+which you seek. ’
+

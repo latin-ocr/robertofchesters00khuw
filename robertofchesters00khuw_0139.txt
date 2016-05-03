@@ -1,0 +1,59 @@
+THE BOOK OF ALGEBRA AND ALMUCABOLA 109
+
+Explanation. You multiply 10 - x by itself, giving 100 and x² less
+20 x. Then multiply x by itself, giving x2. Collecting the products of
+these two multiplications you obtain 100 and 236-Ἇ less 20x equal to 58.
+Complete the 100 plus 2οε2 less 20x by adding the 20x to 58. This gives
+100 units -÷- 2x² equal to 58 units and 20x. Now you reduce this to one
+square, and then by oppositionl you take 29 from 50, leaving 21 ÷ x² equal
+to 10x. Therefore you halve the roots, giving 5. Multiply this by itself,
+giving 25. From this you subtract 21 and 4 is left. Take the root of this,
+2, and subtract it from 5, i.e. from the half of the roots. This gives 3 which
+represents. of course, one part of ten. So this problem has led you to the
+fifth of the six Chapters in which we treated the type, a square and num-
+bers equal to roots.
+
+Sixtlz problem, illustrating tlte sixth chapter
+
+I multiply ἐκ and {x in such a way as to give x itself plus 24 units.²
+
+Explanation: first you observe that when you multiply {x by {x you
+obtain ὲ of ὲχῗ equal to x ἢ» 24 units. The multiplication of ὲ of ὲχῗ by 12
+gives the complete square. Similarly, the multiplication of x 4— 24 units
+gives 12x ÷ 2883 which equal x2. Therefore take one-half of the roots and
+multiply the half by itself. Add the product of this multiplicatiori to 288,
+giving 324. Take now the root of this, i.e. 18, and add it to the half of the
+roots. The root finally is 24. So this problem has led you to the sixth of the
+six chapters in which we treated the type, roots and numbers equal to a
+square.4
+
+errEEN ADDITIONAL PROBLEMs⁵
+
+It now remains for us to treat sixteen other problems which seem to arise
+out of the six which we have set forth, in order that the craftsman versed
+in this art may more easily and without any error solve any problem
+proposed.⁶
+
+¹ This operation corresponds to the Arabic term al muqabala. In this instance the 29 on the
+right balances or cancels an equal amount of the 50 on the left.
+
+2}x.}x =x ÷24; x² = 12x ÷2883 {of 12 is 6,62 =36‚ 288 436 =324, 4332 = 18,
+18 -ι- 6 = 24, which is the value of the unknown.
+
+³ Evidently Robert of Chester wrote the word for two-hundred out in full, or in Roman nu-
+merals, and the 88 in Hindu-Arabic numerals, for both the Dresden and Scheybl versions use this
+form, separating the two-hundred from the 88.
+
+⁴ The above six problems appear in this order in all of the versions.
+
+The terminology of the fourth and sixth problems is the same in the Arabic text, although
+Rosen, op. crit„ pp. 38, 40 translates differently the same expression: ‘⁴ I have multiplied one-
+third of thing and one dirhem by one-fourth of thing . . . ''; ¹⁸ Ι have multiplied one-third of
+a root by one-fourth of a root . . .'’ The Libri text has census in both problems, and the
+Boncompagni text has multitudo ,² the Arabic word is mal with the meaning—(footnote 1, p. 107)
+“unknown quantity.''
+
+⁵ Ι have added this title to correspond to the Arabic (Rosen, op. cit„ p. 41).
+
+⁶ This paragraph is an addition by Robert of Chester.
+
