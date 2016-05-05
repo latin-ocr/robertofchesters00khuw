@@ -1,0 +1,52 @@
+ADDITIONS To THE ALGEBRA 153
+
+ter in which a square and numbers are equal to roots. Multiplying one-
+half of the roots by itself you have 2 53 from this subtract 24 and there re-
+mains one, of which the root is one. Subtract this root frorn the half of the
+number of the roots, and four remains as the value of one part. Now note
+that when the quotient obtained by dividing the first part by the second
+part of any whole is multiplied by the quotient of the second part by the
+first, that which is obtained is always the same.
+
+Eleventlz question
+
+I divided ten into two parts and Ι multiplied one of these by five⁷ and the
+product Ι divided by the other part; one-half of this result I added to the
+product of the first part multiplied by 5, and the sum total was fifty. The
+question is stated. The answer in accordance with the rule is 8 and 2.
+
+Rule. You may take x as one part of 5; this you wil] multiply by 10,
+giving 5x. You should divide 5x by 10— x, and add ὲ of the quotient
+to 5 x. But this is the same as if you should divide ὲ of 5 x by 10— x
+and add the total result to 5 ,ιη either operation gives 50. If therefore you
+divide 2ss x by 10 — x, 50 — 5 x is obtained, since when 5 x was added to the
+quotient, the sum was given as 50. Moreover it should be evident that the
+product of the result of any division multiplied by the divisor gives your
+quantity (the dividend), which is 2} x. Therefore multiply 10 - x by
+50— 5 x, obtaining 500-4— 5 x2— 100 x, all of which is equal to 2} x. Re-
+duce the whole then to one square by taking the fifth part of the whole, and
+it will be clear that 100 -l- .r² — 20 x equals ὲ x. By restoration then say that
+100 -†— -r2 equals 20 x and ὲ x. Operate then by the chapter in which
+squares and numbers are equal to roots. Multiplying one-half of the roots
+by itself, 105 and 1¹6 is obtained; from this you subtract 100, leaving 51¹5,
+of which the root is ἡ, and this being subtracted from one-half of the roots
+8 remains as the value of one part.
+
+T welf tlz question
+
+I divided 10 into two parts, and the product of one of these parts by itself
+contained the other part 81 times. The question is as to the parts. The
+answer in accordance with the rule is 9 and 1.
+
+Rule. Multiply 10 — x by itself, giving 100 4- x² — 20 x, which is
+equal to 81 x. Then by restoration. say that 100 ÷ ,272 equals to 101 x.
+Operate now by the chapter in which squares and numbers are equal to
+roots, and unity will finally appear as the value of one part.
+
+leirteentlz question
+
+There are two quantities of which the greater exceeds the less by two.
+I divided the greater by the less and the quotient was one-half the greater
+quantity. The question is stated. The answer in accordance with the
+rule is 2, for the smaller quantity, and 4 for the larger.
+
